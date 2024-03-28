@@ -1,0 +1,9 @@
+root:x:
+bin:x
+/bin/bash
+/usr/sbin
+root:x:0:0:root
+mysql:x
+www-data
+root:x:0:0:root:
+syslog

