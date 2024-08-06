@@ -1,3 +1,4 @@
+app/config/config.local.neon
 .ftpconfig
 /__/firebase/init.json
 /_wpeprivate/config.json
