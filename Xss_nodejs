@@ -8,3 +8,34 @@
 <div style={`font-family: ${Math.random().toString(36).substr(2, 10) + '-webfont'}`}>XSS</div>
 <div style={`display: grid; grid-template-columns: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
 <div style={`transform: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
+
+
+- Dynamic CSS injection
+<div style={`background-color: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
+
+- CSS Variable injection
+<div style={`--var: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
+
+- Object Literal injection
+<div style={`position: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
+
+- CSS Flexbox injection
+<div style={`display: flex; justify-content: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
+
+- Unicode Character injection
+<div style={`font-family: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
+
+- Dynamic Font injection
+<div style={`font-family: ${Math.random().toString(36).substr(2, 10) + 'px'}`}>XSS</div>
+
+- CSS Animation injection
+<div style={`animation: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
+
+- Web Font injection
+<div style={`font-family: ${Math.random().toString(36).substr(2, 10) + '-webfont'}`}>XSS</div>
+
+- CSS Grid injection
+<div style={`display: grid; grid-template-columns: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
+
+- CSS Transform injection
+<div style={`transform: ${Math.random().toString(36).substr(2, 10)}`}>XSS</div>
