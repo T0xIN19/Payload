@@ -28,4 +28,48 @@ Try : echo site.com | waybackurls | grep token= | httpx -mc -ct 200,302,301
 
 ------------------------------------------------------------------------------------------------------
 
+3 - > Recon with waymore
+
+1- open wayback machine 
+2- search on "=http"
+3- i found open redirect vulnérability
+test,example,com/redirect/?testURL=
+4- add javascript​:alert(1)
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+ 4 - > How I Found a Local File Inclusion (LFI) Vulnerability 🚀
+
+🔍 Step 1: Identifying the Target
+While testing the endpoint /linnaeus_ng/shared/tools/remote_service.php, I noticed it was accepting POST requests. This hinted at potential file handling.
+
+
+🛠 Step 2: Crafting the Payload
+I modified the request to include:
+
+url=file:///etc/passwd
+
+This is a common LFI payload that attempts to read system files.
+
+
+📡 Step 3: Sending the Request
+I sent the request using Burp Suite, ensuring the payload was properly encoded.
+
+
+📜 Step 4: Analyzing the Response
+Got a 200 OK response with the contents of /etc/passwd:
+
+root:x:0:0:root:/root:/bin/bash 
+
+This confirmed LFI! 🚀
+
+🔥 Step 5: Exploitation & Next Steps
+
+Tried fetching other sensitive files like config.php.
+
+--------------------------------------------------------------------------------------------------------------
+
+
 
