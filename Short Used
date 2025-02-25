@@ -1,4 +1,4 @@
-🔍Weekly subdomain monitoring: 13 new subs
+1 - Weekly subdomain monitoring: 13 new subs
 
 subfinder -d domain.com > date1_subs_domain.com
 subfinder -d domain.com > date2_subs_domain.com
@@ -9,5 +9,23 @@ grep -Fxv -f date1_subs_domain.com date2_subs_domain.com > newsubs
 
 
 -----------------------------------------------------------------------------------------------------
+
+
+2 - Information disclosure via JWT tokens has been identified and rewarded 
+
+Method:
+
+1. Visit the specified URL: https://lnkd.in/dGcxDjFX
+
+2. Look for keywords such as token=, key=, eyJ, etc.
+
+3. URLs with parameters will often redirect to specific locations containing the JWT token directly.
+
+4. Decode the token using jwt.io. 
+
+
+Try : echo site.com | waybackurls | grep token= | httpx -mc -ct 200,302,301
+
+------------------------------------------------------------------------------------------------------
 
 
