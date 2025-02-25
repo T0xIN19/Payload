@@ -1,0 +1,13 @@
+🔍Weekly subdomain monitoring: 13 new subs
+
+subfinder -d domain.com > date1_subs_domain.com
+subfinder -d domain.com > date2_subs_domain.com
+
+grep -Fxv -f date1_subs_domain.com date2_subs_domain.com > newsubs
+
+✅New subs > New areas to test > New bugs
+
+
+-----------------------------------------------------------------------------------------------------
+
+
