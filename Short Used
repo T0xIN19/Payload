@@ -87,6 +87,58 @@ extract databases using sqlmap
 
 ------------------------------------------------------------------------------------------------------------
 
+site:domain.com inurl:keyword1here inurl:keyword2here .......
+
+Make your own custom dorks using combinations of keywords below
+
+🤑Keywords for OpenRedirect Urls
+#set1
+redir
+redirect
+redirect_uri
+redirect_url
+uri
+url
+next
+out
+to
+forward
+view
+
+#set2
+oauth
+auth
+client
+response
+code
+sso
+authorize
+token
+secret
+type
+
+#set3
+v1
+v2
+v3
+v4
+2F (2F means /)
+3A (3A means :)
+
+http:// ->  http3A2F2F😎
+
+#set4
+login
+identity
+iam
+oidc
+saml
+
+
+waymore -i domain.com  -mode U -oU waymore_domain.com
+cat waymore_domain.com | grep "=http" | sort -u | uro > testurls.txt
+
+
 
 
 
