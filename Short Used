@@ -1,3 +1,11 @@
+In pentests, for BFLA (broken function level authorization) testing, you can often try using X-HTTP-Method-Override.
+
+For example, a normal user can retrieve objects, but only admins can delete.
+
+1. As a normal user, send a GET with X-HTTP-Method-Override: DELETE. 
+2. If misconfigured, the backend performs the DELETE.
+
+--------------------------------------------------------
 1 - Weekly subdomain monitoring: 13 new subs
 
 subfinder -d domain.com > date1_subs_domain.com
