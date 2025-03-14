@@ -1,3 +1,4 @@
 /\github.com
 \/github.com
 /redirect?url=http://target[.]com%00http://evil[.]com
+/%5C%5Cevil[.]com/%252e%252e
